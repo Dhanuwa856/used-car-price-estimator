@@ -1,0 +1,2801 @@
+Brand,model,kmDriven,Transmission,Owner,FuelType,Car_Age
+Maruti Suzuki,Swift,50000.0,Automatic,second,Petrol,7
+Datsun,GO,34000.0,Manual,first,Petrol,7
+Maruti Suzuki,Swift,44000.0,Manual,second,hybrid,4
+Hyundai,Santro Xing,70000.0,Automatic,first,Hybrid/CNG,15
+Toyota,Fortuner,60000.0,Manual,first,Diesel,6
+Hyundai,i10,79000.0,Manual,first,Petrol,11
+Volvo,XC60,94000.0,Automatic,first,Diesel,6
+Tata,Tiago,3500.0,Automatic,first,Hybrid/CNG,2
+Honda,City,74000.0,Automatic,second,Petrol,10
+Datsun,GO,43000.0,Manual,first,Petrol,8
+Maruti Suzuki,Wagon-R,70800.0,Manual,second,hybrid,11
+Maruti Suzuki,Ritz,66000.0,Manual,second,Petrol,11
+Toyota,Corolla Altis,81000.0,Automatic,second,hybrid,15
+Maruti Suzuki,Swift,44000.0,Manual,first,Diesel,8
+Hyundai,Eon,50000.0,Manual,first,Petrol,8
+Maruti Suzuki,Celerio,53000.0,Automatic,second,hybrid,8
+Mercedes-Benz,M-Class,123000.0,Automatic,second,Diesel,13
+Maruti Suzuki,Wagon-R,73860.0,Automatic,second,Hybrid/CNG,10
+BMW,5 Series,24000.0,Automatic,first,Petrol,8
+Maruti Suzuki,Baleno,46000.0,Automatic,first,Petrol,7
+Hyundai,Grand i10,90000.0,Manual,first,Hybrid/CNG,10
+Hyundai,Grand i10 Nios,98000.0,Manual,first,hybrid,14
+Volkswagen,Polo GTI,105000.0,Automatic,second,Petrol,11
+Volkswagen,Tiguan,1.0,Automatic,first,Petrol,2
+Honda,Brio,89000.0,Manual,second,Hybrid/CNG,11
+Mahindra,Scorpio N,55000.0,Automatic,first,Diesel,10
+Toyota,Innova,295000.0,Manual,first,Diesel,11
+Jeep,Meridian,86000.0,Automatic,second,Diesel,20
+Maruti Suzuki,Swift-Dzire,31000.0,Automatic,first,hybrid,2
+Toyota,Fortuner,180000.0,Manual,second,Diesel,13
+Mahindra,Marazzo,72045.0,Manual,first,Diesel,6
+Volkswagen,Virtus,20000.0,Automatic,second,Petrol,3
+Honda,Jazz,59000.0,Automatic,second,hybrid,7
+Maruti Suzuki,Wagon-R,32393.0,Manual,first,hybrid,8
+Toyota,Corolla Altis,79000.0,Manual,second,hybrid,13
+Mahindra,XUV500,15000.0,Manual,first,Diesel,8
+Ford,Figo,48000.0,Manual,second,Petrol,16
+Maruti Suzuki,Ciaz,93500.0,Automatic,first,Hybrid/CNG,8
+Volkswagen,VentoTest,58000.0,Automatic,first,Diesel,12
+Maruti Suzuki,Swift,8235.0,Manual,first,Petrol,3
+Mahindra,XUV500,57000.0,Automatic,second,Diesel,10
+Toyota,2.8 Legender 4X2,82000.0,Automatic,second,Diesel,7
+Tata,Altroz,30618.0,Manual,first,Diesel,4
+Ford,Aspire,47000.0,Manual,first,Diesel,8
+BMW,7 Series,24000.0,Automatic,second,Diesel,9
+Mahindra,XUV 300,12000.0,Manual,first,Petrol,4
+Tata,Safari Storme,125000.0,Manual,second,Diesel,13
+BMW,5 Series,90000.0,Automatic,second,Diesel,12
+BMW,3 Series GT,31000.0,Automatic,first,Diesel,7
+Maruti Suzuki,Swift Dzire,16000.0,Automatic,first,Diesel,7
+Maruti Suzuki,Swift-Dzire,58000.0,Automatic,first,Hybrid/CNG,8
+Maruti Suzuki,Ertiga,81000.0,Manual,second,Diesel,9
+Maruti Suzuki,Swift,80000.0,Manual,first,Hybrid/CNG,13
+Honda,City,71000.0,Automatic,first,Petrol,10
+Honda,City,140000.0,Automatic,second,hybrid,16
+Hyundai,Xcent,72000.0,Manual,second,Petrol,11
+Maruti Suzuki,Eeco,300000.0,Automatic,first,hybrid,9
+Maruti Suzuki,Celerio,72000.0,Automatic,second,hybrid,7
+Tata,Nexon,10500.0,Manual,first,Petrol,5
+Mercedes-Benz,M-Class,90000.0,Automatic,second,Diesel,14
+Hyundai,Creta,42000.0,Automatic,second,Petrol,9
+Maruti Suzuki,Wagon-R,87000.0,Manual,second,Petrol,19
+BMW,X1,55231.0,Automatic,second,Diesel,10
+Maruti Suzuki,Ertiga,97000.0,Automatic,second,Diesel,10
+Maruti Suzuki,Alto-800,75200.0,Manual,second,Petrol,16
+Hyundai,i10,60000.0,Manual,second,Petrol,15
+Hyundai,Aura,44000.0,Manual,first,hybrid,4
+Toyota,Etios Liva,22000.0,Manual,first,Petrol,7
+Maruti Suzuki,Wagon-R,79000.0,Manual,first,Petrol,10
+Jeep,Compass,49000.0,Automatic,first,Petrol,9
+Mahindra,Thar,24500.0,Automatic,first,Petrol,3
+Maruti Suzuki,Wagon-R,44000.0,Automatic,first,Hybrid/CNG,7
+Honda,City,68000.0,Manual,first,Petrol,9
+Honda,Jazz,51000.0,Automatic,first,Petrol,8
+Mahindra,Scorpio,74000.0,Manual,first,Diesel,6
+Jaguar,XJ,80250.0,Automatic,second,Petrol,11
+Renault,KWID,47000.0,Automatic,first,Petrol,6
+Ford,Figo,85000.0,Manual,second,Diesel,14
+Honda,Mobilio,69000.0,Manual,first,Diesel,11
+Maruti Suzuki,Swift-Dzire,9850.0,Manual,first,Petrol,4
+Mahindra,Thar,11000.0,Automatic,second,Petrol,4
+Maruti Suzuki,Ciaz,75307.0,Manual,second,Petrol,8
+Volkswagen,VentoTest,118000.0,Automatic,first,Diesel,10
+Renault,KWID,69000.0,Manual,second,Hybrid/CNG,10
+Honda,City,68000.0,Automatic,first,hybrid,17
+Renault,Pulse,88300.0,Manual,first,Diesel,14
+Mercedes-Benz,E-Class,81000.0,Automatic,first,Diesel,16
+Porsche,Cayenne,70000.0,Automatic,first,Diesel,8
+Maruti Suzuki,Swift,43268.0,Manual,second,Petrol,4
+Maruti Suzuki,Omni,50000.0,Automatic,first,Hybrid/CNG,8
+Jeep,Compass,40500.0,Manual,first,Petrol,7
+Mahindra,XUV500,83000.0,Manual,first,Diesel,11
+Hyundai,Grand i10,68000.0,Manual,first,hybrid,8
+Mahindra,Thar,10000.0,Manual,first,Diesel,7
+Renault,KWID,65663.0,Automatic,second,Petrol,9
+Maruti Suzuki,Swift-Dzire,70927.0,Manual,second,Petrol,12
+Maruti Suzuki,Swift,61000.0,Manual,first,Petrol,10
+Mahindra,Bolero,148000.0,Manual,second,Diesel,13
+Maruti Suzuki,Ertiga,320000.0,Manual,second,Hybrid/CNG,4
+Hyundai,Creta,139000.0,Manual,first,Diesel,11
+Honda,Mobilio,115037.0,Automatic,second,hybrid,10
+Toyota,Innova Hycross,29000.0,Automatic,first,hybrid,3
+Hyundai,Venue,53000.0,Manual,second,Petrol,4
+Land Rover,Discovery Sport,51000.0,Automatic,first,Diesel,7
+Volkswagen,Polo,47000.0,Automatic,second,Petrol,6
+Hyundai,Creta,72300.0,Manual,first,Diesel,10
+Ford,Endeavour,87000.0,Automatic,second,Diesel,9
+Hyundai,Aura,59000.0,Automatic,first,Hybrid/CNG,4
+Maruti Suzuki,Ertiga,50000.0,Manual,first,Diesel,10
+Maruti Suzuki,Swift-Dzire-Tour,30.0,Automatic,second,hybrid,8
+Volkswagen,VentoTest,76555.0,Automatic,first,Petrol,9
+Hyundai,Santro Xing,65000.0,Manual,second,hybrid,14
+Maruti Suzuki,Omni,110000.0,Manual,second,Petrol,17
+Mercedes-Benz,GLE COUPE,32000.0,Automatic,second,Petrol,5
+Hyundai,i10,65000.0,Automatic,second,hybrid,17
+Maruti Suzuki,Omni,60000.0,Manual,second,Hybrid/CNG,19
+Ford,Ecosport,95000.0,Manual,second,Diesel,12
+Mahindra,Bolero,20.0,Automatic,second,Diesel,16
+Hyundai,Santro Xing,100000.0,Automatic,second,hybrid,12
+Hyundai,New Elantra,63000.0,Manual,second,Hybrid/CNG,13
+Maruti Suzuki,Alto,65000.0,Automatic,second,hybrid,13
+Hyundai,Grand i10,52000.0,Manual,second,hybrid,10
+Maruti Suzuki,800,25.0,Automatic,second,hybrid,12
+Maruti Suzuki,Ignis,55000.0,Automatic,second,hybrid,9
+Hyundai,i20,80000.0,Manual,first,Petrol,7
+Maruti Suzuki,Alto-800,45000.0,Manual,first,hybrid,7
+Honda,Amaze,57000.0,Manual,second,Petrol,5
+Hyundai,i20,38000.0,Automatic,first,Petrol,12
+Ford,Fiesta,125000.0,Manual,second,Petrol,19
+Renault,Triber,43000.0,Manual,first,Petrol,7
+Jaguar,XJ,92000.0,Automatic,second,Diesel,11
+Hyundai,Santro Xing,119000.0,Manual,second,Petrol,19
+Hyundai,Grand i10,53000.0,Automatic,first,hybrid,11
+Maruti Suzuki,Ertiga,75000.0,Manual,second,Diesel,9
+Maruti Suzuki,S-Cross,81000.0,Manual,first,Diesel,11
+Toyota,Innova Hycross,18500.0,Automatic,first,hybrid,3
+Maruti Suzuki,Wagon-R,75000.0,Manual,first,Hybrid/CNG,16
+Maruti Suzuki,Alto-800,96000.0,Manual,second,hybrid,13
+Maruti Suzuki,Baleno,54000.0,Manual,first,Diesel,8
+Volvo,S60 Cross Country,100000.0,Automatic,first,Diesel,8
+Hyundai,Grand i10,62000.0,Automatic,first,Petrol,10
+Maruti Suzuki,Wagon-R,80000.0,Automatic,first,hybrid,6
+Ford,Figo,155000.0,Automatic,second,Petrol,16
+Hyundai,i20,30000.0,Manual,second,Petrol,9
+Hyundai,i10,63000.0,Manual,first,Petrol,13
+Renault,KWID,50588.0,Manual,second,Petrol,10
+Maruti Suzuki,Swift-Dzire-Tour,89000.0,Automatic,first,hybrid,4
+Maruti Suzuki,Alto-800,46000.0,Manual,second,Petrol,10
+Hyundai,i10,68000.0,Manual,second,Petrol,15
+Hyundai,i10,74000.0,Automatic,first,Hybrid/CNG,14
+Tata,Nexon,34000.0,Automatic,first,Petrol,7
+Mahindra,Scorpio-N,24000.0,Automatic,first,Diesel,3
+Mahindra,XUV500,81000.0,Manual,first,Diesel,10
+Mercedes-Benz,GLC,30000.0,Automatic,second,Diesel,7
+Datsun,GO,70000.0,Automatic,second,Petrol,7
+Audi,Q7,40000.0,Automatic,first,Diesel,8
+Mahindra,XUV500,68000.0,Manual,first,Diesel,11
+Maruti Suzuki,Swift-Dzire,130000.0,Manual,first,Petrol,8
+Maruti Suzuki,Swift,90000.0,Manual,second,Diesel,12
+Hyundai,Getz,78580.0,Manual,first,hybrid,21
+Toyota,Fortuner,48000.0,Automatic,second,Diesel,5
+Datsun,Redi Go,53000.0,Manual,second,Hybrid/CNG,10
+Maruti Suzuki,Wagon-R-1-0,35.0,Automatic,second,Hybrid/CNG,7
+Hyundai,Creta,78000.0,Manual,second,Petrol,10
+Honda,Amaze,75600.0,Manual,first,Petrol,9
+Jeep,Wrangler,8000.0,Automatic,first,Petrol,3
+Maruti Suzuki,Ciaz,124000.0,Manual,first,Petrol,14
+Audi,A6,88000.0,Automatic,second,Diesel,13
+Maruti Suzuki,Wagon-R-1-0,65000.0,Manual,second,Hybrid/CNG,12
+Honda,City,96000.0,Automatic,second,Hybrid/CNG,16
+Audi,A8 L,50000.0,Automatic,first,Diesel,12
+Toyota,Innova Crysta,46000.0,Automatic,second,Diesel,9
+Hyundai,Creta,52000.0,Manual,second,Diesel,10
+Maruti Suzuki,Omni,123456.0,Manual,first,hybrid,11
+Honda,City,80000.0,Manual,second,Diesel,11
+Honda,Jazz,52639.0,Automatic,first,Petrol,9
+Maruti Suzuki,Wagon-R-1-0,170000.0,Automatic,second,hybrid,14
+Hyundai,i20,63110.0,Manual,first,Diesel,4
+Hyundai,Creta,62000.0,Automatic,second,Petrol,10
+Toyota,Innova Crysta,250000.0,Automatic,first,Diesel,8
+Honda,City,30000.0,Manual,second,Petrol,16
+Hyundai,i10,104000.0,Automatic,second,hybrid,17
+Maruti Suzuki,Wagon-R,78200.0,Automatic,first,Hybrid/CNG,9
+Volvo,S90,36000.0,Automatic,first,Diesel,6
+Mercedes-Benz,A-Class Limousine,11000.0,Automatic,first,Diesel,3
+Maruti Suzuki,Ertiga,81000.0,Manual,second,Petrol,6
+Ford,Figo,36000.0,Manual,second,Petrol,10
+Maruti Suzuki,Vitara-Brezza,61000.0,Automatic,second,Diesel,7
+Volkswagen,Polo,75000.0,Manual,second,Diesel,13
+Maruti Suzuki,Zen-Estilo,80000.0,Manual,second,Petrol,16
+Toyota,Innova Crysta,28000.0,Automatic,first,Petrol,7
+Honda,City,83000.0,Manual,second,Petrol,17
+Toyota,Corolla Altis,86000.0,Automatic,first,Hybrid/CNG,10
+Mercedes-Benz,E-Class,80000.0,Automatic,second,Diesel,12
+Honda,Jazz,85000.0,Automatic,first,Hybrid/CNG,8
+BMW,X1,58000.0,Automatic,first,Diesel,9
+Maruti Suzuki,Wagon-R,77000.0,Manual,second,Hybrid/CNG,14
+Hyundai,Grand i10,35000.0,Manual,first,Petrol,9
+Tata,Nexon,98523.0,Manual,first,Diesel,8
+Mahindra,Marazzo,115000.0,Manual,second,Diesel,7
+Hyundai,Grand i10,96000.0,Automatic,first,Hybrid/CNG,14
+Maruti Suzuki,Omni,55000.0,Automatic,first,Hybrid/CNG,7
+Maruti Suzuki,Alto-K10,57862.0,Manual,second,Petrol,12
+Maruti Suzuki,Swift-Dzire,78000.0,Manual,second,Diesel,10
+Maruti Suzuki,Eeco,104000.0,Automatic,second,hybrid,15
+Tata,Nexon,76209.0,Automatic,second,Petrol,8
+Maruti Suzuki,Alto-K10,37000.0,Manual,second,Hybrid/CNG,7
+Renault,KWID,85000.0,Manual,first,Hybrid/CNG,10
+Maruti Suzuki,Omni,88000.0,Manual,second,Petrol,16
+Maruti Suzuki,maruti-suzuki-dzire,47259.0,Manual,second,Hybrid/CNG,14
+Mahindra,Thar,51222.0,Manual,second,Diesel,12
+Mercedes-Benz,C-Class,29000.0,Automatic,first,Diesel,6
+Hyundai,Grand i10,46000.0,Automatic,first,Petrol,9
+Maruti Suzuki,Ciaz,69000.0,Manual,second,hybrid,10
+Volkswagen,Virtus,50000.0,Automatic,first,Petrol,4
+Maruti Suzuki,Swift,11000.0,Automatic,first,Petrol,3
+Maruti Suzuki,Swift-Dzire,,Manual,second,Petrol,15
+Hyundai,Creta,55000.0,Automatic,first,Diesel,7
+Maruti Suzuki,Wagon R,91000.0,Manual,second,Petrol,6
+Maruti Suzuki,Ertiga,54000.0,Manual,first,Hybrid/CNG,5
+Volkswagen,Polo,150000.0,Automatic,second,Petrol,9
+Tata,Safari,132000.0,Manual,second,Diesel,17
+Ford,Ecosport,75000.0,Automatic,first,Petrol,8
+Jeep,Compass,12672.0,Automatic,first,Petrol,6
+Audi,A4,55000.0,Automatic,second,Diesel,13
+Maruti Suzuki,Celerio,37710.0,Automatic,first,Petrol,7
+Maruti Suzuki,Swift,46000.0,Manual,first,Petrol,6
+Hyundai,Verna,120000.0,Automatic,second,Diesel,14
+Land Rover,Range Rover Evoque,130000.0,Automatic,second,Petrol,9
+Volvo,V40 Cross Country,75000.0,Automatic,first,Petrol,10
+Maruti Suzuki,Eeco,114300.0,Automatic,second,hybrid,7
+Maruti Suzuki,Swift,48000.0,Manual,first,Petrol,7
+Hyundai,Grand i10 Nios,18400.0,Automatic,first,Petrol,4
+Toyota,Innova,200000.0,Manual,second,Diesel,14
+Maruti Suzuki,Alto,82000.0,Manual,second,Petrol,18
+Hyundai,Grand i10,73157.0,Automatic,second,Petrol,9
+Chevrolet,Enjoy,95000.0,Manual,second,Diesel,12
+Hyundai,Grand i10 Nios,14000.0,Manual,second,Hybrid/CNG,4
+Honda,Civic,100000.0,Automatic,second,hybrid,16
+Hyundai,Verna,100000.0,Manual,second,Diesel,13
+Kia,Seltos,28832.0,Manual,first,Petrol,7
+Maruti Suzuki,Alto,20.0,Manual,second,Petrol,15
+Hyundai,Verna,100000.0,Manual,first,Petrol,12
+Maruti Suzuki,Swift-Dzire,34260.0,Manual,second,Diesel,12
+Maruti Suzuki,Baleno,87000.0,Manual,second,Diesel,11
+Hyundai,Elite i20,47000.0,Automatic,second,Petrol,8
+Volkswagen,Jetta,175000.0,Manual,second,Diesel,14
+Mahindra,Thar,35000.0,Manual,second,Diesel,11
+Renault,KWID,67000.0,Manual,second,Petrol,9
+Maruti Suzuki,Vitara-Brezza,69500.0,Manual,second,Diesel,9
+Maruti Suzuki,Ciaz,130000.0,Automatic,second,Petrol,8
+Mahindra,Thar,14000.0,Automatic,first,Diesel,5
+Skoda,Octavia,51000.0,Automatic,first,Petrol,9
+Honda,Jazz,69000.0,Automatic,second,Petrol,10
+Maruti Suzuki,Grand Vitara,28850.0,Manual,first,Petrol,4
+Mercedes-Benz,A Class,78000.0,Automatic,first,Diesel,10
+BMW,X1,9000.0,Automatic,first,Diesel,4
+Maruti Suzuki,Swift,52000.0,Automatic,first,Petrol,6
+Maruti Suzuki,Omni,80000.0,Manual,second,Petrol,11
+Nissan,X-Trail,133000.0,Automatic,second,Diesel,15
+Maruti Suzuki,Ritz,85000.0,Manual,first,Hybrid/CNG,16
+BMW,X3,80000.0,Automatic,second,Diesel,14
+Nissan,Teana,69000.0,Automatic,second,Petrol,15
+Maruti Suzuki,Swift-Dzire-Tour,160000.0,Manual,second,Diesel,10
+Honda,City,73000.0,Automatic,second,Hybrid/CNG,17
+Maruti Suzuki,Swift-Dzire,,Manual,second,Diesel,13
+Mahindra,Thar,28500.0,Automatic,second,Petrol,5
+Hyundai,i20,78000.0,Manual,second,Petrol,15
+Hyundai,Eon,76000.0,Manual,second,Petrol,11
+Toyota,Glanza,28000.0,Automatic,first,Petrol,7
+Hyundai,Eon,24500.0,Automatic,second,Hybrid/CNG,10
+Maruti Suzuki,Swift,9000.0,Manual,second,Petrol,4
+Hyundai,Xcent,89084.0,Manual,first,Petrol,12
+Toyota,Fortuner,45000.0,Automatic,second,Diesel,7
+Hyundai,New i20,83228.0,Manual,second,Petrol,5
+Maruti Suzuki,Wagon-R,82000.0,Manual,first,Petrol,15
+Maruti Suzuki,Baleno,35000.0,Manual,first,Petrol,5
+Maruti Suzuki,Alto-800,67000.0,Manual,first,hybrid,7
+Mercedes-Benz,GLA Class,53000.0,Automatic,second,Diesel,11
+Maruti Suzuki,Wagon-R-1-0,72000.0,Manual,second,Hybrid/CNG,17
+Hyundai,Venue,18000.0,Manual,first,Diesel,13
+Mahindra,Xylo,51258.0,Manual,first,Diesel,16
+Toyota,Fortuner,91000.0,Automatic,first,Diesel,11
+Maruti Suzuki,Wagon-R,50000.0,Automatic,second,hybrid,16
+Hyundai,Xcent,68000.0,Manual,first,hybrid,9
+Maruti Suzuki,Vitara-Brezza,90000.0,Manual,second,Diesel,8
+Land Rover,Freelander 2,180650.0,Automatic,second,Diesel,11
+Maruti Suzuki,Alto,100000.0,Manual,second,Hybrid/CNG,15
+Mahindra,XUV700,23883.0,Automatic,second,Petrol,5
+Maruti Suzuki,Eeco,68000.0,Manual,first,hybrid,14
+Honda,Civic,61000.0,Automatic,second,hybrid,19
+Hyundai,Grand i10,27000.0,Manual,second,hybrid,8
+Hyundai,Creta,66651.0,Automatic,second,Diesel,7
+Maruti Suzuki,Wagon-R,31000.0,Manual,first,hybrid,3
+Maruti Suzuki,Ertiga,88231.0,Manual,first,hybrid,8
+Honda,City,174988.0,Automatic,second,Hybrid/CNG,15
+BMW,5 Series,70000.0,Automatic,second,Diesel,17
+Mercedes-Benz,GL-Class,159000.0,Automatic,second,Diesel,11
+Maruti Suzuki,Eeco,25000.0,Automatic,first,Hybrid/CNG,2
+Toyota,Innova,84000.0,Manual,second,Diesel,15
+Maruti Suzuki,Swift,95000.0,Manual,second,Diesel,16
+Ford,Ecosport,110000.0,Manual,second,Petrol,12
+Audi,A8 L,59000.0,Automatic,first,Diesel,11
+Toyota,Innova Crysta,57000.0,Automatic,first,Diesel,5
+Maruti Suzuki,maruti-suzuki-dzire,84500.0,Manual,second,Diesel,9
+Honda,City,150000.0,Manual,second,hybrid,15
+Hyundai,New Santro,71000.0,Manual,first,Hybrid/CNG,7
+Mercedes-Benz,E-Class,58000.0,Automatic,second,Diesel,15
+Volkswagen,Tiguan,110000.0,Automatic,first,Diesel,9
+Hyundai,i20,140000.0,Manual,first,Hybrid/CNG,15
+Maruti Suzuki,Vitara Brezza,94000.0,Automatic,second,Diesel,9
+Tata,Nexon,7800.0,Automatic,first,Petrol,3
+Tata,Indigo Ecs,115000.0,Manual,second,Diesel,10
+Maruti Suzuki,Swift-Dzire,50000.0,Automatic,first,hybrid,4
+Hyundai,Santro Xing,78000.0,Manual,first,Hybrid/CNG,14
+Hyundai,Alcazar,72000.0,Automatic,first,Diesel,4
+Mercedes-Benz,E-Class,56000.0,Automatic,first,Diesel,9
+Maruti Suzuki,S-Presso,,Automatic,first,Petrol,5
+Mahindra,XUV500,74000.0,Manual,first,Diesel,11
+MG,Hector,50000.0,Automatic,second,Petrol,5
+Hyundai,Xcent,15000.0,Manual,first,Petrol,6
+Maruti Suzuki,Vitara-Brezza,77500.0,Manual,second,Diesel,9
+Mercedes-Benz,GLE Class,48000.0,Automatic,second,Diesel,10
+Mercedes-Benz,GLC,39000.0,Automatic,second,Diesel,7
+BMW,X3,123872.0,Manual,first,Diesel,13
+Hyundai,Santro,110000.0,Automatic,first,hybrid,15
+Mahindra,Xylo,98000.0,Manual,second,Diesel,17
+Maruti Suzuki,Swift-Dzire,102000.0,Manual,second,Petrol,13
+Hyundai,i10,58000.0,Automatic,first,hybrid,16
+Hyundai,Santro,45000.0,Automatic,first,Hybrid/CNG,8
+Honda,Brio,90000.0,Manual,first,Petrol,14
+Honda,Amaze,11000.0,Manual,first,Petrol,6
+Nissan,Urvan,51000.0,Automatic,first,Hybrid/CNG,10
+Mahindra,Verito,220000.0,Manual,second,Diesel,14
+Ford,Endeavour,88000.0,Automatic,second,Diesel,6
+Mahindra,Bolero Power Plus,180000.0,Automatic,second,Diesel,13
+Maruti Suzuki,Swift,33000.0,Automatic,second,Petrol,3
+Maruti Suzuki,Baleno,110000.0,Automatic,first,Petrol,7
+Mercedes-Benz,E-Class,52000.0,Automatic,first,Petrol,13
+Maruti Suzuki,Eeco,100000.0,Automatic,first,hybrid,6
+Maruti Suzuki,Eeco,85360.0,Manual,second,hybrid,13
+Mercedes-Benz,GL-Class,77000.0,Automatic,second,Diesel,13
+Hyundai,Verna,77794.0,Automatic,second,Petrol,13
+Maruti Suzuki,Sx4,60000.0,Manual,second,Petrol,19
+Toyota,Corolla Altis,68000.0,Automatic,first,Hybrid/CNG,12
+Renault,Duster,98000.0,Manual,second,Diesel,12
+Maruti Suzuki,Wagon-R,85000.0,Manual,second,Petrol,22
+Land Rover,Range Rover Evoque,92000.0,Automatic,second,Diesel,13
+Tata,Harrier,73000.0,Manual,first,Diesel,7
+Maruti Suzuki,Wagon-R,53000.0,Automatic,first,Petrol,7
+Toyota,Fortuner,165000.0,Automatic,second,Diesel,8
+Maruti Suzuki,Swift-Dzire,48000.0,Manual,second,hybrid,3
+Toyota,Fortuner,60000.0,Automatic,first,Petrol,5
+Maruti Suzuki,Wagon-R-1-0,56000.0,Automatic,first,Hybrid/CNG,3
+Maruti Suzuki,Wagon-R,34000.0,Manual,first,hybrid,7
+Maruti Suzuki,Baleno,50000.0,Automatic,first,Petrol,9
+Honda,City,74000.0,Manual,second,Hybrid/CNG,10
+Maruti Suzuki,800,85000.0,Manual,second,Petrol,25
+Skoda,Rapid,70000.0,Manual,second,Petrol,8
+Mahindra,Xylo,189000.0,Manual,second,Diesel,9
+Maruti Suzuki,Alto,67000.0,Manual,second,Petrol,15
+Ford,Endeavour,85000.0,Automatic,second,Diesel,7
+Hyundai,Venue,30000.0,Manual,first,Petrol,6
+Maruti Suzuki,800,70000.0,Manual,second,Petrol,18
+Maruti Suzuki,Alto-800,75000.0,Manual,first,Hybrid/CNG,7
+Toyota,Innova Hycross,13000.0,Automatic,first,hybrid,3
+Toyota,Fortuner,69810.0,Manual,second,Diesel,7
+Mahindra,XUV500,74000.0,Manual,second,Diesel,12
+Toyota,Innova Crysta,53000.0,Automatic,second,Diesel,8
+Maruti Suzuki,Alto-K10,52000.0,Automatic,second,Hybrid/CNG,11
+Maruti Suzuki,Wagon-R,75000.0,Manual,second,hybrid,11
+Hyundai,Grand i10,48000.0,Manual,first,Hybrid/CNG,9
+Maruti Suzuki,Grand Vitara,0.0,Automatic,first,hybrid,2
+Maruti Suzuki,Ertiga,62000.0,Automatic,second,hybrid,7
+Maruti Suzuki,Wagon-R,55962.0,Manual,second,Hybrid/CNG,10
+Audi,Q7,92000.0,Automatic,second,Diesel,12
+Volvo,V40 Cross Country,116000.0,Automatic,second,Diesel,12
+Hyundai,Grand i10,38000.0,Automatic,first,Petrol,11
+Hyundai,Tucson,39000.0,Automatic,first,Diesel,6
+Maruti Suzuki,Swift,41000.0,Automatic,second,Petrol,5
+Tata,Harrier,102000.0,Automatic,first,Diesel,6
+Hyundai,Creta,30000.0,Manual,first,Petrol,8
+Hyundai,Creta,50480.0,Automatic,first,Diesel,8
+Mercedes-Benz,E-Class,60000.0,Automatic,first,Diesel,9
+Toyota,Innova Crysta,177000.0,Manual,first,Diesel,9
+Ford,Endeavour,59000.0,Automatic,first,Diesel,5
+Maruti Suzuki,Alto 800,65000.0,Manual,second,Petrol,11
+Skoda,Superb,65000.0,Automatic,first,Diesel,15
+Maruti Suzuki,Eeco,42000.0,Automatic,first,hybrid,5
+Mahindra,XUV500,170000.0,Manual,second,Diesel,12
+Hyundai,Elite i20,79000.0,Manual,second,Hybrid/CNG,7
+Hyundai,Elantra,68299.0,Manual,second,Diesel,13
+Toyota,Etios,95000.0,Manual,second,Diesel,8
+Maruti Suzuki,Wagon-R,75198.0,Manual,first,Petrol,16
+Mahindra,Thar,53000.0,Automatic,second,Diesel,6
+Hyundai,Fluidic Verna,31000.0,Manual,first,Petrol,11
+Hyundai,Eon,32500.0,Manual,second,Petrol,9
+BMW,3 Series,54000.0,Automatic,first,Diesel,13
+BMW,7 Series,18000.0,Automatic,first,Diesel,5
+Maruti Suzuki,Grand Vitara,21209.0,Manual,first,Petrol,3
+Maruti Suzuki,Omni,25000.0,Manual,second,Petrol,20
+Hyundai,Grand i10,42568.0,Manual,first,Petrol,9
+Maruti Suzuki,800,5000.0,Automatic,second,Petrol,21
+Tata,Indica V2,177700.0,Manual,second,Diesel,10
+Maruti Suzuki,Ciaz,69000.0,Manual,second,hybrid,10
+Mahindra,XUV700,5000.0,Automatic,first,Diesel,3
+Chevrolet,Beat,57400.0,Manual,second,Petrol,15
+Mahindra,Bolero,55800.0,Automatic,second,Diesel,4
+Hyundai,Grand i10,82000.0,Manual,second,Diesel,11
+Toyota,Innova Crysta,12500.0,Manual,first,Diesel,3
+Hyundai,Santro,65000.0,Automatic,second,hybrid,6
+Hyundai,i10,140000.0,Automatic,second,Hybrid/CNG,15
+Honda,CRV,95000.0,Automatic,second,Petrol,13
+Hyundai,i20,80000.0,Manual,first,Petrol,10
+Maruti Suzuki,Wagon-R,59530.0,Manual,first,Petrol,12
+Hyundai,i10,63000.0,Manual,second,Petrol,13
+Maruti Suzuki,Wagon-R,67980.0,Manual,first,Petrol,13
+Renault,Triber,65200.0,Automatic,first,hybrid,5
+Honda,City,48000.0,Manual,second,Petrol,11
+Honda,Jazz,79000.0,Automatic,second,Petrol,11
+Honda,City,29000.0,Automatic,second,Petrol,9
+Maruti Suzuki,Vitara-Brezza,85100.0,Manual,first,Diesel,9
+Maruti Suzuki,Ritz,104000.0,Manual,second,Diesel,14
+Hyundai,Creta,65000.0,Manual,first,hybrid,9
+Tata,Tiago,62000.0,Automatic,first,Hybrid/CNG,4
+BMW,6 Series GT,21000.0,Automatic,second,Petrol,8
+Hyundai,i10,102091.0,Automatic,second,Hybrid/CNG,13
+Hyundai,Grand i10,53000.0,Automatic,first,Hybrid/CNG,11
+Maruti Suzuki,Celerio,37000.0,Automatic,first,Petrol,9
+BMW,5 Series,82000.0,Automatic,second,Diesel,8
+Volkswagen,Tiguan,105000.0,Automatic,first,Diesel,9
+Maruti Suzuki,Swift,80000.0,Automatic,first,hybrid,11
+Renault,Duster,86000.0,Manual,second,Diesel,13
+Maruti Suzuki,Alto-800,25000.0,Manual,second,Petrol,4
+Maruti Suzuki,Alto-800,61000.0,Manual,second,Petrol,10
+Maruti Suzuki,Swift-Dzire,29000.0,Automatic,first,Petrol,9
+Ford,Endeavour,130000.0,Automatic,second,Diesel,16
+BMW,X5,55000.0,Automatic,first,Diesel,8
+Toyota,Innova Crysta,171000.0,Manual,first,Diesel,9
+Volkswagen,Polo,87244.0,Manual,first,Petrol,6
+Maruti Suzuki,Celerio X,59000.0,Manual,first,Hybrid/CNG,7
+Land Rover,Range Rover Evoque,89000.0,Manual,second,Diesel,14
+Chevrolet,Cruze,45000.0,Automatic,second,Diesel,14
+Ford,Ecosport,49000.0,Manual,second,Petrol,10
+Hyundai,i20,100000.0,Manual,second,Diesel,15
+Audi,Q7,44000.0,Automatic,first,Diesel,6
+Maruti Suzuki,Ertiga,39000.0,Manual,first,hybrid,3
+Toyota,Innova Crysta,180000.0,Automatic,second,Diesel,10
+Mercedes-Benz,S-Class,114256.0,Automatic,second,Diesel,18
+Hyundai,Eon,66500.0,Manual,first,Petrol,13
+Mahindra,Thar,76108.0,Automatic,first,Diesel,6
+MG,Hector,16000.0,Automatic,second,Petrol,7
+Maruti Suzuki,Alto,42000.0,Automatic,first,Petrol,16
+Maruti Suzuki,Celerio-X,142000.0,Automatic,second,Hybrid/CNG,6
+Maruti Suzuki,Celerio,39000.0,Automatic,second,Petrol,10
+Maruti Suzuki,Ertiga,70000.0,Manual,first,Diesel,10
+Maruti Suzuki,Eeco,13000.0,Automatic,first,hybrid,2
+Chevrolet,Sail U-VA,120000.0,Manual,second,Diesel,10
+Hyundai,Eon,41000.0,Manual,second,Petrol,8
+Maruti Suzuki,Eeco,60000.0,Manual,second,hybrid,8
+Maruti Suzuki,Swift,30000.0,Manual,first,Petrol,11
+Renault,Scala,61000.0,Manual,first,Petrol,13
+Tata,Indica Ev2,13527.0,Manual,second,Diesel,11
+Lexus,ES,30000.0,Automatic,first,Petrol,4
+BMW,3 Series GT,99000.0,Automatic,first,Diesel,8
+Maruti Suzuki,Wagon-R,94000.0,Manual,second,hybrid,13
+Jeep,Compass,61000.0,Automatic,first,Petrol,7
+MG,Hector,4700.0,Manual,first,Petrol,4
+Honda,City,58000.0,Automatic,second,Petrol,8
+Maruti Suzuki,Celerio,35000.0,Automatic,first,Hybrid/CNG,9
+Maruti Suzuki,Alto,36000.0,Manual,second,Petrol,17
+Toyota,Innova Hycross,5100.0,Automatic,first,Hybrid/CNG,3
+Maruti Suzuki,Alto-K10,70000.0,Automatic,first,hybrid,10
+Maruti Suzuki,Wagon-R,65000.0,Manual,first,Hybrid/CNG,5
+Toyota,Innova,126500.0,Manual,second,Diesel,12
+Mercedes-Benz,C-Class,47000.0,Automatic,second,Diesel,10
+Honda,Amaze,110000.0,Manual,first,Petrol,13
+Renault,KWID,44000.0,Manual,first,Petrol,9
+Maruti Suzuki,Wagon-R,72000.0,Manual,first,Petrol,10
+Honda,Accord,80000.0,Automatic,second,hybrid,16
+Ford,Figo,75000.0,Manual,second,Diesel,16
+Mahindra,XUV500,90000.0,Manual,second,Diesel,8
+Mercedes-Benz,GLE COUPE,30000.0,Automatic,first,Petrol,7
+BMW,X1,70000.0,Automatic,second,Petrol,13
+Hyundai,Venue,53000.0,Manual,second,Petrol,7
+Toyota,Innova Crysta,87000.0,Manual,second,Diesel,8
+Hyundai,Eon,90000.0,Manual,second,Petrol,10
+Kia,Sonet,2400.0,Automatic,first,Diesel,3
+Datsun,Redi Go,60000.0,Automatic,first,hybrid,9
+Maruti Suzuki,Swift,63653.0,Manual,second,Diesel,10
+Mahindra,Marazzo,168000.0,Manual,second,Diesel,6
+Tata,Indigo Ecs,112000.0,Automatic,second,Diesel,12
+Maruti Suzuki,Eeco,180000.0,Automatic,first,Hybrid/CNG,8
+Maruti Suzuki,Alto,85000.0,Manual,second,Petrol,15
+Maruti Suzuki,Swift-Dzire,91500.0,Manual,first,Petrol,11
+Maruti Suzuki,Ciaz,83000.0,Automatic,first,Hybrid/CNG,9
+Maruti Suzuki,Swift-Dzire,87000.0,Manual,first,hybrid,12
+Kia,Carnival,47437.0,Automatic,first,Diesel,4
+Tata,Nano,74000.0,Manual,first,Hybrid/CNG,12
+Ford,Endeavour,121000.0,Automatic,first,Diesel,8
+Maruti Suzuki,Grand Vitara,31000.0,Manual,first,Petrol,5
+Hyundai,Fluidic Verna,74000.0,Manual,second,Hybrid/CNG,13
+Toyota,Innova Crysta,109000.0,Automatic,first,Diesel,9
+Hyundai,Aura,29000.0,Automatic,first,hybrid,10
+Honda,Jazz,61000.0,Manual,second,Petrol,15
+Hyundai,Santro Xing,86000.0,Manual,second,hybrid,12
+BMW,3 Series,59000.0,Automatic,first,Diesel,10
+Volkswagen,Polo,48000.0,Automatic,first,Petrol,8
+Maruti Suzuki,Eeco,62000.0,Manual,first,Hybrid/CNG,6
+Volkswagen,Polo,50000.0,Automatic,second,Petrol,7
+Mahindra,XUV500,78000.0,Manual,second,Diesel,12
+Renault,KWID,14543.0,Automatic,first,Petrol,3
+BMW,5 Series,67000.0,Automatic,second,Diesel,13
+BMW,X1,62000.0,Automatic,second,Petrol,14
+Maruti Suzuki,Ertiga,65000.0,Manual,first,Diesel,10
+Maruti Suzuki,Swift,82000.0,Automatic,first,Hybrid/CNG,6
+Honda,Accord,85000.0,Automatic,second,Hybrid/CNG,13
+Maruti Suzuki,Wagon-R,70000.0,Manual,first,Hybrid/CNG,6
+Tata,Tigor,54750.0,Automatic,first,Hybrid/CNG,8
+Maruti Suzuki,Swift-Dzire-Tour,210000.0,Manual,second,hybrid,7
+Maruti Suzuki,Eeco,97000.0,Automatic,second,hybrid,9
+Maruti Suzuki,Wagon-R,66633.0,Manual,second,hybrid,11
+Maruti Suzuki,Grand Vitara,200040.0,Automatic,first,Petrol,3
+Hyundai,i10,71303.0,Automatic,second,Petrol,15
+Hyundai,Creta,76500.0,Manual,first,Diesel,8
+Honda,City,37000.0,Automatic,first,Petrol,5
+Maruti Suzuki,Ertiga,35.0,Manual,first,Hybrid/CNG,2
+Chevrolet,Cruze,950000.0,Automatic,second,Diesel,14
+Chevrolet,Spark,55155.0,Manual,first,Petrol,15
+Audi,A3,89000.0,Automatic,second,Diesel,11
+Mercedes-Benz,M-Class,75000.0,Automatic,first,Diesel,11
+Audi,Q3,78522.0,Automatic,first,Diesel,10
+Maruti Suzuki,S-Presso,17000.0,Manual,second,Petrol,5
+Volkswagen,VentoTest,78000.0,Manual,second,Diesel,15
+Hyundai,i20,72000.0,Automatic,second,Petrol,16
+Honda,WRV,10000.0,Manual,first,Petrol,3
+Honda,Accord,80000.0,Automatic,first,Petrol,16
+Maruti Suzuki,XL6,36831.0,Automatic,first,Petrol,5
+Mercedes-Benz,GLS,86000.0,Automatic,first,Diesel,12
+Maruti Suzuki,Eeco,70600.0,Manual,second,hybrid,9
+Renault,Duster,130000.0,Manual,first,Diesel,9
+Bajaj,RE60,1500.0,Automatic,first,Hybrid/CNG,19
+Maruti Suzuki,Celerio,82000.0,Automatic,first,Petrol,12
+Maruti Suzuki,Wagon-R,68000.0,Manual,second,Hybrid/CNG,7
+Maruti Suzuki,Ertiga,62001.0,Manual,first,hybrid,4
+Mercedes-Benz,C-Class,39000.0,Automatic,first,Diesel,7
+Mahindra,XUV500,95999.0,Automatic,first,Diesel,9
+Volvo,S90,76000.0,Automatic,first,Diesel,8
+Renault,KWID,30000.0,Automatic,first,hybrid,7
+Toyota,Land Cruiser,40000.0,Automatic,first,Diesel,7
+MG,Hector Plus,11000.0,Automatic,first,Petrol,4
+Mahindra,Bolero,113000.0,Manual,second,Diesel,10
+Maruti Suzuki,Swift-Dzire,115000.0,Manual,first,hybrid,17
+Maruti Suzuki,Ertiga,145000.0,Automatic,second,Diesel,10
+Renault,KWID,39000.0,Automatic,second,Petrol,9
+Mercedes-Benz,C-Class,51000.0,Automatic,first,Petrol,6
+Tata,Tiago,43220.0,Automatic,first,Petrol,8
+Maruti Suzuki,Celerio,99999.0,Manual,second,Hybrid/CNG,4
+Maruti Suzuki,Alto-800,25000.0,Manual,first,Hybrid/CNG,6
+Toyota,Fortuner,115000.0,Automatic,first,Diesel,9
+Maruti Suzuki,Celerio-X,70000.0,Automatic,first,hybrid,10
+Mercedes-Benz,GL-Class,94990.0,Automatic,second,Diesel,15
+Mercedes-Benz,E-Class,80000.0,Automatic,second,Diesel,9
+Hyundai,Elite i20,55000.0,Manual,second,Diesel,12
+Hyundai,i20,55000.0,Manual,first,Petrol,5
+Mahindra,Bolero,92000.0,Manual,second,Diesel,11
+Maruti Suzuki,Celerio,95000.0,Automatic,second,Petrol,12
+Honda,Amaze,52000.0,Automatic,first,Petrol,8
+Maruti Suzuki,maruti-suzuki-dzire,33759.0,Manual,second,Petrol,6
+Maruti Suzuki,Wagon-R,60000.0,Automatic,first,Petrol,10
+Volkswagen,VentoTest,70000.0,Manual,second,Hybrid/CNG,16
+Maruti Suzuki,Swift,65000.0,Manual,first,Petrol,9
+Toyota,Urban Cruiser Hyryder,14500.0,Automatic,second,hybrid,3
+Renault,KWID,67000.0,Manual,second,Petrol,8
+Maruti Suzuki,Wagon-R,123000.0,Manual,second,Petrol,12
+Maruti Suzuki,Wagon R,88000.0,Manual,second,Hybrid/CNG,15
+Hyundai,Eon,65000.0,Manual,second,Petrol,13
+Hyundai,i20,60000.0,Manual,first,Petrol,16
+Volvo,S60,,Automatic,first,Diesel,8
+Lexus,NX,28000.0,Automatic,first,Petrol,8
+Hyundai,Grand i10 Nios,105000.0,Manual,second,Petrol,15
+Maruti Suzuki,Wagon-R,38000.0,Manual,first,hybrid,13
+Maruti Suzuki,Celerio,86000.0,Automatic,second,hybrid,6
+Honda,Brio,48000.0,Manual,first,Petrol,12
+Hyundai,Eon,50000.0,Manual,first,Petrol,10
+Maruti Suzuki,Wagon-R,75000.0,Manual,second,hybrid,12
+Mercedes-Benz,AMG C 43,14000.0,Automatic,first,Petrol,4
+Skoda,Superb,99000.0,Automatic,first,Petrol,10
+Maruti Suzuki,Alto-800,18000.0,Manual,first,Petrol,5
+Tata,H5x,29250.0,Manual,first,Diesel,7
+Maruti Suzuki,New-gen Swift,15000.0,Automatic,second,Hybrid/CNG,3
+Maruti Suzuki,Alto-K10,77000.0,Manual,first,Petrol,12
+Maruti Suzuki,Swift-Dzire,97000.0,Manual,second,Hybrid/CNG,14
+Datsun,RediGO,45213.0,Manual,first,Petrol,8
+Mahindra,Scorpio,69120.0,Manual,first,Diesel,4
+Ford,Endeavour,95000.0,Automatic,first,Diesel,9
+Maruti Suzuki,Ciaz,67000.0,Manual,first,Petrol,10
+Audi,A6,85000.0,Automatic,first,Diesel,8
+Maruti Suzuki,maruti-suzuki-dzire,56000.0,Manual,first,Petrol,6
+Toyota,Fortuner,185000.0,Automatic,second,Diesel,14
+Hyundai,Venue,35380.0,Manual,second,Diesel,4
+Ford,Endeavour,60000.0,Automatic,second,Diesel,6
+Hyundai,Creta,106000.0,Automatic,second,Diesel,10
+Hyundai,Grand i10 Nios,80000.0,Automatic,first,Hybrid/CNG,4
+Mahindra,Maxx,45000.0,Manual,second,Diesel,15
+Toyota,Fortuner,52000.0,Manual,first,Diesel,5
+Honda,Jazz,34000.0,Automatic,first,Petrol,4
+Toyota,Innova Crysta,81000.0,Automatic,first,Diesel,4
+Maruti Suzuki,Alto-K10,33000.0,Automatic,second,Petrol,8
+Tata,Safari,42000.0,Manual,first,Diesel,4
+Tata,Nexon,55000.0,Automatic,first,Diesel,4
+Maruti Suzuki,Alto-800,74000.0,Manual,second,hybrid,10
+Mahindra,Scorpio,135000.0,Automatic,second,Diesel,13
+Toyota,Camry,190000.0,Automatic,first,Hybrid/CNG,12
+Honda,City,96000.0,Automatic,second,Petrol,13
+Maruti Suzuki,Wagon-R,71393.0,Manual,second,hybrid,14
+Honda,City,75000.0,Automatic,second,Petrol,9
+Hyundai,i10,73000.0,Automatic,second,hybrid,17
+Maruti Suzuki,Wagon-R,76000.0,Manual,first,Hybrid/CNG,7
+Hyundai,Grand i10 Nios,61000.0,Manual,first,Hybrid/CNG,6
+Maruti Suzuki,Celerio,72000.0,Automatic,second,Petrol,11
+Maruti Suzuki,Eeco,45000.0,Manual,second,hybrid,7
+MG,Hector,46450.0,Automatic,first,Petrol,6
+Ford,Ecosport,82000.0,Manual,first,Diesel,12
+Maruti Suzuki,Eeco,56000.0,Automatic,first,Hybrid/CNG,4
+Hyundai,Grand i10,120000.0,Manual,first,Petrol,17
+Maruti Suzuki,Stingray,72500.0,Automatic,first,Hybrid/CNG,10
+Maruti Suzuki,Omni,100000.0,Manual,second,Hybrid/CNG,11
+Tata,Indigo Ecs,114109.0,Manual,second,Diesel,12
+Toyota Land,Cruiser,90000.0,Automatic,second,Diesel,13
+Hyundai,i10,65000.0,Manual,second,Hybrid/CNG,14
+Volkswagen,Vento,156000.0,Automatic,second,Diesel,8
+Hyundai,i20,118000.0,Manual,second,Diesel,9
+Maruti Suzuki,Swift,98000.0,Manual,second,hybrid,16
+Toyota,Etios Cross,60000.0,Manual,first,Petrol,11
+BMW,X1,51500.0,Automatic,second,Diesel,9
+Maruti Suzuki,Ertiga,38562.0,Manual,first,hybrid,5
+Volkswagen,Taigun,43000.0,Manual,second,Petrol,4
+Toyota,Innova Crysta,88000.0,Automatic,first,Diesel,7
+BMW,3 Series Gran Limousine,18800.0,Automatic,first,Petrol,5
+Hyundai,Elite i20,101984.0,Manual,second,Petrol,10
+Maruti Suzuki,Alto,76000.0,Manual,second,Petrol,16
+Skoda,Rapid,140000.0,Manual,second,Diesel,11
+Mahindra,XUV500,57000.0,Automatic,second,Diesel,8
+Honda,City,69000.0,Automatic,first,Petrol,9
+Maruti Suzuki,Baleno,49709.0,Automatic,second,Petrol,9
+Maruti Suzuki,Ertiga,19700.0,Manual,first,Petrol,6
+Hyundai,Xcent,45238.0,Manual,second,Diesel,8
+Tata,Zest,71000.0,Manual,first,Diesel,10
+MG,Hector,45000.0,Automatic,second,Petrol,7
+Hyundai,Venue,4500.0,Manual,first,Petrol,3
+Hyundai,Grand i10,81000.0,Manual,first,hybrid,6
+Maruti Suzuki,Wagon-R,55049.0,Manual,first,Petrol,11
+Hyundai,i10,50000.0,Automatic,second,hybrid,14
+Honda,BRV,32000.0,Manual,second,Hybrid/CNG,8
+Mahindra,XUV500,93000.0,Manual,second,Diesel,11
+Maruti Suzuki,maruti-suzuki-dzire,78000.0,Manual,first,Hybrid/CNG,12
+Mahindra,XUV 300,85000.0,Automatic,first,Diesel,7
+Toyota,Camry,25000.0,Automatic,first,Petrol,8
+Maruti Suzuki,Celerio,70000.0,Automatic,first,hybrid,9
+Audi,A4,85120.0,Automatic,second,Petrol,17
+Maruti Suzuki,Ertiga,72000.0,Manual,second,hybrid,9
+Hyundai,Verna,104000.0,Manual,second,Diesel,12
+Toyota,Fortuner,175000.0,Automatic,second,Diesel,12
+Mercedes-Benz,E-Class,75000.0,Automatic,second,Diesel,12
+Maruti Suzuki,Ertiga,64422.0,Manual,second,hybrid,11
+Hyundai,Santro Xing,140000.0,Manual,second,Petrol,16
+Hyundai,Grand i10,43000.0,Automatic,second,Petrol,9
+Ford,Endeavour,82450.0,Automatic,second,Diesel,10
+Toyota,Innova Hycross,32000.0,Automatic,first,Petrol,3
+Maruti Suzuki,Swift,51000.0,Manual,second,Diesel,8
+Kia,Seltos,78000.0,Automatic,first,Diesel,7
+Maruti Suzuki,Swift,130000.0,Manual,first,Diesel,16
+Volkswagen,CrossPolo,104600.0,Manual,second,Diesel,12
+Maruti Suzuki,Brezza,19155.0,Manual,first,hybrid,3
+BMW,6 Series GT,24000.0,Automatic,first,Diesel,6
+Maruti Suzuki, Wagon R,41000.0,Automatic,first,Petrol,9
+Mahindra,KUV100 NXT,48000.0,Automatic,second,Petrol,9
+Fiat,Linea,154000.0,Manual,second,Petrol,12
+Maruti Suzuki,Swift-Dzire,76000.0,Manual,second,Diesel,13
+Maruti Suzuki,Ertiga,94000.0,Manual,first,Hybrid/CNG,7
+Mercedes-Benz,S-Class,62000.0,Automatic,first,Diesel,10
+Maruti Suzuki,Wagon-R-Stingray,55000.0,Manual,first,Hybrid/CNG,9
+Mercedes-Benz,S-Class,114000.0,Automatic,second,Diesel,12
+Maruti Suzuki,Zen-Estilo,80500.0,Manual,first,Petrol,18
+Skoda,Kushaq,12000.0,Automatic,first,Petrol,3
+Maruti Suzuki,Alto-800,72000.0,Manual,first,Petrol,4
+Ford,Fiesta,68000.0,Manual,second,Diesel,17
+Honda,Mobilio,90000.0,Manual,second,Diesel,12
+Audi,A6,95000.0,Automatic,second,Diesel,13
+Hyundai,Santro Xing,75000.0,Manual,first,hybrid,12
+Honda,WRV,83000.0,Manual,first,Petrol,8
+Porsche,Cayenne,89000.0,Automatic,second,Diesel,8
+BMW,5 Series,17000.0,Automatic,first,Diesel,4
+Maruti Suzuki,Vitara-Brezza,84000.0,Manual,first,Diesel,10
+Maruti Suzuki,Wagon-R,108000.0,Automatic,second,Petrol,10
+Skoda,Superb,90000.0,Automatic,second,Petrol,15
+Maruti Suzuki,maruti-suzuki-dzire,56000.0,Manual,first,hybrid,11
+Kia,Seltos,95000.0,Manual,second,Diesel,5
+BMW,3 Series,43000.0,Automatic,first,Petrol,4
+Toyota,Fortuner,158000.0,Automatic,first,Diesel,8
+BMW,5 Series,68000.0,Automatic,second,Diesel,12
+Hyundai,i10,51500.0,Automatic,first,Petrol,13
+Maruti Suzuki,Wagon-R,23000.0,Manual,first,Hybrid/CNG,4
+Toyota,Innova,121000.0,Manual,first,Diesel,14
+Maruti Suzuki,Wagon-R,65000.0,Manual,first,Hybrid/CNG,15
+Honda,City ZX,109000.0,Manual,second,Hybrid/CNG,11
+Maruti Suzuki,Baleno,78000.0,Manual,first,Petrol,8
+Maruti Suzuki,Swift,95000.0,Manual,second,Diesel,10
+Hyundai,i20,65000.0,Manual,second,hybrid,15
+BMW,5 Series,80000.0,Automatic,second,Diesel,5
+Skoda,Yeti,45500.0,Manual,second,Diesel,14
+Maruti Suzuki,Eeco,28000.0,Manual,first,hybrid,7
+Maruti Suzuki,Celerio,65000.0,Automatic,first,Petrol,9
+Ford,Figo,78000.0,Manual,second,Diesel,15
+Maruti Suzuki,Ertiga,70000.0,Manual,second,Diesel,13
+Maruti Suzuki,Brezza,32000.0,Automatic,second,Petrol,6
+Mahindra,Scorpio,60000.0,Manual,first,Diesel,9
+Maruti Suzuki,Wagon-R,19300.0,Manual,first,Petrol,8
+Renault,KWID,52000.0,Automatic,first,Hybrid/CNG,6
+Audi,A6,67000.0,Automatic,second,Diesel,14
+Hyundai,Verna,69000.0,Manual,second,Petrol,14
+Honda,CRV,122000.0,Automatic,second,Petrol,21
+Ford,Ecosport,45000.0,Manual,second,Petrol,7
+Maruti Suzuki,Wagon-R,86000.0,Manual,first,Hybrid/CNG,16
+Hyundai,Creta,82000.0,Automatic,second,Petrol,10
+Maruti Suzuki,XL6,63900.0,Automatic,first,Petrol,5
+Audi,A3,75000.0,Automatic,second,Diesel,10
+Maruti Suzuki,maruti-suzuki-dzire,65000.0,Manual,first,Petrol,13
+Hyundai,Santro Xing,,Manual,second,Petrol,17
+Hyundai,Creta,142000.0,Manual,first,Diesel,11
+Maruti Suzuki,S-Cross1,62583.0,Manual,second,Diesel,8
+Maruti Suzuki,Baleno,66000.0,Automatic,second,hybrid,8
+Mahindra,Thar,18000.0,Automatic,first,Diesel,4
+Ford,Ecosport,80000.0,Manual,second,Diesel,13
+Maruti Suzuki,maruti-suzuki-brezza,73000.0,Manual,first,Petrol,6
+Mercedes-Benz,GLA Class,56300.0,Automatic,second,Diesel,7
+Skoda,Rapid,69000.0,Manual,first,Diesel,13
+Hyundai,Fluidic Verna,68000.0,Automatic,second,Hybrid/CNG,13
+Hyundai,i10,110000.0,Manual,first,hybrid,16
+BMW,X3,100000.0,Automatic,second,Diesel,9
+Volkswagen,Polo,124000.0,Manual,second,Diesel,11
+Maruti Suzuki,Swift-Dzire,81000.0,Automatic,first,Diesel,9
+Maruti Suzuki,Baleno,80000.0,Automatic,second,Petrol,9
+Nissan,Micra,110000.0,Manual,second,Diesel,14
+Maruti Suzuki,Ertiga,55000.0,Automatic,first,Petrol,6
+Hyundai,Fluidic Verna,32230.0,Automatic,first,Petrol,13
+Kia,Sonet,27000.0,Automatic,second,Petrol,5
+Ford,Endeavour,78000.0,Automatic,first,Diesel,5
+Maruti Suzuki,Omni,80000.0,Automatic,second,hybrid,11
+Mahindra,XUV500,65000.0,Manual,first,Diesel,11
+Renault,KWID,42000.0,Automatic,second,Hybrid/CNG,7
+Hyundai,Grand i10,61000.0,Manual,first,Petrol,13
+Toyota,Fortuner,89000.0,Automatic,first,Diesel,12
+Hyundai,Xcent Prime,85326.0,Manual,second,Diesel,6
+Maruti Suzuki,Swift,40000.0,Automatic,first,Petrol,4
+Hyundai,Xcent,91200.0,Manual,first,hybrid,11
+Mercedes-Benz,M-Class,99500.0,Automatic,second,Diesel,13
+Mercedes-Benz,GLE,70000.0,Automatic,first,Diesel,8
+Ford,Endeavour,90000.0,Automatic,second,Diesel,10
+Toyota,Etios,81530.0,Manual,second,Diesel,13
+Honda,Amaze,41000.0,Manual,second,Petrol,6
+Maruti Suzuki,Wagon-R,85000.0,Automatic,first,Hybrid/CNG,8
+Maruti Suzuki,Ertiga,69000.0,Manual,second,Diesel,10
+Hyundai,Creta,39000.0,Manual,first,Petrol,6
+Maruti Suzuki,Swift,130000.0,Manual,second,Diesel,14
+Hyundai,Grand i10,82000.0,Automatic,first,Hybrid/CNG,9
+Mercedes-Benz,S-Class,77000.0,Automatic,second,Petrol,19
+Hyundai,Creta,71000.0,Manual,first,Hybrid/CNG,10
+Toyota,Fortuner,45000.0,Automatic,first,Diesel,4
+Mercedes-Benz,E-Class,50000.0,Automatic,second,Diesel,9
+Hyundai,Elantra,84000.0,Automatic,second,Hybrid/CNG,9
+Maruti Suzuki,Ciaz,99000.0,Automatic,second,Petrol,10
+Chevrolet,Beat,65000.0,Manual,first,Diesel,14
+Nissan,Micra,76000.0,Automatic,second,Petrol,9
+Ford,Figo,43256.0,Manual,second,Petrol,16
+BMW,7 Series,33700.0,Automatic,first,Petrol,8
+Maruti Suzuki,Eeco,38000.0,Automatic,first,Petrol,15
+Volkswagen,Polo,88000.0,Manual,second,Petrol,8
+Honda,Amaze,58000.0,Automatic,first,hybrid,12
+Hyundai,Creta,87500.0,Manual,first,Diesel,6
+Jeep,Compass,97500.0,Automatic,first,Petrol,7
+BMW,X3,92000.0,Automatic,second,Diesel,10
+Ford,Ecosport,68000.0,Manual,first,Diesel,10
+Volkswagen,Polo,75000.0,Manual,second,Petrol,11
+Maruti Suzuki,Swift-Dzire,90000.0,Manual,second,hybrid,6
+Fiat,Linea,90000.0,Manual,second,hybrid,12
+Mahindra,XUV 300,45000.0,Automatic,first,Diesel,5
+Maruti Suzuki,Brezza,61.0,Manual,second,hybrid,5
+Maruti Suzuki,XL6,70000.0,Automatic,first,Hybrid/CNG,5
+Maruti Suzuki,Celerio,61479.0,Automatic,first,Petrol,11
+Maruti Suzuki,Wagon R,74000.0,Automatic,first,Petrol,9
+Hyundai,Eon,57000.0,Manual,second,Petrol,13
+Tata,Nexon,2500.0,Automatic,first,Petrol,2
+Hyundai,Grand i10,,Manual,first,Petrol,7
+Maruti Suzuki,Alto-800,26000.0,Manual,second,Petrol,10
+Maruti Suzuki,Celerio,73000.0,Manual,first,hybrid,7
+Maruti Suzuki,XL6,11300.0,Manual,first,hybrid,2
+Audi,A4,44000.0,Automatic,second,Diesel,10
+Hyundai,Creta,82000.0,Manual,second,hybrid,11
+Toyota,Camry,122000.0,Automatic,second,Petrol,12
+Maruti Suzuki,Baleno,74000.0,Manual,first,Petrol,10
+Toyota,Innova Crysta,210000.0,Manual,second,Diesel,7
+Hyundai,Creta,108000.0,Manual,first,Diesel,10
+Maruti Suzuki,Alto,,Manual,second,Petrol,21
+Hyundai,Alcazar,16000.0,Automatic,first,Diesel,3
+Maruti Suzuki,Swift-Dzire-Tour,130000.0,Manual,second,Diesel,16
+Hyundai,Grand i10,53000.0,Automatic,first,Hybrid/CNG,11
+Tata,Nexon,53000.0,Automatic,first,Diesel,4
+Maruti Suzuki,Ertiga,99000.0,Manual,second,Hybrid/CNG,10
+Maruti Suzuki,A-Star,69321.0,Automatic,second,Petrol,14
+Honda,Amaze,47000.0,Automatic,second,Petrol,11
+Toyota,Innova,135000.0,Manual,second,Diesel,12
+Mercedes-Benz,E-Class,75000.0,Automatic,second,Diesel,14
+Maruti Suzuki,Ertiga,42586.0,Manual,first,hybrid,6
+Hyundai,New i20,13162.0,Automatic,first,Petrol,4
+Maruti Suzuki,Wagon-R,120000.0,Automatic,first,hybrid,12
+Hyundai,Santro Xing,80000.0,Manual,second,hybrid,13
+Maruti Suzuki,Omni,77500.0,Automatic,second,Petrol,12
+Maruti Suzuki,Alto-800,25000.0,Manual,second,Petrol,4
+Maruti Suzuki,Wagon-R,66000.0,Manual,first,Hybrid/CNG,8
+Mercedes-Benz,C-Class,85000.0,Automatic,second,Petrol,15
+Honda,Amaze,160000.0,Manual,second,Diesel,11
+Hyundai,i20,11800.0,Automatic,second,Petrol,3
+Mahindra,Marazzo,130000.0,Manual,first,Diesel,7
+Maruti Suzuki,Wagon-R,99000.0,Manual,second,hybrid,12
+Maruti Suzuki,Swift-Dzire,33.0,Manual,first,Hybrid/CNG,4
+Land Rover,Discovery,87000.0,Automatic,second,Diesel,7
+Mercedes-Benz,E-Class,74000.0,Automatic,first,Diesel,12
+Maruti Suzuki,Wagon-R-1-0,56700.0,Automatic,second,Petrol,9
+Hyundai,Santa Fe,95000.0,Automatic,second,Diesel,11
+Honda,Jazz,65800.0,Manual,second,Petrol,10
+Renault,Triber,16000.0,Automatic,second,Petrol,4
+Tata,Sumo Victa,285000.0,Automatic,second,Diesel,15
+Maruti Suzuki,Omni,46000.0,Automatic,second,hybrid,8
+Maruti Suzuki,Eeco,80000.0,Automatic,first,hybrid,4
+Volkswagen,Polo,94685.0,Manual,second,Diesel,13
+Maruti Suzuki,Wagon-R,90000.0,Manual,second,Hybrid/CNG,11
+Honda,City ZX,95000.0,Manual,second,hybrid,19
+Honda,City,59000.0,Automatic,second,Petrol,10
+Datsun,GO,51000.0,Manual,first,Petrol,11
+Volkswagen,Jetta,76000.0,Manual,first,Diesel,13
+Maruti Suzuki,Wagon-R-1-0,45000.0,Manual,first,Hybrid/CNG,5
+Hyundai,Santro Xing,78000.0,Manual,first,Hybrid/CNG,16
+Maruti Suzuki,Wagon-R-Stingray,130000.0,Automatic,first,hybrid,10
+Volvo,XC40,76000.0,Automatic,first,Diesel,7
+Porsche,Cayenne,7700.0,Automatic,first,Petrol,3
+Maruti Suzuki,Wagon-R,100000.0,Automatic,second,Hybrid/CNG,13
+Mahindra,Scorpio,710205.0,Manual,first,Diesel,9
+Maruti Suzuki,Eeco,35000.0,Automatic,second,Hybrid/CNG,3
+Mercedes-Benz,GLA,4700.0,Automatic,first,Petrol,2
+Toyota,Fortuner,154000.0,Manual,second,Diesel,16
+Volkswagen,Polo,89000.0,Manual,second,Diesel,14
+Toyota,Fortuner,185000.0,Manual,second,Diesel,12
+Jeep,Compass,80000.0,Manual,first,Diesel,9
+Hyundai,Santro Xing,100000.0,Manual,second,Petrol,19
+Tata,Bolt,56000.0,Manual,first,Petrol,11
+Honda,City,65000.0,Manual,second,Petrol,16
+Honda,Jazz,40000.0,Automatic,first,Petrol,8
+MG,Hector,65000.0,Manual,second,Petrol,6
+Maruti Suzuki,Vitara-Brezza,78000.0,Manual,first,Diesel,7
+Honda,Civic,20000.0,Automatic,second,Petrol,7
+BMW,5 Series,87585.0,Automatic,first,Diesel,14
+Toyota,Camry,175000.0,Automatic,first,Petrol,10
+Lexus,NX,71767.0,Automatic,first,Hybrid/CNG,8
+Skoda,Rapid,71000.0,Manual,first,Diesel,11
+Maruti Suzuki,Alto-K10,34000.0,Automatic,first,Hybrid/CNG,8
+Maruti Suzuki,Ciaz,96000.0,Manual,second,Diesel,10
+Maruti Suzuki,Eeco,75000.0,Automatic,second,Hybrid/CNG,10
+Hyundai,Venue,41000.0,Manual,first,Petrol,4
+Toyota,Etios Liva,160000.0,Manual,second,Petrol,15
+Maruti Suzuki,Eeco,76917.0,Manual,second,Hybrid/CNG,16
+Maruti Suzuki,Wagon-R,146000.0,Manual,second,Hybrid/CNG,14
+Maruti Suzuki,Ertiga,75666.0,Manual,second,Hybrid/CNG,12
+Ford,Endeavour,23000.0,Automatic,second,Diesel,5
+Hyundai,Getz Prime,115031.0,Manual,second,Petrol,19
+Maruti Suzuki,maruti-suzuki-dzire,97834.0,Manual,second,Petrol,13
+Toyota,Urban Cruiser Hyryder,45000.0,Automatic,first,Hybrid/CNG,4
+Honda,BRV,57360.0,Manual,second,Petrol,9
+Maruti Suzuki,Ertiga,24.0,Automatic,first,Hybrid/CNG,6
+Mercedes-Benz,S-Class,50000.0,Automatic,first,Diesel,7
+Honda,Civic,79000.0,Manual,second,hybrid,17
+Hyundai,Verna,108000.0,Automatic,second,Hybrid/CNG,15
+Toyota,Innova,98695.0,Manual,first,Diesel,14
+Jeep,Compass,46300.0,Manual,second,Diesel,8
+Toyota,Innova,198000.0,Manual,second,Diesel,11
+Toyota,Corolla Altis,100000.0,Automatic,first,hybrid,11
+Hyundai,Eon,51000.0,Manual,second,Petrol,9
+Honda,City,69000.0,Manual,second,hybrid,13
+Renault,KWID,13340.0,Automatic,first,Petrol,10
+Mahindra,XUV500,83255.0,Automatic,first,Diesel,9
+Maruti Suzuki,Wagon-R,39000.0,Manual,second,hybrid,13
+Mahindra,Xylo,55000.0,Automatic,second,Diesel,13
+Hyundai,i10,50500.0,Manual,first,Petrol,15
+Mahindra,XUV500,83000.0,Manual,first,Diesel,8
+Mahindra,Scorpio,84000.0,Manual,first,Diesel,8
+Hyundai,Verna,82100.0,Manual,second,Diesel,10
+Maruti Suzuki,Swift,158000.0,Manual,second,Diesel,14
+Porsche,718 CAYMAN,29500.0,Automatic,second,Petrol,7
+Hyundai,Creta,72000.0,Automatic,second,hybrid,10
+Maruti Suzuki,Swift,82000.0,Automatic,second,Petrol,8
+Maruti Suzuki,Baleno,61000.0,Automatic,first,Petrol,7
+Hyundai,Grand i10,48000.0,Manual,second,Diesel,11
+Hyundai,Creta,63500.0,Manual,first,Hybrid/CNG,10
+Audi,A6,57000.0,Automatic,second,Petrol,16
+Mercedes-Benz,CLA,46000.0,Automatic,second,Petrol,9
+Jeep,Compass,18000.0,Automatic,first,Petrol,4
+Chevrolet,Cruze,70000.0,Automatic,second,Diesel,16
+Maruti Suzuki,XL6,61231.0,Automatic,first,Petrol,7
+Maruti Suzuki,Swift-Dzire,42000.0,Manual,second,Petrol,9
+Mercedes-Benz,GLA Class,32600.0,Automatic,second,Petrol,9
+Maruti Suzuki,Wagon R,75046.0,Manual,first,hybrid,8
+Mercedes-Benz,CLA,5800.0,Automatic,first,Diesel,8
+Maruti Suzuki,Ignis,16000.0,Manual,first,Petrol,4
+Ford,Endeavour,90000.0,Automatic,first,Diesel,6
+Maruti Suzuki,Ertiga,8500.0,Automatic,first,Petrol,3
+Maruti Suzuki,Baleno,22.0,Manual,second,Petrol,5
+Tata,Tiago,17282.0,Manual,first,Hybrid/CNG,2
+Kia,Seltos,50000.0,Manual,first,Diesel,6
+Maruti Suzuki,Wagon-R-1-0,65999.0,Manual,first,Hybrid/CNG,5
+Mahindra,Bolero,83000.0,Manual,second,Diesel,17
+Hyundai,i20,113000.0,Manual,first,Diesel,12
+Hyundai,Santro Xing,86000.0,Manual,second,hybrid,14
+Maruti Suzuki,Vitara-Brezza,78000.0,Manual,first,Diesel,8
+Maruti Suzuki,Zen-Estilo,250000.0,Automatic,second,hybrid,16
+Ford,Ecosport,42380.0,Automatic,first,Hybrid/CNG,7
+Tata,Nano,47000.0,Manual,second,Petrol,15
+Mahindra,Bolero,112000.0,Manual,first,Diesel,10
+Volkswagen,Taigun,53000.0,Automatic,first,Petrol,5
+Maruti Suzuki,Eeco,48000.0,Automatic,first,hybrid,3
+BMW,7 Series,62000.0,Automatic,second,Petrol,8
+Honda,City,82000.0,Automatic,second,Petrol,14
+Hyundai,Creta,68000.0,Automatic,second,Petrol,7
+Nissan,Sunny,92000.0,Manual,first,Diesel,10
+Hyundai,i10,60000.0,Manual,second,Petrol,16
+Tata,Tiago,53793.0,Manual,first,hybrid,4
+Mahindra,Scorpio Classic,8100.0,Manual,first,Diesel,4
+Tata,Nexon,69000.0,Manual,first,Hybrid/CNG,6
+Maruti Suzuki,Celerio,12000.0,Automatic,second,Petrol,3
+Honda,City,67000.0,Automatic,second,hybrid,11
+Hyundai,i20,62500.0,Manual,second,Petrol,12
+Maruti Suzuki,Wagon-R,80000.0,Manual,first,hybrid,12
+Honda,Jazz,70000.0,Manual,second,Petrol,14
+Hyundai,Verna,82000.0,Automatic,second,Petrol,12
+Maruti Suzuki,Eeco,51569.0,Automatic,second,hybrid,7
+Audi,A4,68000.0,Automatic,second,Diesel,14
+Hyundai,i10,54000.0,Manual,second,Petrol,11
+Skoda,Fabia,82500.0,Manual,second,Petrol,15
+Hyundai,Creta,118000.0,Manual,second,Diesel,11
+Nissan,Sunny,77695.0,Manual,second,Diesel,14
+Volkswagen,VentoTest,90000.0,Manual,first,Petrol,14
+Mercedes-Benz,E-Class,70000.0,Automatic,second,Diesel,11
+Skoda,Kushaq,33000.0,Manual,first,Petrol,3
+Isuzu,MUX,185000.0,Automatic,first,Diesel,7
+Hyundai,Xcent,46000.0,Manual,first,Petrol,7
+Honda,City,69000.0,Manual,first,Petrol,11
+Maruti Suzuki,Wagon-R,40000.0,Manual,first,hybrid,5
+Maruti Suzuki,Eeco,23000.0,Automatic,first,hybrid,3
+Mahindra,Thar,65000.0,Automatic,second,Diesel,5
+Maruti Suzuki,Celerio-X,86000.0,Automatic,first,hybrid,7
+Honda,City,56000.0,Automatic,second,Petrol,10
+Renault,Triber,40000.0,Automatic,second,hybrid,126
+Toyota,Glanza,28000.0,Automatic,second,Petrol,5
+Toyota,Camry,42000.0,Automatic,first,Petrol,4
+Tata,Tiago,30000.0,Automatic,first,Petrol,8
+Hyundai,i10,410000.0,Manual,second,Petrol,14
+Volkswagen,Tiguan,93173.0,Automatic,first,Diesel,8
+Hyundai,i20,70000.0,Automatic,first,hybrid,12
+Maruti Suzuki,Baleno,22000.0,Manual,first,Petrol,5
+Mercedes-Benz,S-Class,74000.0,Automatic,second,Diesel,12
+Honda,Amaze,110000.0,Manual,second,Petrol,9
+Mahindra,Thar,32500.0,Automatic,first,Diesel,4
+Hyundai,Creta,16000.0,Automatic,second,Diesel,4
+Ford,Endeavour,91535.0,Automatic,second,Diesel,9
+Honda,Amaze,60200.0,Manual,second,Petrol,7
+BMW,X5,89000.0,Automatic,second,Diesel,9
+Honda,City,68000.0,Manual,first,Petrol,14
+Maruti Suzuki,Eeco,123300.0,Automatic,second,Hybrid/CNG,16
+Maruti Suzuki,Alto,22.0,Manual,second,Petrol,19
+Honda,City,69000.0,Manual,second,Petrol,9
+Toyota,Innova,12000.0,Manual,second,Diesel,14
+Maruti Suzuki,Alto,85000.0,Automatic,second,Petrol,7
+Toyota,Innova Crysta,155000.0,Manual,first,Diesel,6
+Maruti Suzuki,Swift,72000.0,Manual,second,hybrid,14
+Maruti Suzuki,Ertiga,28.0,Automatic,first,Hybrid/CNG,2
+Chevrolet,Cruze,65000.0,Automatic,first,Diesel,10
+Maruti Suzuki,Wagon-R,46545.0,Manual,first,Petrol,11
+Maruti Suzuki,Eeco,18000.0,Manual,first,Petrol,5
+Mahindra,XUV500,81000.0,Manual,first,Diesel,13
+Maruti Suzuki,Wagon-R-1-0,150000.0,Automatic,first,Hybrid/CNG,8
+Ford,Endeavour,74000.0,Automatic,first,Diesel,8
+Hyundai,Verna,12700.0,Manual,first,Petrol,3
+Maruti Suzuki,Wagon-R-1-0,80000.0,Manual,second,Petrol,17
+Honda,City,69500.0,Automatic,second,hybrid,16
+Mahindra,Quanto,50308.0,Manual,first,Diesel,13
+Hyundai,Xcent,140000.0,Manual,second,hybrid,10
+Hyundai,i10,780000.0,Manual,second,hybrid,16
+Mercedes-Benz,E-Class,38000.0,Automatic,second,Diesel,8
+Maruti Suzuki,Swift-Dzire,70000.0,Manual,second,Petrol,15
+Maruti Suzuki,Alto,89000.0,Manual,second,Petrol,16
+Hyundai,i10,40000.0,Automatic,second,Petrol,15
+Renault,KWID,45000.0,Manual,second,Petrol,10
+Toyota,Etios Liva,66119.0,Manual,second,hybrid,9
+Land Rover,Range Rover Sport,89000.0,Automatic,second,Diesel,7
+Maruti Suzuki,Swift,50000.0,Manual,second,Hybrid/CNG,16
+BMW,3 Series,70000.0,Automatic,first,Diesel,11
+BMW,3 Series,25000.0,Automatic,first,Petrol,6
+Ford,Ecosport,93000.0,Manual,first,Diesel,11
+Honda,City Hybrid eHEV,,Automatic,first,Diesel,17
+Hyundai,Fluidic Verna,64000.0,Automatic,second,Diesel,13
+Maruti Suzuki,Wagon-R,22513.0,Manual,first,Petrol,7
+Honda,City,71000.0,Automatic,second,Petrol,10
+Honda,Amaze,61472.0,Manual,second,Petrol,12
+Hyundai,i10,76000.0,Manual,second,Hybrid/CNG,14
+Mahindra,Thar,50000.0,Manual,second,Diesel,4
+Toyota,Corolla Altis,78000.0,Automatic,first,Hybrid/CNG,11
+Volkswagen,Vento,52000.0,Automatic,first,Petrol,13
+Maruti Suzuki,Swift-Dzire,82000.0,Manual,first,Petrol,6
+Chevrolet,Cruze,84231.0,Automatic,second,Diesel,10
+Toyota,Innova,120000.0,Manual,first,Diesel,13
+Toyota,Corolla Altis,120000.0,Automatic,second,Hybrid/CNG,13
+Maruti Suzuki,Wagon-R,58000.0,Manual,first,hybrid,11
+Volkswagen,Jetta,120000.0,Manual,first,Diesel,10
+Hyundai,i10,85200.0,Automatic,second,Hybrid/CNG,13
+Ford,Ecosport,53000.0,Manual,first,Diesel,12
+MG,Hector Plus,2000.0,Manual,first,Diesel,2
+Mahindra,Thar,9000.0,Manual,first,Diesel,8
+Toyota,Fortuner,248000.0,Automatic,first,Diesel,11
+Maruti Suzuki,Vitara-Brezza,64000.0,Manual,first,Diesel,6
+Maruti Suzuki,Swift Dzire,69000.0,Manual,first,Diesel,9
+Toyota,2.8 Legender 4X2,10000.0,Automatic,first,hybrid,5
+Maruti Suzuki,Swift-Dzire,110000.0,Automatic,second,Petrol,16
+Hyundai,i10,42500.0,Automatic,first,Petrol,13
+Hyundai,Creta,99250.0,Manual,second,Diesel,7
+BMW,3 Series,116260.0,Automatic,second,Diesel,14
+Maruti Suzuki,Alto K10,4000.0,Manual,first,Petrol,3
+Maruti Suzuki,Eeco,53750.0,Manual,first,Petrol,15
+Hyundai,i20,100000.0,Manual,second,Diesel,9
+Land Rover,Discovery Sport,62000.0,Automatic,first,Diesel,7
+Mahindra,Bolero,48248.0,Manual,second,Diesel,8
+Toyota,Fortuner,45000.0,Automatic,first,Diesel,6
+BMW,5 Series,61000.0,Automatic,second,Diesel,13
+Renault,KWID,50743.0,Manual,first,Petrol,8
+Toyota,Yaris,66000.0,Automatic,first,Petrol,8
+Hyundai,Creta,5000.0,Automatic,first,Petrol,3
+Maruti Suzuki,Wagon-R,138922.0,Manual,second,Hybrid/CNG,10
+Maruti Suzuki,Ertiga,70000.0,Manual,second,Diesel,11
+Honda,City,79000.0,Manual,second,Hybrid/CNG,12
+Maruti Suzuki,Wagon-R-1-0,78686.0,Manual,second,Petrol,17
+Honda,Amaze,45000.0,Manual,first,Petrol,13
+Honda,Jazz,65000.0,Automatic,first,Hybrid/CNG,16
+Datsun,GO Plus,26000.0,Manual,second,Petrol,9
+Maruti Suzuki,Alto-800,101915.0,Manual,second,Petrol,8
+Maruti Suzuki,S-Presso,25000.0,Automatic,second,Petrol,5
+Ford,Endeavour,91000.0,Automatic,second,Diesel,9
+Hyundai,Grand i10,51000.0,Manual,second,hybrid,7
+Ford,Ecosport,69000.0,Manual,second,hybrid,13
+Hyundai,Xcent,62500.0,Manual,first,Petrol,12
+Honda,City,33950.0,Automatic,first,Petrol,10
+Mercedes-Benz,CLA,58400.0,Automatic,second,Diesel,10
+Mini,Cooper Convertible,23000.0,Automatic,second,Petrol,13
+Toyota,Innova Crysta,55000.0,Automatic,second,Diesel,7
+Toyota,Corolla Altis,103000.0,Automatic,first,Petrol,9
+Maruti Suzuki,Wagon-R,121981.0,Automatic,second,Hybrid/CNG,14
+Maruti Suzuki,Swift-Dzire,77500.0,Manual,second,Petrol,15
+Maruti Suzuki,Ertiga,56000.0,Manual,first,Hybrid/CNG,4
+Hyundai,Grand i10,51000.0,Manual,second,Petrol,12
+Maruti Suzuki,Wagon-R,0.0,Automatic,first,Hybrid/CNG,8
+Volkswagen,Polo,152000.0,Manual,second,Diesel,10
+BMW,X1,57000.0,Automatic,second,Petrol,15
+Hyundai,Grand i10,100000.0,Automatic,second,Petrol,12
+Maruti Suzuki,Omni,80000.0,Manual,second,Hybrid/CNG,16
+Audi,A6,113000.0,Automatic,first,Diesel,12
+Mercedes-Benz,GLS,45000.0,Automatic,second,Diesel,8
+Hyundai,Alcazar,28987.0,Automatic,first,Diesel,5
+Maruti Suzuki,Celerio,58000.0,Automatic,second,Petrol,12
+Tata,Altroz,11400.0,Manual,first,Petrol,4
+Maruti Suzuki,Wagon-R,90000.0,Manual,second,hybrid,13
+Renault,KWID,34000.0,Manual,second,Petrol,6
+Honda,City,79000.0,Automatic,first,hybrid,8
+Honda,Amaze,85000.0,Manual,second,Diesel,13
+Mercedes-Benz,C-Class,86000.0,Automatic,first,Petrol,9
+Mercedes-Benz,GLA,7500.0,Automatic,first,Diesel,3
+Maruti Suzuki,Ertiga,75000.0,Manual,second,Hybrid/CNG,11
+Maruti Suzuki,Zen-Estilo,102910.0,Automatic,second,Petrol,19
+Hyundai,i10,72000.0,Manual,second,Petrol,14
+Renault,Duster,80000.0,Manual,second,Diesel,11
+Maruti Suzuki,Ertiga,65000.0,Manual,second,hybrid,12
+Renault,KWID,39000.0,Automatic,first,Petrol,9
+Mercedes-Benz,E-Class,18000.0,Automatic,first,Diesel,5
+Maruti Suzuki,maruti-suzuki-dzire,99572.0,Manual,second,Diesel,9
+Jeep,Compass,74500.0,Manual,first,Diesel,9
+Tata,Nano,35000.0,Manual,second,Petrol,12
+Maruti Suzuki,Ritz,195000.0,Manual,second,Petrol,16
+Maruti Suzuki,Baleno,57000.0,Manual,first,Diesel,9
+Hyundai,Eon,29900.0,Automatic,second,Petrol,9
+Land Rover,Discovery Sport,143500.0,Automatic,first,Diesel,6
+Volkswagen,VentoTest,84000.0,Automatic,second,Diesel,9
+Toyota,Fortuner,279000.0,Manual,first,Diesel,16
+Toyota,Innova,50999.0,Manual,second,Diesel,12
+Honda,City,81000.0,Manual,first,Petrol,15
+Maruti Suzuki,Baleno,40600.0,Manual,first,Petrol,3
+Volkswagen,Polo,63000.0,Automatic,first,Petrol,7
+Kia,Seltos,43123.0,Automatic,first,Petrol,5
+Toyota,Corolla Altis,46868.0,Automatic,second,Petrol,9
+Toyota,Innova,268000.0,Manual,second,Diesel,16
+Hyundai,Grand i10,49000.0,Manual,second,Hybrid/CNG,7
+Mercedes-Benz,G-Class,45000.0,Automatic,second,Petrol,9
+Maruti Suzuki,Wagon-R,73748.0,Automatic,first,hybrid,8
+Datsun,RediGO,17000.0,Automatic,first,Petrol,8
+Tata,Tiago,64000.0,Automatic,first,Petrol,8
+Honda,Jazz,88435.0,Automatic,first,Petrol,8
+Toyota,Innova,180000.0,Manual,second,Diesel,13
+Mahindra,XUV500,89000.0,Automatic,second,Diesel,8
+Mercedes-Benz,S-Class,75000.0,Automatic,second,Diesel,12
+Hyundai,Santa Fe,72000.0,Automatic,second,Diesel,12
+Toyota,Camry,16000.0,Automatic,first,Hybrid/CNG,7
+Maruti Suzuki,Alto-800,70000.0,Manual,second,hybrid,21
+Maruti Suzuki,Ciaz,26000.0,Manual,first,Petrol,6
+BMW,X7,25700.0,Automatic,second,Petrol,6
+Hyundai,Venue,51055.0,Automatic,first,Petrol,6
+Hyundai,Elantra,81000.0,Automatic,second,Petrol,8
+Honda,Brio,60000.0,Manual,second,Petrol,14
+Skoda,Rapid,66500.0,Automatic,second,hybrid,13
+Maruti Suzuki,Celerio,80000.0,Automatic,first,Petrol,4
+Ford,Endeavour,122000.0,Automatic,first,Diesel,6
+Audi,A4,172000.0,Automatic,second,Diesel,12
+Hyundai,Eon,52000.0,Manual,first,Petrol,12
+Maruti Suzuki,maruti-suzuki-dzire,77000.0,Manual,second,Petrol,16
+Audi,Q5,40000.0,Automatic,second,Diesel,6
+Honda,City,120000.0,Automatic,first,hybrid,16
+Maruti Suzuki,Alto-800,70000.0,Manual,second,hybrid,11
+Maruti Suzuki,Swift,111000.0,Manual,second,Diesel,15
+Maruti Suzuki,Swift,83000.0,Manual,first,Petrol,12
+Maruti Suzuki,S-Cross1,27800.0,Automatic,first,Diesel,8
+Maruti Suzuki,Swift,106000.0,Manual,second,Diesel,12
+Mahindra,XUV500,75000.0,Manual,first,Diesel,13
+Maruti Suzuki,Alto-800,6200.0,Manual,first,Petrol,3
+Chevrolet,Beat,69472.0,Manual,second,Petrol,15
+Honda,Jazz,52000.0,Automatic,first,hybrid,9
+Hyundai,i20,14000.0,Automatic,first,Petrol,5
+Skoda,Rapid,99000.0,Automatic,second,Diesel,11
+Maruti Suzuki,Ertiga,71000.0,Manual,second,hybrid,9
+Mahindra,XUV500,100000.0,Manual,first,Diesel,10
+Maruti Suzuki,S-Cross,72000.0,Manual,first,Diesel,9
+Mahindra,Thar,14000.0,Automatic,first,Petrol,4
+Maruti Suzuki,Wagon-R,15899.0,Automatic,second,Petrol,4
+Mahindra,KUV 100,90000.0,Manual,second,Diesel,10
+Maruti Suzuki,Ertiga,59000.0,Automatic,first,Hybrid/CNG,7
+Maruti Suzuki,Swift,40000.0,Automatic,second,Hybrid/CNG,11
+Land Rover,Discovery Sport,51000.0,Automatic,first,Diesel,8
+Hyundai,Elantra,71000.0,Automatic,second,Petrol,14
+Hyundai,Santro Xing,97000.0,Manual,second,Petrol,14
+Audi,A3,88000.0,Automatic,first,Diesel,11
+Ford,Ecosport,65045.0,Manual,first,Petrol,9
+Toyota,Urban Cruiser Hyryder,8200.0,Automatic,first,hybrid,3
+Maruti Suzuki,Wagon-R,100000.0,Automatic,second,hybrid,7
+Honda,City,35000.0,Automatic,first,Petrol,6
+Skoda,Octavia,65000.0,Automatic,first,Diesel,8
+Maruti Suzuki,Swift,,Automatic,first,hybrid,8
+Hyundai,New i20,67000.0,Automatic,second,hybrid,9
+Mercedes-Benz,S-Class,34500.0,Automatic,first,Diesel,9
+Maruti Suzuki,Swift,80000.0,Automatic,first,Petrol,8
+Maruti Suzuki,Swift,80000.0,Manual,second,Diesel,12
+Maruti Suzuki,Ertiga,240000.0,Manual,first,hybrid,6
+Mercedes-Benz,E-Class,86000.0,Automatic,second,Diesel,9
+Audi,A4,50000.0,Automatic,first,Petrol,5
+Honda,City,9500.0,Automatic,first,Petrol,3
+Toyota,Innova,125000.0,Manual,second,Diesel,13
+Toyota,Fortuner,90000.0,Automatic,second,Diesel,8
+Honda,BRV,77285.0,Automatic,second,Petrol,7
+Honda,City,59121.0,Manual,first,Petrol,12
+Maruti Suzuki,A-Star,28000.0,Automatic,first,Petrol,13
+Skoda,Rapid,123000.0,Automatic,first,Diesel,9
+Maruti Suzuki,Wagon-R,177500.0,Manual,second,hybrid,19
+Honda,Amaze,66000.0,Manual,second,Hybrid/CNG,13
+Hyundai,i20,88000.0,Manual,second,Petrol,16
+Renault,KWID,73146.0,Manual,first,Petrol,5
+Tata,Tiago,39065.0,Manual,first,Petrol,9
+Maruti Suzuki,Wagon-R,75000.0,Manual,first,Hybrid/CNG,10
+Maruti Suzuki,Alto-K10,8500.0,Manual,first,Petrol,4
+Kia,Carnival,30000.0,Automatic,first,Diesel,4
+Maruti Suzuki,Alto-K10,70147.0,Manual,second,hybrid,12
+Maruti Suzuki,Swift-Dzire,63500.0,Manual,first,Petrol,5
+Maruti Suzuki,Wagon-R,140849.0,Manual,first,Petrol,16
+Maruti Suzuki,Wagon-R-1-0,72000.0,Manual,second,Hybrid/CNG,15
+Maruti Suzuki,Alto-800,71200.0,Manual,second,hybrid,10
+Hyundai,Grand i10,57000.0,Automatic,second,hybrid,11
+Audi,A4,95000.0,Automatic,first,Diesel,9
+Maruti Suzuki,Swift,96000.0,Automatic,second,hybrid,16
+Maruti Suzuki,Swift,95000.0,Automatic,first,hybrid,7
+Tata,Tigor,53550.0,Automatic,first,hybrid,8
+Hyundai,Verna,57000.0,Automatic,first,Petrol,8
+BMW,X5,58500.0,Automatic,second,Diesel,9
+Mercedes-Benz,E-Class,62000.0,Automatic,second,Diesel,10
+Maruti Suzuki,Baleno,55000.0,Automatic,second,Petrol,10
+Nissan,Sunny,130000.0,Manual,second,Diesel,14
+Toyota,Corolla,114831.0,Automatic,second,Petrol,20
+Mercedes-Benz,GLC Class,32000.0,Automatic,first,Petrol,5
+Maruti Suzuki,Swift,58000.0,Manual,first,Diesel,8
+Maruti Suzuki,Celerio,68000.0,Manual,second,Hybrid/CNG,7
+Maruti Suzuki,Wagon-R,67000.0,Automatic,second,hybrid,7
+Lexus,LX,24000.0,Automatic,first,Diesel,2
+Honda,CRV,75000.0,Automatic,second,Petrol,21
+Maruti Suzuki,Swift-Dzire,135000.0,Manual,second,Diesel,13
+Citroen,C5 Aircross,54384.0,Automatic,first,Diesel,5
+Maruti Suzuki,Wagon-R,72500.0,Manual,first,Hybrid/CNG,6
+Audi,Q3,120000.0,Automatic,second,Diesel,9
+Kia,Seltos,46000.0,Automatic,first,Diesel,6
+Maruti Suzuki,Brezza,8700.0,Automatic,first,Petrol,3
+Toyota,Innova Crysta,195698.0,Manual,first,Diesel,7
+Mercedes-Benz,GLA Class,32600.0,Automatic,second,Petrol,9
+Honda,Jazz,32000.0,Manual,second,Petrol,8
+Chevrolet,Beat,142000.0,Automatic,first,Hybrid/CNG,15
+Hyundai,Xcent Prime,156000.0,Manual,first,Hybrid/CNG,8
+Skoda,Superb,87000.0,Automatic,second,Diesel,9
+Tata,Indigo Ecs,132000.0,Manual,second,Diesel,11
+Hyundai,i10,62000.0,Manual,second,Hybrid/CNG,13
+Audi,A4,85000.0,Automatic,second,Diesel,11
+Maruti Suzuki,Wagon-R,50000.0,Manual,first,hybrid,5
+Hyundai,i20,54500.0,Manual,second,Diesel,11
+Hyundai,Verna,84000.0,Manual,second,hybrid,20
+Maruti Suzuki,Swift,48000.0,Automatic,second,Petrol,8
+BMW,3 Series,69000.0,Automatic,second,Diesel,14
+Mahindra,XUV500,75000.0,Manual,second,Diesel,14
+Hyundai,Verna,30000.0,Automatic,first,Petrol,3
+Tata,Nexon,70000.0,Manual,first,Diesel,7
+Honda,City,80000.0,Manual,second,Diesel,8
+Renault,KWID,67316.0,Automatic,second,Petrol,9
+Renault,Scala,113000.0,Manual,second,Diesel,13
+Land Rover,Range Rover Sport,82000.0,Automatic,first,Diesel,11
+Maruti Suzuki,Alto,101325.0,Manual,second,Petrol,16
+Maruti Suzuki,Ciaz,93000.0,Manual,second,Diesel,9
+Maruti Suzuki,Swift,42583.0,Manual,second,Diesel,16
+Hyundai,i10,34799.0,Manual,first,Petrol,15
+Maruti Suzuki,Celerio,65000.0,Manual,first,Petrol,12
+Maruti Suzuki,S-Presso,13000.0,Manual,first,Hybrid/CNG,3
+BMW,X1,33000.0,Automatic,first,Diesel,14
+Honda,City,70000.0,Manual,second,Petrol,23
+Hyundai,Grand i10,72000.0,Manual,first,Hybrid/CNG,9
+Mitsubishi,Pajero Sport,87000.0,Automatic,second,Diesel,11
+Hyundai,Grand i10,65000.0,Manual,first,Hybrid/CNG,10
+Toyota,Fortuner,169000.0,Automatic,first,Diesel,13
+Mahindra,XUV700,4000.0,Manual,first,Petrol,3
+Maruti Suzuki,Celerio,113000.0,Automatic,second,Petrol,11
+Mahindra,XUV500,70000.0,Manual,second,Diesel,6
+Toyota,Land Cruiser,60000.0,Automatic,first,Diesel,8
+Maruti Suzuki,Baleno,37000.0,Automatic,first,Petrol,4
+Maruti Suzuki,Vitara-Brezza,96000.0,Manual,second,Diesel,10
+Tata,Altroz,26000.0,Manual,first,Petrol,6
+Mahindra,Thar,52000.0,Manual,first,Diesel,4
+Maruti Suzuki,Brezza,68000.0,Manual,second,Diesel,9
+Chevrolet,Beat,45000.0,Manual,second,Diesel,13
+Maruti Suzuki,Vitara Brezza,48000.0,Manual,first,Petrol,6
+Maruti Suzuki,Wagon R,80000.0,Manual,second,Petrol,16
+Maruti Suzuki,Swift-Dzire,85000.0,Automatic,second,Diesel,9
+Mercedes-Benz,GLS,25000.0,Automatic,second,Diesel,5
+Volkswagen,VentoTest,96200.0,Manual,second,Diesel,8
+Maruti Suzuki,Swift,48000.0,Manual,first,Diesel,11
+Toyota,Yaris,32000.0,Automatic,first,Petrol,5
+Toyota,Etios,85000.0,Manual,first,Diesel,13
+Volvo,S60 Cross Country,85000.0,Automatic,second,Diesel,8
+Mahindra,XUV500,80695.0,Automatic,second,Diesel,9
+Maruti Suzuki,Wagon-R,65000.0,Manual,second,hybrid,12
+Hyundai,Creta,35000.0,Automatic,first,Diesel,3
+Maruti Suzuki,Baleno-RS,45000.0,Manual,first,Petrol,6
+Maruti Suzuki,Celerio,32.0,Automatic,first,Hybrid/CNG,5
+Hyundai,i20,56000.0,Manual,second,Petrol,9
+Toyota,Etios Liva,62000.0,Manual,second,hybrid,9
+Maruti Suzuki,Wagon-R,180000.0,Automatic,first,hybrid,8
+Honda,BRV,66000.0,Automatic,second,Hybrid/CNG,8
+Mahindra,XUV500,100000.0,Manual,second,Diesel,10
+Tata,Manza,2010.0,Manual,first,Hybrid/CNG,16
+Maruti Suzuki,Swift-Dzire,25000.0,Automatic,first,Petrol,7
+Renault,Duster,105000.0,Manual,first,Diesel,9
+Tata,Tiago,43000.0,Automatic,first,Hybrid/CNG,8
+BMW,5 Series,36000.0,Automatic,second,Petrol,8
+Mahindra,XUV500,119000.0,Manual,second,Diesel,9
+Maruti Suzuki,Ertiga,75871.0,Manual,second,Hybrid/CNG,12
+Maruti Suzuki,Celerio,262470.0,Automatic,first,hybrid,7
+BMW,X1,90000.0,Automatic,second,Diesel,13
+Maruti Suzuki,Ertiga,42541.0,Manual,first,hybrid,6
+Maruti Suzuki,Celerio,29000.0,Automatic,second,Petrol,8
+Mahindra,XUV500,89000.0,Automatic,first,Diesel,8
+Honda,Amaze,48000.0,Manual,first,hybrid,8
+Hyundai,Alcazar,23950.0,Automatic,first,Diesel,4
+Mercedes-Benz,S-Class,95000.0,Automatic,second,Petrol,25
+BMW,Z4,32000.0,Automatic,second,Petrol,5
+Audi,Q3,97253.0,Automatic,first,Diesel,13
+Maruti Suzuki,Zen-Estilo,,Automatic,second,Petrol,18
+Hyundai,Elite i20,64000.0,Manual,first,hybrid,12
+Ford,Endeavour,70000.0,Automatic,second,Diesel,9
+Honda,Amaze,44000.0,Manual,first,Petrol,7
+Volvo,S60,45000.0,Automatic,second,Diesel,14
+Maruti Suzuki,Celerio,104000.0,Automatic,second,Petrol,11
+Renault,KWID,34000.0,Automatic,first,Petrol,7
+Hyundai,Elite i20,82000.0,Manual,second,Petrol,9
+Renault,Triber,58000.0,Automatic,second,Petrol,5
+Maruti Suzuki,Swift-Dzire-Tour,42000.0,Manual,first,hybrid,2
+Tata,Zest,33500.0,Automatic,first,Hybrid/CNG,6
+Maruti Suzuki,Wagon-R,63000.0,Manual,second,hybrid,7
+Honda,City,75000.0,Manual,first,hybrid,12
+Hyundai,i10,55600.0,Automatic,second,Petrol,16
+Mercedes-Benz,A Class,35000.0,Automatic,second,Petrol,11
+Toyota,Fortuner,149000.0,Manual,second,Diesel,8
+Skoda,Octavia,108000.0,Automatic,first,Diesel,11
+Chevrolet,Beat,45000.0,Manual,second,Petrol,15
+Fiat,Grande Punto,66000.0,Manual,second,Petrol,11
+Hyundai,Elite i20,70900.0,Manual,first,Hybrid/CNG,12
+Mini,Cooper Countryman,38000.0,Automatic,second,Petrol,13
+Toyota,Qualis,96000.0,Manual,second,Diesel,22
+Hyundai,Eon,48000.0,Manual,second,Petrol,12
+Mahindra,Thar,14500.0,Automatic,first,Diesel,3
+Hyundai,i10,50000.0,Manual,first,Petrol,13
+Tata,Tigor,62000.0,Automatic,first,hybrid,8
+Mercedes-Benz,C-Class,15000.0,Automatic,second,Diesel,8
+Maruti Suzuki,Swift-Dzire-Tour,120000.0,Manual,second,Diesel,8
+Hyundai,Verna,55000.0,Automatic,second,Petrol,6
+Maruti Suzuki,Swift-Dzire-Tour,107000.0,Manual,second,Diesel,10
+Maruti Suzuki,Ertiga,73000.0,Manual,first,Hybrid/CNG,5
+Maruti Suzuki,Eeco,62400.0,Manual,first,Hybrid/CNG,7
+Honda,Amaze,77000.0,Manual,first,Diesel,8
+Hyundai,Creta,57000.0,Automatic,first,Petrol,9
+Maruti Suzuki,Swift-Dzire,63000.0,Automatic,second,hybrid,9
+Mercedes-Benz,C Class,105000.0,Automatic,second,Petrol,11
+Skoda,Fabia,67000.0,Manual,first,Diesel,14
+Maruti Suzuki,Swift Dzire,77000.0,Manual,second,Diesel,9
+Hyundai,Venue,17000.0,Manual,first,Petrol,5
+Maruti Suzuki,Eeco,44000.0,Manual,second,hybrid,3
+Maruti Suzuki,Brezza,49000.0,Manual,first,Petrol,6
+Jeep,Compass,40000.0,Automatic,second,Diesel,7
+Renault,KWID,77105.0,Automatic,second,Petrol,7
+Mercedes-Benz,C-Class,29000.0,Automatic,second,Diesel,6
+Hyundai,Grand i10,72000.0,Manual,first,hybrid,10
+Maruti Suzuki,Wagon R,54694.0,Manual,second,Petrol,10
+Maruti Suzuki,Swift,40000.0,Automatic,first,Petrol,4
+Hyundai,Eon,30000.0,Manual,second,Petrol,10
+BMW,X4,9000.0,Automatic,second,Petrol,4
+Maruti Suzuki,Baleno,42000.0,Manual,first,Petrol,4
+Mercedes-Benz,M-Class,105000.0,Automatic,first,Diesel,12
+Honda,Amaze,31986.0,Manual,first,Petrol,5
+BMW,7 Series,99000.0,Automatic,second,Diesel,9
+Honda,City,65000.0,Automatic,first,Petrol,12
+Mahindra,Marazzo,80000.0,Manual,second,Diesel,8
+Mahindra,Scorpio Classic,55000.0,Manual,second,Diesel,10
+Hyundai,Aura,76652.0,Automatic,first,Hybrid/CNG,3
+Jeep,Compass,48000.0,Automatic,first,Diesel,6
+Maruti Suzuki,Wagon-R,96000.0,Manual,second,Petrol,8
+Maruti Suzuki,Sx4,78300.0,Manual,first,hybrid,15
+Hyundai,Elantra,53500.0,Manual,first,Diesel,11
+Maruti Suzuki,Swift,2600.0,Automatic,first,Petrol,2
+Volvo,S60,122000.0,Automatic,second,Diesel,14
+Hyundai,Fluidic Verna,68000.0,Manual,second,Petrol,12
+Volkswagen,Polo,76000.0,Manual,first,Petrol,9
+Mahindra,Thar,7300.0,Automatic,first,Diesel,3
+Maruti Suzuki,Swift,34000.0,Manual,first,Hybrid/CNG,4
+Hyundai,Elite i20,54000.0,Manual,first,Petrol,11
+Maruti Suzuki,Swift,65000.0,Manual,first,Diesel,8
+Maruti Suzuki,Ignis,40000.0,Automatic,first,hybrid,8
+Hyundai,i10,79810.0,Manual,second,Hybrid/CNG,14
+Tata,Tiago,22000.0,Manual,first,hybrid,4
+Hyundai,Venue,32000.0,Manual,first,Petrol,7
+Honda,WR-V,69000.0,Manual,first,Diesel,5
+Hyundai,Creta,38000.0,Automatic,second,Petrol,7
+Honda,City,78000.0,Manual,first,Petrol,10
+Hyundai,Aura,40000.0,Manual,first,Petrol,5
+Maruti Suzuki,Swift-Dzire-Tour,52000.0,Manual,first,hybrid,3
+Toyota,Innova Crysta,118000.0,Automatic,first,Diesel,8
+Maruti Suzuki,Ciaz,39000.0,Automatic,first,hybrid,6
+Maruti Suzuki,Baleno,66000.0,Automatic,second,Hybrid/CNG,8
+Kia,Sonet,49000.0,Automatic,first,Petrol,5
+Toyota,Innova Crysta,135000.0,Automatic,second,Diesel,8
+Hyundai,Santro Xing,25.0,Automatic,first,Hybrid/CNG,16
+Maruti Suzuki,Alto-800,60000.0,Manual,second,Hybrid/CNG,8
+Maruti Suzuki,Eeco,93000.0,Manual,first,Hybrid/CNG,8
+Tata,Nexon,47000.0,Manual,first,Petrol,7
+Hyundai,Aura,10000.0,Automatic,first,Hybrid/CNG,2
+Maruti Suzuki,Alto 800,29584.0,Manual,first,Petrol,9
+Maruti Suzuki,Ritz,55000.0,Manual,second,Diesel,11
+Maruti Suzuki,Omni,80000.0,Automatic,first,Hybrid/CNG,8
+Tata,Nano,70000.0,Manual,second,Petrol,12
+Honda,City,27000.0,Manual,first,Petrol,4
+Mahindra,XUV 300,15000.0,Manual,first,Diesel,4
+Tata,Nexon,20000.0,Automatic,second,Petrol,7
+BMW,3 Series,105000.0,Automatic,first,Diesel,14
+Maruti Suzuki,Wagon-R,90000.0,Automatic,first,hybrid,7
+BMW,5 Series,115000.0,Automatic,second,Diesel,15
+Jeep,Compass,14000.0,Automatic,first,Diesel,5
+Maruti Suzuki,Swift,54001.0,Manual,first,Hybrid/CNG,15
+Maruti Suzuki,Omni,75000.0,Automatic,first,Hybrid/CNG,19
+Hyundai,Aura,53000.0,Manual,first,Petrol,6
+Hyundai,Grand i10 Prime,75320.0,Manual,first,hybrid,7
+Honda,City,97000.0,Automatic,second,hybrid,16
+Hyundai,Aura,18121.0,Manual,first,Petrol,5
+Maruti Suzuki,XL6,76000.0,Manual,first,Petrol,4
+Hyundai,Aura,,Automatic,first,Hybrid/CNG,4
+Honda,Jazz,32000.0,Manual,first,Petrol,8
+Maruti Suzuki,Ciaz,48000.0,Manual,first,hybrid,10
+Hyundai,Verna,85000.0,Automatic,first,hybrid,14
+Maruti Suzuki,Swift,68000.0,Manual,first,Petrol,13
+Audi,A6,51000.0,Automatic,second,Petrol,10
+Maruti Suzuki,Eeco,79000.0,Manual,second,Hybrid/CNG,12
+Audi,A6,70334.0,Automatic,second,Diesel,13
+Tata,Tiago,33000.0,Automatic,second,hybrid,8
+Chevrolet,Cruze,70000.0,Automatic,first,Diesel,13
+Kia,Sonet,61000.0,Automatic,second,Petrol,5
+Toyota,Innova Crysta,85000.0,Manual,second,Diesel,8
+Maruti Suzuki,Baleno,55000.0,Manual,second,Petrol,10
+Toyota,Innova Crysta,190000.0,Manual,first,Diesel,10
+Volkswagen,Jetta,,Manual,second,Diesel,13
+Mini,Cooper Countryman,31900.0,Automatic,second,Petrol,7
+Renault,KWID,61000.0,Manual,second,Petrol,10
+Maruti Suzuki,Baleno,54000.0,Manual,second,hybrid,10
+Mercedes-Benz,C-Class,64998.0,Automatic,second,Diesel,10
+Renault,KWID,54000.0,Automatic,second,Petrol,9
+Hyundai,Grand i10,120000.0,Manual,first,Petrol,10
+Porsche,Cayenne,66000.0,Automatic,first,Petrol,13
+Renault,KWID,60000.0,Automatic,second,Petrol,7
+Maruti Suzuki,Celerio X,38000.0,Automatic,second,Petrol,8
+Tata,Tiago,74000.0,Manual,second,Petrol,5
+Maruti Suzuki,Wagon-R,38482.0,Manual,first,Petrol,11
+Hummer,H2,22000.0,Automatic,first,Petrol,17
+Hyundai,Verna,120000.0,Automatic,second,hybrid,15
+Maruti Suzuki,Grand Vitara,27000.0,Automatic,first,hybrid,4
+Honda,City ZX,140000.0,Automatic,second,hybrid,18
+BMW,M340i,500.0,Automatic,first,Petrol,4
+Nissan,Sunny,78500.0,Automatic,second,Hybrid/CNG,12
+Ford,Endeavour,90000.0,Automatic,first,Diesel,9
+Toyota,Innova Crysta,62000.0,Manual,first,Diesel,6
+Honda,Amaze,70306.0,Automatic,second,hybrid,12
+Skoda,Kodiaq,57000.0,Automatic,first,Diesel,6
+Maruti Suzuki,Ertiga,82000.0,Manual,second,hybrid,10
+Toyota,Innova Crysta,225000.0,Automatic,second,Diesel,9
+Mahindra,Alturas G4,50000.0,Automatic,second,Diesel,6
+Maruti Suzuki,Baleno,70000.0,Automatic,first,hybrid,8
+Hyundai,Creta,45000.0,Automatic,first,Petrol,9
+BMW,5 Series,42000.0,Automatic,second,Diesel,9
+Maruti Suzuki,Wagon-R,7514.0,Automatic,first,Petrol,8
+Maruti Suzuki,Wagon-R,58670.0,Manual,first,Petrol,9
+Ford,Ecosport,100000.0,Automatic,first,Petrol,11
+MG,Hector,70000.0,Manual,first,Diesel,6
+Hyundai,i20,64000.0,Manual,second,Diesel,8
+Maruti Suzuki,S-Cross1,82758.0,Manual,second,Diesel,8
+Toyota,Fortuner,68000.0,Automatic,first,Diesel,6
+Maruti Suzuki,Baleno,31235.0,Automatic,first,Hybrid/CNG,9
+Maruti Suzuki,Swift-Dzire,70000.0,Manual,second,Petrol,12
+Maruti Suzuki,Ciaz,50000.0,Automatic,first,hybrid,8
+Hyundai,Santro,102820.0,Manual,second,Petrol,19
+Hyundai,Santro Xing,129000.0,Manual,second,Petrol,17
+Tata,Nexon,67231.0,Manual,first,Diesel,7
+Honda,City,86000.0,Manual,second,Hybrid/CNG,16
+Hyundai,i20,115000.0,Manual,second,Diesel,8
+Maruti Suzuki,Ertiga,25000.0,Automatic,first,hybrid,4
+Hyundai,Elite i20,70000.0,Manual,second,Diesel,7
+Maruti Suzuki,Ertiga,56000.0,Manual,second,Hybrid/CNG,13
+Hyundai,Creta,70000.0,Automatic,second,Petrol,6
+Tata,Tiago,9000.0,Manual,first,Petrol,3
+Tata,Zest,62000.0,Manual,second,hybrid,7
+Maruti Suzuki,Grand Vitara,13400.0,Automatic,first,Hybrid/CNG,2
+Mahindra,Thar,27000.0,Automatic,first,Diesel,4
+Mini,Cooper 3 DOOR,13000.0,Automatic,first,Petrol,7
+Honda,City,28000.0,Automatic,second,Petrol,8
+Kia,Sonet,35000.0,Automatic,first,hybrid,5
+Honda,Brio,50000.0,Manual,first,Petrol,13
+Maruti Suzuki,Swift-Dzire-Tour,90000.0,Manual,second,Diesel,11
+Maruti Suzuki,A-Star,252000.0,Automatic,first,hybrid,14
+Audi,Q3,175000.0,Automatic,first,Diesel,13
+Tata,Safari,41000.0,Manual,first,Diesel,3
+Volkswagen,VentoTest,66000.0,Automatic,first,Diesel,9
+Hyundai,Creta,40000.0,Automatic,first,Diesel,4
+Mercedes-Benz,E-Class,49000.0,Automatic,first,Petrol,6
+Mahindra,XUV700,29705.0,Automatic,first,Diesel,4
+Hyundai,Aura,25000.0,Manual,second,Petrol,5
+Hyundai,Elite i20,72000.0,Manual,second,hybrid,11
+Hyundai,Eon,52000.0,Automatic,first,hybrid,8
+Skoda,Rapid,19121.0,Automatic,first,Petrol,5
+Hyundai,Creta,27531.0,Manual,first,Petrol,5
+Maruti Suzuki,Omni,90000.0,Automatic,second,Hybrid/CNG,9
+Maruti Suzuki,Wagon-R,72000.0,Manual,first,Petrol,7
+Skoda,Superb,90000.0,Automatic,second,Petrol,11
+Jeep,Meridian,19780.0,Automatic,first,Diesel,3
+Maruti Suzuki,Alto-K10,95500.0,Manual,second,Petrol,15
+Maruti Suzuki,Zen-Estilo,25370.0,Manual,first,Petrol,16
+Mini,Cooper S,53000.0,Automatic,second,Petrol,13
+Tata,Safari Storme,81000.0,Manual,second,Diesel,9
+Hyundai,Aura,20000.0,Manual,second,Petrol,5
+Mahindra,Scorpio,70013.0,Automatic,first,Diesel,10
+Honda,Brio,149000.0,Automatic,second,Petrol,12
+Mahindra,Ssangyong-Rexton,91000.0,Manual,second,Diesel,12
+Porsche,Boxster,14000.0,Automatic,first,Petrol,7
+Volkswagen,Polo,44000.0,Automatic,second,Petrol,8
+Renault,Lodgy,58000.0,Manual,first,Diesel,11
+Maruti Suzuki,Wagon-R-1-0,42000.0,Manual,first,Hybrid/CNG,5
+BMW,3 Series GT,74000.0,Automatic,first,Diesel,11
+Renault,Triber,54000.0,Automatic,first,Petrol,4
+Maruti Suzuki,Esteem,45000.0,Manual,second,Petrol,20
+Hyundai,i10,70000.0,Manual,second,Hybrid/CNG,16
+Maruti Suzuki,Celerio,44000.0,Manual,first,Hybrid/CNG,11
+Ford,Ecosport,9000.0,Automatic,first,Petrol,10
+Mahindra,KUV 100,70000.0,Manual,first,Petrol,10
+Hyundai,Verna,18.0,Automatic,second,Hybrid/CNG,16
+Audi,Q5,134000.0,Automatic,first,Diesel,8
+Chevrolet,Sail U-VA,73500.0,Manual,second,Diesel,13
+Hyundai,i20,73000.0,Manual,second,Diesel,14
+Hyundai,Verna,88000.0,Manual,first,hybrid,9
+Maruti Suzuki,Alto,55000.0,Manual,second,Petrol,15
+Maruti Suzuki,Wagon-R,84000.0,Manual,second,hybrid,19
+Hyundai,Grand i10,65473.0,Manual,first,Hybrid/CNG,7
+Mercedes-Benz,S-Class,42000.0,Automatic,second,Petrol,15
+Mahindra,Thar,11000.0,Manual,first,Diesel,4
+Toyota,Fortuner,90000.0,Manual,first,Diesel,7
+Hyundai,Verna,125350.0,Manual,second,Diesel,11
+Maruti Suzuki,Jimny,1800.0,Automatic,first,Petrol,3
+Tata,Tiago,57000.0,Manual,first,Petrol,7
+Toyota,Innova Crysta,108277.0,Automatic,first,Diesel,9
+Fiat,Punto,76000.0,Manual,first,Petrol,17
+Toyota,Fortuner,78000.0,Automatic,first,Diesel,5
+Chevrolet,Beat,78000.0,Manual,second,hybrid,15
+Maruti Suzuki,Swift-Dzire,69000.0,Manual,second,Petrol,14
+Honda,Jazz,81000.0,Manual,second,Petrol,11
+Maruti Suzuki,Baleno,47231.0,Manual,first,Petrol,9
+Maruti Suzuki,Wagon-R,80000.0,Manual,first,Hybrid/CNG,11
+Maruti Suzuki,Baleno,22949.0,Automatic,second,Petrol,5
+Volkswagen,VentoTest,32000.0,Automatic,second,Petrol,14
+Hyundai,Creta,25000.0,Automatic,first,Petrol,4
+Hyundai,i20,50500.0,Manual,second,Petrol,9
+Maruti Suzuki,Wagon-R-1-0,73500.0,Manual,first,Hybrid/CNG,7
+Honda,Amaze,68000.0,Automatic,first,hybrid,10
+Maruti Suzuki,Swift-Dzire,68000.0,Manual,second,hybrid,14
+Mahindra,Bolero,70000.0,Manual,first,Diesel,9
+Maruti Suzuki,Celerio,69000.0,Automatic,first,Petrol,11
+Maruti Suzuki,Celerio-X,60000.0,Manual,second,Petrol,7
+Hyundai,Xcent,87000.0,Automatic,second,hybrid,10
+Hyundai,Xcent,52000.0,Manual,first,Hybrid/CNG,8
+Hyundai,i10,64000.0,Automatic,second,Petrol,14
+Mahindra,XUV500,95000.0,Manual,first,Diesel,10
+Maruti Suzuki,Vitara-Brezza,47000.0,Manual,first,Diesel,7
+Hyundai,Aura,49000.0,Manual,first,Diesel,5
+Toyota,Innova Crysta,70000.0,Automatic,first,Diesel,6
+Honda,City,96000.0,Automatic,second,hybrid,16
+Maruti Suzuki,Ertiga,46000.0,Manual,second,hybrid,5
+Maruti Suzuki,Swift-Dzire,41000.0,Automatic,first,Hybrid/CNG,13
+Hyundai,i20,90200.0,Manual,second,hybrid,17
+Toyota,Corolla Altis,85000.0,Automatic,first,hybrid,10
+Maruti Suzuki,Baleno,35866.0,Automatic,first,Hybrid/CNG,9
+Jaguar,XJ,35000.0,Automatic,first,Diesel,13
+Maruti Suzuki,Swift,65000.0,Manual,first,Hybrid/CNG,6
+Hyundai,i20,65000.0,Automatic,first,hybrid,7
+Hyundai,Venue,35000.0,Manual,first,Petrol,3
+Maruti Suzuki,Ertiga,100000.0,Manual,second,Diesel,10
+Mercedes-Benz,E-Class,73000.0,Automatic,first,Diesel,10
+Skoda,Slavia,5400.0,Automatic,first,Petrol,3
+Hyundai,Creta,89360.0,Automatic,second,Petrol,8
+Hyundai,Xcent,130000.0,Manual,second,Diesel,8
+Toyota,Innova Crysta,61500.0,Automatic,first,Diesel,6
+Mahindra,Xylo,220000.0,Manual,second,Diesel,10
+Ford,Ecosport,86000.0,Manual,second,Diesel,8
+BMW,3 Series GT,136000.0,Automatic,first,Diesel,12
+Renault,Duster,83000.0,Automatic,second,Diesel,8
+MG,Hector,9000.0,Automatic,first,Petrol,5
+Audi,Q3,68000.0,Automatic,first,Diesel,11
+Hyundai,Grand i10 Nios,37115.0,Manual,second,Petrol,6
+BMW,3 Series,57000.0,Automatic,first,Diesel,13
+Maruti Suzuki,Ignis,41000.0,Automatic,second,hybrid,9
+Maruti Suzuki,Alto-800,20000.0,Automatic,second,hybrid,18
+Tata,Punch,19100.0,Manual,first,Petrol,4
+Skoda,Rapid,76500.0,Manual,second,Diesel,14
+Mini,Cooper Countryman,39000.0,Automatic,first,Petrol,8
+Mahindra,XUV700,13000.0,Automatic,first,Petrol,4
+Hyundai,Creta,95000.0,Manual,first,Diesel,6
+Volkswagen,Taigun,20000.0,Automatic,first,Petrol,5
+Maruti Suzuki,Sx4,90000.0,Automatic,second,hybrid,15
+Maruti Suzuki,Swift,71000.0,Automatic,first,Petrol,7
+Hyundai,Creta,81000.0,Automatic,first,Petrol,9
+Maruti Suzuki,Swift-Dzire-Tour,30.0,Automatic,second,hybrid,7
+Maruti Suzuki,Wagon-R-1-0,165000.0,Manual,second,Hybrid/CNG,12
+Datsun,RediGO,63000.0,Manual,first,Petrol,8
+Mercedes-Benz,GLA,75000.0,Automatic,second,Diesel,9
+Maruti Suzuki,Celerio,84999.0,Manual,second,hybrid,7
+Maruti Suzuki,Swift,19245.0,Automatic,first,Petrol,4
+Maruti Suzuki,Swift-Dzire,100000.0,Manual,second,Diesel,16
+Hyundai,i10,85500.0,Manual,first,Petrol,17
+Honda,Amaze,110000.0,Manual,first,Petrol,12
+Maruti Suzuki,Wagon-R,7503.0,Automatic,first,Petrol,8
+Tata,Harrier,50000.0,Manual,first,Diesel,4
+Mercedes-Benz,B Class,38000.0,Automatic,second,Petrol,12
+Bentley,Flying Spur,22000.0,Automatic,first,Petrol,9
+Maruti Suzuki,Celerio,111000.0,Automatic,first,hybrid,7
+Maruti Suzuki,Celerio,42000.0,Automatic,second,hybrid,8
+Honda,City,68000.0,Automatic,first,Petrol,7
+Audi,Q3,58000.0,Automatic,second,Diesel,8
+Toyota,Fortuner,75000.0,Manual,second,Diesel,12
+Mahindra,XUV500,49500.0,Automatic,second,Diesel,9
+Tata,Nexon,38000.0,Manual,first,Petrol,8
+Kia,Seltos,54500.0,Automatic,first,Diesel,7
+Hyundai,Grand i10,200.0,Automatic,second,hybrid,15
+Maruti Suzuki,Ertiga,34000.0,Automatic,first,hybrid,3
+Maruti Suzuki,Ciaz,48000.0,Automatic,first,Petrol,10
+Maruti Suzuki,Swift,76000.0,Manual,first,Petrol,7
+Maruti Suzuki,Eeco,55644.0,Manual,first,Hybrid/CNG,8
+Audi,Q7,20000.0,Automatic,first,Petrol,4
+Mercedes-Benz,C-Class,96000.0,Automatic,second,Diesel,10
+Audi,Q7,65000.0,Automatic,first,hybrid,10
+Maruti Suzuki,Zen-Estilo,100000.0,Manual,second,hybrid,21
+Skoda,Superb,138000.0,Automatic,second,Diesel,9
+Maruti Suzuki,Wagon-R-1-0,38000.0,Manual,first,Hybrid/CNG,5
+Hyundai,i10,85000.0,Manual,second,Petrol,15
+Mahindra,XUV500,75000.0,Manual,first,Diesel,11
+Maruti Suzuki,Wagon-R,68000.0,Manual,second,Petrol,9
+Tata,Manza,100000.0,Manual,second,Diesel,13
+Volkswagen,VentoTest,48000.0,Automatic,first,Hybrid/CNG,15
+Maruti Suzuki,Wagon-R-1-0,42500.0,Manual,second,Petrol,7
+Maruti Suzuki,Eeco,105000.0,Automatic,second,Hybrid/CNG,14
+Maruti Suzuki,Ignis,53000.0,Automatic,first,Petrol,9
+Maruti Suzuki,Swift,99000.0,Manual,second,Diesel,16
+Hyundai,i10,95000.0,Automatic,second,Petrol,17
+Hyundai,Creta,118000.0,Automatic,second,Diesel,9
+Ford,Ecosport,78000.0,Manual,second,Diesel,11
+Force,Motors FM Trax Cruiser,270000.0,Manual,second,Diesel,8
+Maruti Suzuki,Wagon-R,53000.0,Automatic,first,hybrid,9
+Hyundai,Grand i10,61000.0,Automatic,first,Hybrid/CNG,11
+BMW,X1,63400.0,Automatic,second,Diesel,9
+Hyundai,Accent,85000.0,Manual,second,Petrol,22
+Maruti Suzuki,Ciaz,79000.0,Manual,first,Petrol,8
+Maruti Suzuki,Ciaz,49000.0,Automatic,first,Petrol,10
+Maruti Suzuki,Wagon-R,58000.0,Manual,first,Hybrid/CNG,12
+BMW,X1,134000.0,Automatic,second,Diesel,14
+Hyundai,i20,74000.0,Manual,first,Diesel,14
+Maruti Suzuki,Ertiga,100000.0,Manual,first,Diesel,14
+Fiat,Punto,69500.0,Manual,first,Diesel,14
+Hyundai,i10,46628.0,Manual,first,Petrol,13
+Toyota,Innova Crysta,188394.0,Automatic,first,Diesel,10
+Maruti Suzuki,Baleno,54000.0,Manual,first,Petrol,4
+Honda,City,79000.0,Manual,second,Petrol,16
+Honda,City,68530.0,Manual,second,hybrid,15
+Hyundai,i10,70000.0,Automatic,first,Petrol,13
+Honda,City,45000.0,Automatic,first,Petrol,8
+Maruti Suzuki,Ertiga,75000.0,Automatic,first,hybrid,4
+Toyota,Innova Crysta,103000.0,Manual,second,Diesel,10
+Maruti Suzuki,Ciaz,88000.0,Manual,second,Petrol,11
+Toyota,Innova,135000.0,Manual,second,Diesel,13
+Maruti Suzuki,Ertiga,63000.0,Manual,second,Diesel,10
+Hyundai,Grand i10,65000.0,Automatic,first,hybrid,8
+Hyundai,Santro,35000.0,Automatic,first,hybrid,8
+Maruti Suzuki,Celerio,43000.0,Manual,first,Hybrid/CNG,9
+Mercedes-Benz,GLE Class,150000.0,Automatic,first,Diesel,9
+Maruti Suzuki,Vitara-Brezza,63000.0,Manual,first,Diesel,7
+Hyundai,Xcent,65000.0,Manual,first,Hybrid/CNG,11
+Volkswagen,VentoTest,90000.0,Manual,second,Diesel,15
+Maruti Suzuki,Swift Dzire,100000.0,Manual,second,Diesel,7
+Maruti Suzuki,Swift,60000.0,Automatic,second,Petrol,8
+Mahindra,Thar,51000.0,Automatic,second,Diesel,5
+Hyundai,Venue,100000.0,Manual,first,Diesel,7
+Maruti Suzuki,Eeco,85000.0,Manual,first,Hybrid/CNG,8
+Nissan,Sunny,96000.0,Manual,second,hybrid,13
+Honda,Brio,67000.0,Automatic,first,Petrol,12
+Kia,Sonet,9400.0,Manual,first,Petrol,2
+Maruti Suzuki,Ciaz,72000.0,Manual,first,Diesel,8
+Maruti Suzuki,Ertiga,39000.0,Manual,first,hybrid,4
+Mercedes-Benz,G Class,59000.0,Automatic,first,Petrol,7
+BMW,2 Series,2000.0,Automatic,first,Petrol,4
+Hyundai,Grand i10,58000.0,Automatic,first,Hybrid/CNG,11
+Maruti Suzuki,Vitara-Brezza,42000.0,Manual,first,Diesel,9
+Maruti Suzuki,Swift-Dzire,68000.0,Manual,first,Diesel,8
+Land Rover,Discovery,48000.0,Automatic,first,Diesel,7
+Nissan,Terrano,84000.0,Automatic,second,Diesel,9
+Toyota,Land Cruiser,120000.0,Automatic,second,Diesel,17
+Maruti Suzuki,Celerio,70000.0,Automatic,first,hybrid,12
+Maruti Suzuki,Baleno,31000.0,Manual,first,Petrol,6
+Tata,Harrier,7500.0,Manual,first,Diesel,3
+Maruti Suzuki,S-Presso,12000.0,Manual,first,Petrol,4
+Mercedes-Benz,GLS,9500.0,Automatic,first,Diesel,6
+Maruti Suzuki,Ritz,9000.0,Manual,second,Diesel,12
+Mercedes-Benz,CLA,54000.0,Automatic,second,Diesel,11
+Tata,Safari,30000.0,Manual,second,Diesel,5
+Skoda,Kushaq,16000.0,Manual,second,Petrol,3
+Maruti Suzuki,Swift Dzire,62000.0,Manual,second,Petrol,13
+Skoda,Rapid,80000.0,Automatic,first,Diesel,10
+Volkswagen,Polo,37000.0,Automatic,first,Petrol,11
+Volkswagen,Passat,90233.0,Manual,first,Diesel,13
+Audi,Q7,63000.0,Automatic,first,Diesel,10
+Audi,Q5,85000.0,Automatic,second,Diesel,14
+Maruti Suzuki,Alto-800,71000.0,Manual,first,Hybrid/CNG,12
+Hyundai,i20 Active,79000.0,Manual,second,Diesel,11
+Skoda,Kushaq,8000.0,Automatic,first,Petrol,4
+Maruti Suzuki,Wagon-R,20819.0,Automatic,first,Petrol,10
+Tata,Harrier,73000.0,Manual,first,Diesel,6
+Toyota,Fortuner,105000.0,Automatic,second,Diesel,8
+Maruti Suzuki,Vitara-Brezza,63000.0,Manual,first,Petrol,5
+Maruti Suzuki,Celerio,29000.0,Automatic,first,Petrol,4
+Tata,Nano Genx,6000.0,Automatic,first,Petrol,10
+Maruti Suzuki,Alto-800,50450.0,Manual,first,Hybrid/CNG,8
+Kia,Seltos,84000.0,Automatic,second,Petrol,7
+Hyundai,i10,53000.0,Manual,second,Hybrid/CNG,14
+Mahindra,XUV500,81000.0,Manual,first,Diesel,13
+Ford,Ecosport,33000.0,Automatic,first,Petrol,10
+Mahindra,XUV500,99000.0,Automatic,first,Diesel,7
+Hyundai,Creta,83000.0,Manual,first,Diesel,9
+Honda,City ZX,100000.0,Automatic,second,Hybrid/CNG,16
+Toyota,Innova,195000.0,Manual,second,Diesel,13
+Hyundai,i10,80091.0,Manual,first,Petrol,13
+BMW,5 Series,38000.0,Automatic,first,Diesel,7
+Toyota,Fortuner,40000.0,Automatic,first,Diesel,7
+Maruti Suzuki,Baleno,40000.0,Manual,first,Petrol,6
+Kia,Sonet,32000.0,Automatic,second,Diesel,6
+Honda,Amaze,60000.0,Manual,second,Hybrid/CNG,7
+Honda,City,85000.0,Automatic,second,Hybrid/CNG,16
+Maruti Suzuki,Alto-800,150000.0,Automatic,second,Petrol,11
+Nissan,Micra,75000.0,Automatic,second,Hybrid/CNG,9
+Tata,Altroz,38000.0,Manual,first,hybrid,6
+Maruti Suzuki,Alto-800,21000.0,Manual,first,Petrol,4
+Mercedes-Benz,GLS,100000.0,Automatic,first,Diesel,5
+Maruti Suzuki,Alto-800,60000.0,Manual,first,Petrol,10
+BMW,5 Series,18000.0,Automatic,first,Diesel,5
+Maruti Suzuki,Ertiga,1234.0,Manual,first,Hybrid/CNG,2
+Kia,Seltos,20890.0,Automatic,second,Petrol,4
+Tata,Indica Vista,100000.0,Automatic,second,Diesel,14
+Jeep,Compass,62000.0,Automatic,first,Petrol,9
+Maruti Suzuki,S-Cross1,87000.0,Manual,second,Diesel,8
+Maruti Suzuki,Swift-Dzire,147200.0,Automatic,second,Diesel,7
+Toyota,Fortuner,117000.0,Automatic,first,Petrol,7
+Maruti Suzuki,Wagon-R,80000.0,Automatic,first,Hybrid/CNG,11
+Tata,Nano,39000.0,Automatic,first,Petrol,10
+Hyundai,i20,50680.0,Manual,first,Diesel,12
+Hyundai,i10,105000.0,Manual,second,Petrol,18
+Hyundai,Grand i10,69000.0,Manual,first,Diesel,7
+Audi,A4,28000.0,Automatic,first,Petrol,4
+Hyundai,Grand i10,57000.0,Manual,second,Petrol,11
+Maruti Suzuki,Sx4,70680.0,Manual,second,Hybrid/CNG,15
+Maruti Suzuki,Swift-Dzire,139546.0,Manual,second,Diesel,10
+Hyundai,Verna,49500.0,Automatic,first,Petrol,6
+Maruti Suzuki,Wagon-R,60000.0,Manual,second,Hybrid/CNG,5
+Volvo,XC90,110000.0,Automatic,first,Diesel,8
+Maruti Suzuki,Swift-Dzire,72000.0,Automatic,first,Petrol,8
+Hyundai,i10,50000.0,Manual,second,hybrid,15
+Mahindra,Scorpio,203045.0,Manual,first,Diesel,18
+MG,ASTOR,63000.0,Automatic,first,Petrol,4
+Kia,Seltos,16000.0,Automatic,first,Petrol,6
+Maruti Suzuki,Omni,160000.0,Automatic,second,hybrid,16
+Maruti Suzuki,Ritz,82000.0,Manual,second,Petrol,15
+Hyundai,Verna,195000.0,Manual,second,Diesel,15
+Honda,City,67000.0,Automatic,second,Hybrid/CNG,11
+Hyundai,Grand i10,58000.0,Manual,second,hybrid,10
+Honda,City,28500.0,Automatic,second,Petrol,13
+Skoda,Rapid,78000.0,Automatic,first,Diesel,10
+Volkswagen,CrossPolo,40000.0,Manual,second,Diesel,11
+Hyundai,Creta,83000.0,Manual,first,Diesel,5
+Toyota,Innova Crysta,120000.0,Automatic,second,Diesel,10
+Maruti Suzuki,Baleno,63200.0,Automatic,second,Petrol,10
+Kia,Sonet,72000.0,Manual,first,Diesel,6
+BMW,X1,70000.0,Automatic,first,Diesel,14
+Maruti Suzuki,Eeco,55000.0,Manual,first,Hybrid/CNG,8
+Maruti Suzuki,Wagon-R,63000.0,Manual,second,Hybrid/CNG,7
+Tata,Altroz,14001.0,Automatic,second,Petrol,4
+Maruti Suzuki,Dzire,44000.0,Automatic,first,Petrol,4
+Maruti Suzuki,Swift,75000.0,Automatic,second,Petrol,15
+Honda,Brio,68569.0,Automatic,first,Petrol,12
+Mercedes-Benz,GLA,20500.0,Automatic,first,Petrol,4
+Mercedes-Benz,GL-Class,71700.0,Automatic,second,Diesel,11
+Tata,Tigor,52000.0,Automatic,first,Hybrid/CNG,7
+Maruti Suzuki,Celerio,44000.0,Automatic,first,Petrol,11
+Maruti Suzuki,Swift,68000.0,Automatic,second,Hybrid/CNG,15
+Hyundai,Creta,78000.0,Automatic,second,Petrol,9
+Skoda,Rapid,65000.0,Manual,first,Diesel,8
+Chevrolet,Sail,49500.0,Manual,second,Petrol,18
+Maruti Suzuki,Celerio,60000.0,Automatic,second,Hybrid/CNG,11
+Maruti Suzuki,Alto-K10,65321.0,Manual,first,Petrol,13
+Honda,Civic,35274.0,Automatic,second,Petrol,7
+Maruti Suzuki,maruti-suzuki-brezza,35000.0,Manual,first,Petrol,5
+Toyota,Innova,270000.0,Manual,second,Diesel,12
+Audi,A6,75000.0,Automatic,first,Diesel,11
+Maruti Suzuki,Ciaz,68650.0,Automatic,first,hybrid,8
+BMW,3 Series,30000.0,Automatic,first,Petrol,4
+Maruti Suzuki,Ignis,40000.0,Automatic,first,Hybrid/CNG,8
+Skoda,Rapid,34000.0,Automatic,first,Petrol,5
+Toyota,Corolla Altis,89000.0,Automatic,second,Hybrid/CNG,12
+Hyundai,Grand i10,59817.0,Manual,first,Hybrid/CNG,10
+Ford,Ecosport,52000.0,Automatic,first,hybrid,10
+Renault,Pulse,65000.0,Manual,first,Petrol,11
+BMW,X1,23010.0,Automatic,first,Diesel,12
+Honda,City ZX,85019.0,Manual,second,Hybrid/CNG,19
+Hyundai,i10,28.0,Automatic,second,Hybrid/CNG,17
+Mercedes-Benz,B Class,75000.0,Automatic,second,Diesel,12
+Maruti Suzuki,New-gen Swift,25.0,Automatic,second,hybrid,17
+Hyundai,Grand i10,37000.0,Automatic,second,Hybrid/CNG,12
+Mahindra,Scorpio,102000.0,Manual,first,Diesel,16
+Hyundai,Creta,45000.0,Automatic,first,hybrid,6
+Hyundai,Elite i20,140000.0,Manual,first,Diesel,11
+BMW,3 Series GT,60000.0,Automatic,second,Diesel,10
+Maruti Suzuki,Wagon-R,95000.0,Manual,second,Hybrid/CNG,14
+Maruti Suzuki,Ertiga,68000.0,Manual,second,hybrid,7
+Maruti Suzuki,Wagon-R,110000.0,Manual,second,Petrol,22
+Hyundai,Elite i20,38000.0,Manual,first,Petrol,6
+Hyundai,i20,95000.0,Manual,second,Hybrid/CNG,14
+Maruti Suzuki,Celerio,34000.0,Automatic,first,Petrol,10
+Toyota,Urban Cruiser Hyryder,16800.0,Automatic,second,hybrid,2
+Volkswagen,Vento,136000.0,Automatic,first,Diesel,10
+Hyundai,Eon,49000.0,Manual,first,Petrol,14
+Honda,City,105000.0,Automatic,first,Petrol,10
+Audi,A4,49000.0,Automatic,second,Petrol,15
+Volkswagen,Polo,90000.0,Manual,second,Diesel,14
+Hyundai,Creta,88000.0,Manual,second,Diesel,11
+Tata,Nano,98000.0,Automatic,first,Diesel,8
+Volkswagen,Polo,70000.0,Manual,second,Petrol,8
+Maruti Suzuki,Eeco,34309.0,Manual,second,Petrol,6
+Hyundai,Aura,37000.0,Manual,first,Petrol,6
+Honda,BRV,79000.0,Automatic,second,hybrid,9
+Kia,Seltos,45759.0,Automatic,first,Petrol,6
+BMW,3 Series GT,67772.0,Automatic,first,Diesel,12
+Mahindra,XUV500,17000.0,Manual,second,Diesel,11
+Skoda,Octavia,35000.0,Automatic,second,Petrol,7
+Mercedes-Benz,E-Class,68000.0,Automatic,second,Diesel,10
+Hyundai,i10,50000.0,Automatic,first,Hybrid/CNG,17
+Hyundai,Grand i10 Nios,10000.0,Automatic,first,Petrol,3
+Hyundai,Venue,78000.0,Manual,first,Diesel,11
+Mahindra,XUV 300,78000.0,Manual,first,Diesel,6
+Hyundai,i10,75000.0,Automatic,first,Petrol,15
+Audi,A6,52000.0,Automatic,second,Diesel,10
+Skoda,Octavia,82500.0,Automatic,second,Petrol,9
+Hyundai,Verna,93000.0,Manual,second,Diesel,12
+Mercedes-Benz,CLA,45000.0,Automatic,second,Diesel,7
+Honda,City,92000.0,Manual,first,Hybrid/CNG,16
+Hyundai,i20,49700.0,Manual,first,Petrol,9
+Hyundai,Verna,74000.0,Manual,second,Diesel,8
+Maruti Suzuki,Ertiga,63000.0,Manual,first,Hybrid/CNG,10
+Maruti Suzuki,maruti-suzuki-brezza,38000.0,Manual,first,Petrol,6
+Toyota,Etios,82000.0,Manual,second,Petrol,15
+Toyota,Innova Crysta,57000.0,Automatic,first,Diesel,7
+Mahindra,Scorpio,59642.0,Manual,first,Diesel,5
+Toyota,Glanza,51321.0,Manual,first,Petrol,4
+Maruti Suzuki,Brezza,,Automatic,first,Hybrid/CNG,3
+Land Rover,Freelander 2,110000.0,Automatic,second,Diesel,11
+Tata,Nexon,15147.0,Manual,first,Diesel,4
+Hyundai,Elantra,103000.0,Manual,second,Diesel,13
+Maruti Suzuki,Alto-K10,55000.0,Manual,first,Petrol,8
+Honda,Amaze,25000.0,Manual,first,Petrol,6
+Kia,Sonet,39000.0,Automatic,second,Petrol,6
+Datsun,Redi Go,47000.0,Automatic,first,Petrol,7
+Hyundai,i20 Active,63000.0,Manual,second,Hybrid/CNG,10
+Hyundai,Fluidic Verna,25000.0,Manual,first,Petrol,8
+Honda,Jazz,53000.0,Automatic,second,Petrol,8
+Honda,WRV,144000.0,Manual,first,Diesel,9
+Maruti Suzuki,Swift,69053.0,Manual,second,Petrol,9
+Hyundai,Verna,87000.0,Automatic,first,hybrid,14
+Maruti Suzuki,Ertiga,86000.0,Manual,second,Hybrid/CNG,12
+Maruti Suzuki,Alto,100000.0,Manual,second,Petrol,16
+Kia,Carnival,100000.0,Automatic,first,Diesel,5
+Maruti Suzuki,Ertiga,92000.0,Manual,first,Petrol,10
+Maruti Suzuki,Celerio X,35000.0,Manual,first,Hybrid/CNG,6
+Toyota,Innova Crysta,111000.0,Automatic,first,Diesel,5
+Hyundai,i10,70000.0,Automatic,second,Petrol,17
+Maruti Suzuki,Swift,19000.0,Manual,first,Petrol,9
+Hyundai,Elantra,53000.0,Automatic,first,Petrol,12
+Maruti Suzuki,Wagon-R,48000.0,Automatic,second,hybrid,5
+Volkswagen,Tiguan,31403.0,Automatic,second,Petrol,3
+Audi,A4,98000.0,Automatic,first,Diesel,9
+Tata,Nexon,62000.0,Automatic,second,Petrol,8
+Maruti Suzuki,Wagon-R-1-0,42000.0,Automatic,first,Hybrid/CNG,9
+Volkswagen,Polo,78000.0,Manual,first,Petrol,12
+Tata,Nexon,95000.0,Automatic,second,Petrol,8
+Maruti Suzuki,Swift-Dzire,109711.0,Manual,second,Hybrid/CNG,9
+Ford,Ecosport,75000.0,Manual,first,Diesel,12
+Maruti Suzuki,Swift-Dzire,69000.0,Manual,first,Petrol,4
+Mahindra,Bolero,82000.0,Manual,first,Diesel,8
+Honda,City,58000.0,Manual,second,hybrid,16
+Toyota,Corolla Altis,99000.0,Manual,first,Diesel,12
+Toyota,Fortuner,140000.0,Manual,second,Diesel,16
+Mercedes-Benz,GL-Class,92203.0,Automatic,second,Diesel,13
+Maruti Suzuki,Vitara-Brezza,53200.0,Automatic,first,Diesel,8
+Tata,Indica V2,150000.0,Manual,second,Diesel,16
+Maruti Suzuki,Swift,72782.0,Manual,first,Petrol,5
+BMW,X3,80000.0,Automatic,second,Diesel,7
+Honda,City,100000.0,Automatic,second,hybrid,12
+Mercedes-Benz,GLC,80000.0,Automatic,second,Petrol,7
+Maruti Suzuki,Baleno,35000.0,Automatic,first,Petrol,7
+Maruti Suzuki,Swift,75000.0,Manual,second,hybrid,16
+Maruti Suzuki,Swift-Dzire,78000.0,Automatic,second,Petrol,9
+Mahindra,Bolero,200000.0,Automatic,second,Diesel,16
+Tata,Safari,54000.0,Automatic,first,Diesel,5
+Toyota,Corolla,65000.0,Manual,first,Petrol,12
+Mini,3 DOOR,39000.0,Automatic,second,Petrol,7
+Toyota,Corolla Altis,115000.0,Automatic,second,Petrol,10
+Mahindra,Scorpio,145000.0,Manual,first,Diesel,17
+Hyundai,Eon,43000.0,Manual,second,Petrol,8
+Honda,City ZX,62000.0,Manual,second,Petrol,14
+Mercedes-Benz,GLS,28000.0,Automatic,first,Petrol,6
+Skoda,Kodiaq,90000.0,Automatic,first,Diesel,8
+Maruti Suzuki,XL6,86000.0,Automatic,first,Petrol,5
+Hyundai,Verna,65000.0,Manual,first,Petrol,13
+Maruti Suzuki,Wagon-R,1750.0,Automatic,first,hybrid,2
+Ford,Ecosport,43000.0,Automatic,second,Petrol,7
+Tata,Tiago,3000.0,Automatic,first,Hybrid/CNG,2
+Maruti Suzuki,Celerio,85000.0,Manual,first,Hybrid/CNG,8
+Maruti Suzuki,Grand Vitara,12000.0,Automatic,first,hybrid,2
+Maruti Suzuki,Wagon-R,75000.0,Manual,second,hybrid,9
+Toyota,Camry,43000.0,Automatic,first,hybrid,7
+Maruti Suzuki,Ciaz,34358.0,Manual,first,Petrol,9
+Tata,Safari,46000.0,Automatic,first,Diesel,4
+Maruti Suzuki,Wagon-R,55000.0,Automatic,second,Petrol,10
+Maruti Suzuki,Baleno,75000.0,Automatic,second,Petrol,7
+Honda,City ZX,119000.0,Automatic,second,Hybrid/CNG,18
+Hyundai,Verna,145000.0,Manual,first,Diesel,7
+Maruti Suzuki,Swift-Dzire,3900.0,Automatic,first,Petrol,2
+BMW,3 Series GT,61000.0,Automatic,second,Diesel,11
+Hyundai,Creta,89000.0,Automatic,first,Diesel,4
+Maruti Suzuki,Vitara-Brezza,54900.0,Automatic,second,Diesel,7
+Maruti Suzuki,Wagon-R,35000.0,Automatic,first,Hybrid/CNG,3
+Maruti Suzuki,Ertiga,24000.0,Manual,first,Hybrid/CNG,3
+Datsun,GO,100000.0,Manual,first,hybrid,10
+Jeep,Compass,69000.0,Manual,first,Diesel,8
+Maruti Suzuki,Swift,5000.0,Automatic,first,Hybrid/CNG,3
+Hyundai,Xcent,57101.0,Automatic,second,Hybrid/CNG,10
+Hyundai,Aura,43000.0,Automatic,first,Hybrid/CNG,5
+Mahindra,XUV500,114000.0,Manual,second,Diesel,9
+Maruti Suzuki,Vitara Brezza,113000.0,Manual,second,Diesel,9
+Maruti Suzuki,Wagon R,60000.0,Manual,first,Petrol,14
+Toyota,Innova Crysta,8000.0,Automatic,first,Diesel,4
+Maruti Suzuki,XL6,13000.0,Automatic,first,Petrol,4
+Honda,City,128000.0,Manual,second,Petrol,14
+Maruti Suzuki,Swift,37000.0,Automatic,second,Petrol,3
+Maruti Suzuki,Swift-Dzire,86000.0,Automatic,second,Diesel,9
+Hyundai,Grand i10,92000.0,Manual,second,Petrol,12
+Maruti Suzuki,Wagon-R,150000.0,Automatic,first,Hybrid/CNG,10
+Honda,Amaze,120000.0,Manual,second,Petrol,7
+Mercedes-Benz,CLA,38000.0,Automatic,first,Diesel,9
+Hyundai,i10,69298.0,Manual,second,Petrol,15
+Hyundai,Creta,54000.0,Automatic,first,Diesel,9
+BMW,X1,90000.0,Automatic,second,Diesel,7
+Maruti Suzuki,Ertiga,33000.0,Manual,first,hybrid,6
+Renault,Duster,102500.0,Automatic,second,Diesel,9
+Hyundai,Creta,48000.0,Manual,first,Diesel,4
+Volkswagen,VentoTest,69000.0,Automatic,second,Petrol,11
+Honda,CRV,87210.0,Automatic,second,Petrol,19
+Tata,Nano Genx,58.0,Automatic,second,Petrol,10
+Maruti Suzuki,Omni,,Manual,second,Hybrid/CNG,18
+Audi,Q7,99000.0,Automatic,first,Diesel,9
+Toyota,Innova Crysta,38000.0,Automatic,second,Petrol,5
+Kia,Seltos,46000.0,Manual,first,Petrol,6
+Maruti Suzuki,Alto K10,62956.0,Manual,first,Petrol,8
+Maruti Suzuki,Vitara-Brezza,32000.0,Manual,first,Hybrid/CNG,4
+Kia,Seltos,48000.0,Manual,second,Diesel,4
+Mahindra,KUV 100,107000.0,Manual,first,Diesel,10
+Volvo,XC60,55000.0,Automatic,first,Diesel,6
+Kia,Seltos,76000.0,Automatic,first,Petrol,6
+Kia,Carnival,25000.0,Automatic,second,Diesel,4
+Toyota,2.8 Legender 4X2,63000.0,Automatic,first,Diesel,5
+Citroen,C5 Aircross,41000.0,Automatic,first,Diesel,5
+Volkswagen,Taigun,59084.0,Automatic,first,Petrol,5
+Toyota,Innova Hycross,1.0,Automatic,first,hybrid,2
+Skoda,Octavia,30000.0,Automatic,first,Petrol,9
+Honda,Brio,53000.0,Automatic,second,Petrol,11
+Volkswagen,Ameo,48000.0,Manual,first,Petrol,7
+Maruti Suzuki,S-Presso,55192.0,Manual,first,hybrid,4
+Maruti Suzuki,Baleno,27164.0,Automatic,first,Hybrid/CNG,3
+Maruti Suzuki,Wagon-R,75000.0,Automatic,first,hybrid,13
+Toyota,Corolla,80000.0,Automatic,first,Hybrid/CNG,19
+Maruti Suzuki,Ertiga,42000.0,Manual,second,Petrol,13
+Maruti Suzuki,Alto-800,11200.0,Manual,first,Petrol,3
+Ford,Endeavour,78000.0,Automatic,first,Diesel,9
+Honda,Jazz,90000.0,Automatic,second,Petrol,10
+Maruti Suzuki,maruti-suzuki-dzire,34000.0,Manual,first,Petrol,8
+Hyundai,Venue,32000.0,Manual,first,Petrol,4
+Tata,Sumo Gold,100000.0,Automatic,second,Diesel,13
+Honda,WR-V,68000.0,Manual,first,Diesel,5
+Hyundai,Creta,95000.0,Manual,first,Diesel,8
+Maruti Suzuki,Swift,55000.0,Automatic,second,Petrol,8
+Toyota,Fortuner,195000.0,Automatic,second,Diesel,12
+Volvo,XC60,105000.0,Automatic,second,Diesel,15
+Hyundai,Eon,63000.0,Manual,first,Petrol,12
+Maruti Suzuki,Eeco,58000.0,Manual,first,Hybrid/CNG,12
+Hyundai,Grand i10 Nios,20000.0,Manual,second,Petrol,6
+Toyota,Etios,105000.0,Manual,second,Diesel,7
+Honda,Amaze,55000.0,Manual,first,Petrol,9
+Hyundai,Elite i20,38000.0,Manual,second,Petrol,11
+Toyota,Innova Crysta,99500.0,Automatic,second,Diesel,8
+Hyundai,Santro Xing,95000.0,Manual,first,Petrol,19
+Hyundai,Elantra,62000.0,Manual,second,Diesel,7
+Volkswagen,VentoTest,55000.0,Manual,first,Diesel,9
+Land Rover,Range Rover Evoque,11264.0,Automatic,first,Diesel,6
+Volkswagen,Jetta,74000.0,Manual,first,Diesel,13
+Honda,City,0.0,Automatic,second,hybrid,15
+Ford,Endeavour,62000.0,Automatic,first,Diesel,8
+Hyundai,Creta,123000.0,Automatic,first,Petrol,6
+Maruti Suzuki,Eeco,98656.0,Manual,second,Hybrid/CNG,9
+Maruti Suzuki,Wagon-R,130000.0,Automatic,first,hybrid,9
+Maruti Suzuki,Wagon-R,90000.0,Manual,second,Petrol,15
+Hyundai,i20,70000.0,Manual,second,Diesel,12
+Honda,Amaze,84999.0,Manual,second,Hybrid/CNG,12
+Mahindra,XUV500,59000.0,Automatic,second,Diesel,7
+Maruti Suzuki,Wagon-R,52300.0,Manual,first,Hybrid/CNG,6
+Maruti Suzuki,Ritz,82000.0,Manual,second,Petrol,11
+Maruti Suzuki,Ertiga,72000.0,Manual,first,Hybrid/CNG,7
+Hyundai,Grand i10 Nios,60000.0,Automatic,second,hybrid,11
+Skoda,Fabia,80000.0,Manual,first,Diesel,14
+Maruti Suzuki,Wagon-R-1-0,33177.0,Automatic,first,Petrol,7
+Maruti Suzuki,Swift-Dzire,67000.0,Manual,first,hybrid,3
+Maruti Suzuki,Wagon-R,71000.0,Automatic,second,hybrid,8
+Ford,Ecosport,87000.0,Manual,second,Diesel,13
+Maruti Suzuki,Swift-Dzire,67000.0,Manual,second,Petrol,11
+Hyundai,Grand i10 Nios,89524.0,Manual,second,hybrid,5
+Toyota,VELLFIRE,30000.0,Automatic,first,Petrol,5
+Hyundai,Creta,57000.0,Automatic,first,Diesel,8
+Toyota,Corolla Altis,106000.0,Automatic,second,Hybrid/CNG,13
+Volkswagen,Polo,30000.0,Automatic,first,Petrol,5
+Maruti Suzuki,Alto-800,44000.0,Manual,second,Petrol,10
+Maruti Suzuki,Eeco,82000.0,Automatic,second,Hybrid/CNG,8
+Tata,Nano,29.0,Automatic,second,Petrol,15
+Maruti Suzuki,Alto-K10,82000.0,Manual,first,Petrol,15
+Renault,Duster,52000.0,Manual,first,Diesel,11
+Nissan,PATROL,35000.0,Manual,first,Petrol,7
+Toyota,Corolla Altis,95000.0,Automatic,second,Petrol,17
+Hyundai,Elantra,36380.0,Automatic,first,Petrol,4
+Mahindra,Nuvosport,106000.0,Automatic,second,Diesel,10
+Maruti Suzuki,Wagon-R-1-0,41258.0,Manual,second,Hybrid/CNG,10
+Mahindra,Bolero,102100.0,Manual,first,Diesel,8
+Hyundai,Santa Fe,64000.0,Automatic,first,Diesel,10
+Maruti Suzuki,Swift,68364.0,Manual,first,Petrol,8
+Hyundai,Eon,27000.0,Manual,second,Petrol,9
+Toyota,Etios,355000.0,Manual,first,hybrid,13
+Maruti Suzuki,Baleno,75000.0,Manual,second,Diesel,10
+Hyundai,Grand i10,58000.0,Manual,second,Hybrid/CNG,11
+Tata,Nexon,53840.0,Manual,first,Petrol,8
+Maruti Suzuki,Ignis,46000.0,Automatic,first,Petrol,9
+Mercedes-Benz,C-Class,61000.0,Automatic,first,Diesel,11
+Mercedes-Benz,E-Class,34000.0,Automatic,first,Diesel,11
+Ford,Figo Aspire,61101.0,Manual,second,Petrol,9
+Hyundai,i10,57000.0,Automatic,second,hybrid,16
+Hyundai,Aura,68000.0,Manual,first,hybrid,4
+Maruti Suzuki,maruti-suzuki-dzire,62000.0,Automatic,first,Petrol,9
+Hyundai,Santa Fe,64200.0,Automatic,first,Diesel,10
+Maruti Suzuki,Wagon-R,53000.0,Automatic,first,Hybrid/CNG,9
+Maruti Suzuki,Swift-Dzire,95000.0,Automatic,first,hybrid,7
+Maruti Suzuki,Ertiga,74000.0,Manual,first,Hybrid/CNG,9
+Chevrolet,Spark,72429.0,Manual,second,Petrol,16
+Toyota,Innova,52600.0,Manual,first,Diesel,13
+Maruti Suzuki,Wagon-R,44000.0,Automatic,first,Hybrid/CNG,5
+Kia,Seltos,39000.0,Manual,first,Petrol,7
+Hyundai,Creta,68000.0,Automatic,first,Petrol,8
+Maruti Suzuki,Swift,62816.0,Automatic,first,Petrol,14
+Jeep,Meridian,30000.0,Automatic,first,Diesel,4
+Hyundai,i10,57765.0,Automatic,first,Petrol,14
+Jeep,Compass,62200.0,Automatic,second,Petrol,8
+Maruti Suzuki,Alto-800,74000.0,Manual,second,Petrol,8
+Toyota,Innova Crysta,90000.0,Automatic,first,Diesel,8
+Hyundai,i20,57000.0,Manual,second,Petrol,10
+Hyundai,Verna,72000.0,Automatic,first,Petrol,7
+Hyundai,Verna,81982.0,Automatic,first,Diesel,10
+Mahindra,XUV500,81453.0,Manual,first,Diesel,13
+Toyota,Innova Crysta,65000.0,Automatic,first,Diesel,7
+Hyundai,Santro Xing,100000.0,Automatic,first,hybrid,16
+Mahindra,XUV300,21000.0,Manual,second,Diesel,7
+Ford,Ecosport,40868.0,Automatic,first,Hybrid/CNG,7
+Honda,Amaze,52000.0,Manual,first,hybrid,7
+Jeep,Compass,52500.0,Automatic,second,Petrol,7
+Maruti Suzuki,Brezza,,Automatic,first,hybrid,3
+Hyundai,New Santro,110705.0,Automatic,second,Petrol,18
+BMW,M340i,9500.0,Automatic,second,Petrol,3
+Hyundai,i10,48000.0,Manual,second,hybrid,12
+Maruti Suzuki,Wagon-R,72000.0,Automatic,second,hybrid,6
+Toyota,Innova Crysta,118000.0,Automatic,second,Diesel,7
+Toyota,Fortuner,65000.0,Automatic,first,Diesel,5
+Volkswagen,VentoTest,62000.0,Automatic,second,Petrol,9
+Toyota,Innova Crysta,125000.0,Automatic,first,Diesel,10
+Hyundai,i10,86000.0,Automatic,second,Hybrid/CNG,16
+Maruti Suzuki,Wagon R,65000.0,Automatic,second,Petrol,10
+Tata,Safari Storme,75000.0,Manual,first,Diesel,9
+Maruti Suzuki,Wagon-R,85000.0,Manual,second,Hybrid/CNG,23
+Maruti Suzuki,Alto-K10,49000.0,Automatic,second,Petrol,8
+Toyota,Corolla Altis,76000.0,Automatic,first,Hybrid/CNG,13
+Hyundai,Creta,77971.0,Manual,first,Diesel,9
+Maruti Suzuki,Celerio,56000.0,Manual,second,Petrol,12
+Mercedes-Benz,GLE Class,18000.0,Automatic,second,Diesel,9
+Hyundai,Grand i10,62000.0,Manual,first,hybrid,7
+Chevrolet,Enjoy,85000.0,Manual,second,hybrid,13
+Maruti Suzuki,Swift,60000.0,Manual,first,Petrol,106
+Hyundai,Xcent,170000.0,Manual,second,Petrol,8
+Toyota,Fortuner,69000.0,Automatic,second,Diesel,13
+Mahindra,Bolero,8500.0,Manual,second,Diesel,5
+Maruti Suzuki,Alto-800,150000.0,Automatic,first,Hybrid/CNG,6
+Tata,Tiago,64000.0,Automatic,second,Petrol,5
+Maruti Suzuki,Swift,169000.0,Manual,second,Diesel,17
+Maruti Suzuki,Alto-K10,71000.0,Automatic,second,hybrid,15
+Mercedes-Benz,GLC Class,15650.0,Automatic,first,Petrol,5
+Maruti Suzuki,Alto-K10,135000.0,Automatic,first,Hybrid/CNG,11
+Skoda,Octavia,56644.0,Automatic,first,Petrol,7
+Maruti Suzuki,maruti-suzuki-dzire,83500.0,Automatic,first,Diesel,8
+Maruti Suzuki,Swift,56000.0,Manual,first,Hybrid/CNG,13
+Hyundai,Grand i10,88000.0,Automatic,second,Petrol,11
+Maruti Suzuki,Alto-K10,62000.0,Automatic,first,Hybrid/CNG,10
+Mitsubishi,Outlander,80000.0,Automatic,second,Petrol,16
+Hyundai,Grand i10,31000.0,Manual,second,Petrol,9
+Toyota,Corolla Altis,89000.0,Automatic,second,Hybrid/CNG,15
+Audi,A8,77665.0,Automatic,first,Diesel,15
+Honda,City,109000.0,Manual,second,Petrol,16
+Maruti Suzuki,Alto-K10,76000.0,Automatic,first,Petrol,11
+Maruti Suzuki,Swift-Dzire,45000.0,Automatic,first,Petrol,9
+Maruti Suzuki,Wagon-R-1-0,33232.0,Manual,first,hybrid,7
+Maruti Suzuki,Celerio,39000.0,Automatic,second,Petrol,8
+Kia,Seltos,31000.0,Automatic,first,Petrol,4
+Maruti Suzuki,Alto-K10,68000.0,Manual,second,Hybrid/CNG,11
+Jaguar,XF,98000.0,Automatic,first,Diesel,15
+Volvo,XC60,60000.0,Automatic,second,Diesel,8
+Honda,City ZX,89620.0,Automatic,first,Petrol,14
+Honda,City,21000.0,Manual,second,Petrol,4
+Toyota,Fortuner,86000.0,Automatic,second,Diesel,12
+Honda,City,59700.0,Automatic,second,Hybrid/CNG,9
+Hyundai,Grand i10,18000.0,Automatic,first,Petrol,9
+Audi,Q7,85000.0,Automatic,first,Diesel,9
+Maruti Suzuki,Alto-800,70000.0,Manual,second,Hybrid/CNG,12
+Hyundai,i10,60234.0,Manual,first,hybrid,10
+Hyundai,i10,69000.0,Manual,first,hybrid,15
+Hyundai,Elite i20,46000.0,Manual,second,Petrol,11
+Honda,City,91386.0,Automatic,second,Petrol,11
+Toyota,Innova Crysta,105000.0,Automatic,second,Diesel,7
+BMW,X1,29600.0,Automatic,first,Petrol,6
+Maruti Suzuki,Wagon-R,57000.0,Automatic,second,Hybrid/CNG,10
+Kia,Sonet,13000.0,Manual,first,Diesel,4
+Hyundai,Grand i10,74000.0,Manual,second,Petrol,12
+Toyota,Fortuner,168000.0,Automatic,first,Diesel,12
+Maruti Suzuki,Eeco,90000.0,Automatic,second,Hybrid/CNG,13
+Jeep,Compass,55000.0,Automatic,second,Petrol,9
+Audi,A6,89000.0,Automatic,first,Diesel,11
+Maruti Suzuki,Swift,16000.0,Automatic,first,Petrol,3
+Mercedes-Benz,E-Class,68000.0,Automatic,second,Petrol,13
+BMW,5 Series,69000.0,Automatic,second,Diesel,9
+Tata,tata-punch,46000.0,Manual,first,Petrol,5
+Mahindra,XUV500,55000.0,Manual,second,Diesel,11
+Maruti Suzuki,Alto-K10,50000.0,Automatic,first,hybrid,9
+Ford,Endeavour,60000.0,Automatic,first,Diesel,9
+Hyundai,Creta,24000.0,Automatic,second,Petrol,7
+Ford,Figo,44000.0,Automatic,second,Petrol,10
+MG,Hector Plus,45000.0,Manual,first,Diesel,4
+Toyota,Innova Crysta,174000.0,Automatic,second,Diesel,10
+Maruti Suzuki,Wagon-R,70000.0,Manual,second,Petrol,16
+Maruti Suzuki,Swift-Dzire-Tour,65300.0,Automatic,first,hybrid,4
+Renault,KWID,60000.0,Automatic,first,Petrol,8
+Audi,A3,64000.0,Automatic,second,Diesel,11
+Maruti Suzuki,Wagon-R-1-0,52000.0,Manual,first,Hybrid/CNG,6
+Maruti Suzuki,Omni,55846.0,Manual,second,Petrol,7
+Hyundai,Santro Xing,75000.0,Manual,first,Petrol,15
+Mercedes-Benz,GLA,60000.0,Automatic,second,Diesel,9
+Hyundai,Creta,90000.0,Automatic,first,Diesel,9
+BMW,5 Series,79000.0,Automatic,first,Diesel,15
+Audi,A4,124000.0,Automatic,second,Diesel,15
+Maruti Suzuki,Ignis,13000.0,Manual,second,Petrol,3
+Maruti Suzuki,Wagon-R,76000.0,Automatic,first,hybrid,9
+Mahindra,XUV500,86000.0,Automatic,second,Diesel,10
+Skoda,Superb,48500.0,Automatic,second,Petrol,11
+Hyundai,Verna,78000.0,Automatic,first,Hybrid/CNG,8
+Tata,Indigo Ecs,75945.0,Manual,second,Petrol,17
+Maruti Suzuki,800,34500.0,Manual,second,Petrol,12
+Fiat,Punto,89000.0,Manual,second,Diesel,11
+Hyundai,i20,62000.0,Manual,second,Petrol,10
+Honda,Amaze,82000.0,Automatic,first,Petrol,11
+Hyundai,Xcent,90000.0,Manual,second,Diesel,12
+Maruti Suzuki,Ertiga,105000.0,Manual,second,Diesel,9
+Toyota,Innova Crysta,25000.0,Automatic,first,Diesel,4
+Honda,Jazz,82000.0,Manual,second,hybrid,11
+Hyundai,Xcent,172000.0,Manual,second,Diesel,6
+Honda,CR-V,45000.0,Automatic,first,Petrol,19
+Ford,Ecosport,57000.0,Manual,first,Diesel,7
+Tata,Tiago,44118.0,Manual,first,Petrol,6
+Honda,Civic,10.0,Automatic,first,Hybrid/CNG,18
+Maruti Suzuki,XL6,70000.0,Manual,first,Petrol,6
+Maruti Suzuki,Eeco,19000.0,Manual,first,Petrol,4
+Maruti Suzuki,Celerio,51133.0,Manual,first,Hybrid/CNG,11
+Datsun,Redi Go,25902.0,Manual,second,Petrol,7
+Maruti Suzuki,Alto-K10,70000.0,Automatic,first,Petrol,13
+Honda,City,61000.0,Manual,second,Hybrid/CNG,9
+Maruti Suzuki,Ertiga,110000.0,Manual,second,Diesel,8
+Maruti Suzuki,Swift,68554.0,Manual,second,Diesel,13
+Hyundai,Grand i10 Nios,54000.0,Automatic,first,hybrid,6
+Volkswagen,Polo,29800.0,Automatic,second,Petrol,4
+Mahindra,XUV500,78000.0,Automatic,second,Diesel,8
+Hyundai,i10,79000.0,Manual,second,Petrol,15
+Honda,Accord,108000.0,Automatic,second,hybrid,14
+Mercedes-Benz,GLC Class,71000.0,Automatic,first,Petrol,9
+Tata,Harrier,31000.0,Automatic,first,Diesel,4
+Mercedes-Benz,E-Class,31000.0,Automatic,second,Diesel,8
+Maruti Suzuki,Ertiga,64000.0,Automatic,first,Hybrid/CNG,5
+Hyundai,Elite i20,40000.0,Manual,first,Petrol,9
+BMW,X1,70995.0,Automatic,second,Diesel,9
+Mercedes-Benz,C Class,117000.0,Automatic,first,Diesel,16
+Maruti Suzuki,Eeco,20000.0,Manual,first,Petrol,4
+Toyota,Corolla Altis,70000.0,Automatic,second,Petrol,12
+Toyota,Corolla,65000.0,Automatic,second,hybrid,21
+Mahindra,XUV700,27069.0,Manual,second,Diesel,4
+Honda,City,91000.0,Automatic,first,Petrol,22
+Tata,Harrier,67000.0,Manual,second,Diesel,7
+Hyundai,i10,67000.0,Automatic,second,Petrol,15
+Maruti Suzuki,Alto-800,115000.0,Manual,second,Petrol,12
+Volkswagen,VentoTest,70673.0,Automatic,first,Diesel,8
+Maruti Suzuki,Celerio,21062.0,Automatic,first,Petrol,4
+Hyundai,i20,72000.0,Automatic,second,Petrol,16
+Maruti Suzuki,Wagon-R,82000.0,Automatic,second,Hybrid/CNG,11
+Toyota,Innova Crysta,90000.0,Manual,second,Diesel,9
+Volkswagen,Polo,75000.0,Automatic,second,Petrol,10
+Maruti Suzuki,S-Presso,39000.0,Automatic,first,Petrol,5
+Toyota,Innova Crysta,97000.0,Manual,first,Diesel,7
+Mercedes-Benz,GLA Class,50000.0,Automatic,first,Diesel,11
+Mercedes-Benz,G Class,3500.0,Automatic,first,Diesel,2
+Hyundai,Creta,72000.0,Automatic,first,Diesel,10
+Maruti Suzuki,Swift-Dzire,60750.0,Automatic,second,hybrid,9
+Toyota,Fortuner,11000.0,Manual,first,Diesel,8
+Maruti Suzuki,Sx4,,Automatic,second,hybrid,16
+Honda,Civic,94000.0,Automatic,second,Petrol,19
+Mercedes-Benz,GL-Class,52300.0,Automatic,second,Diesel,12
+Honda,Amaze,68000.0,Automatic,first,Hybrid/CNG,8
+Hyundai,Creta,60000.0,Manual,second,Diesel,5
+Tata,Nexon,72000.0,Manual,first,Petrol,7
+Tata,Safari,85000.0,Manual,first,Diesel,15
+Maruti Suzuki,Ertiga,5000.0,Manual,first,Hybrid/CNG,2
+Mercedes-Benz,E-Class,130000.0,Automatic,first,Diesel,11
+Toyota,Innova,125000.0,Manual,first,Diesel,16
+Hyundai,i20,82000.0,Manual,second,Diesel,14
+Maruti Suzuki,Swift-Dzire,63000.0,Automatic,second,Hybrid/CNG,9
+Mini,Cooper Convertible,40000.0,Automatic,second,Petrol,8
+Maruti Suzuki,Eeco,72000.0,Manual,first,hybrid,5
+Hyundai,Creta,48000.0,Manual,first,Diesel,5
+Maruti Suzuki,Swift-Dzire,68000.0,Manual,first,hybrid,9
+Maruti Suzuki,Ciaz,58234.0,Manual,first,Diesel,9
+Tata,Nexon,105800.0,Automatic,first,Petrol,6
+Volkswagen,Virtus,25000.0,Manual,first,Petrol,4
+Maruti Suzuki,Wagon-R,62000.0,Manual,second,Petrol,8
+Maruti Suzuki,Wagon-R,14000.0,Automatic,first,hybrid,4
+Hyundai,Verna,70111.0,Manual,first,Diesel,8
+Maruti Suzuki,Eeco,36000.0,Manual,first,Petrol,5
+Volkswagen,VentoTest,79000.0,Manual,first,Petrol,8
+BMW,X5,70000.0,Automatic,second,Diesel,10
+Renault,Duster,80000.0,Manual,first,Diesel,10
+Mercedes-Benz,GLA Class,58000.0,Automatic,first,Diesel,10
+Toyota,Yaris,59000.0,Automatic,first,Petrol,7
+Honda,City,58000.0,Manual,first,Petrol,8
+Nissan,Sunny,70000.0,Automatic,second,Hybrid/CNG,12
+Hyundai,i20,1.0,Manual,second,Diesel,14
+Honda,CR-V,92000.0,Automatic,first,hybrid,14
+Toyota,Fortuner,150000.0,Automatic,first,Diesel,7
+Maruti Suzuki,Swift-Dzire,61000.0,Automatic,second,Hybrid/CNG,9
+Maruti Suzuki,Eeco,100212.0,Automatic,second,hybrid,14
+Skoda,Slavia,13000.0,Manual,first,Petrol,2
+Hyundai,i20 Active,69000.0,Manual,first,Petrol,9
+Maruti Suzuki,Wagon-R,89000.0,Automatic,first,hybrid,10
+Maruti Suzuki,Sx4,92000.0,Automatic,second,Petrol,17
+Maruti Suzuki,Wagon-R,85000.0,Manual,first,hybrid,6
+Nissan,Terrano,90000.0,Manual,first,Diesel,12
+Maruti Suzuki,Celerio,65000.0,Manual,first,hybrid,8
+Lexus,ES,38000.0,Automatic,second,Hybrid/CNG,4
+Honda,Brio,60000.0,Manual,first,hybrid,10
+Maruti Suzuki,Omni,200000.0,Automatic,first,Hybrid/CNG,12
+Honda,CRV,79000.0,Automatic,first,Petrol,9
+Maruti Suzuki,Swift,117000.0,Manual,second,Diesel,10
+Maruti Suzuki,Wagon-R,86000.0,Manual,second,hybrid,11
+Maruti Suzuki,Ignis,22000.0,Automatic,second,Petrol,8
+Toyota,Fortuner,277000.0,Manual,first,Diesel,11
+Maruti Suzuki,Ciaz,73000.0,Automatic,second,Petrol,7
+Maruti Suzuki,Sx4,82038.0,Manual,second,Petrol,19
+Maruti Suzuki,Ertiga,1930.0,Automatic,second,hybrid,9
+Ford,Figo,85000.0,Manual,second,Diesel,16
+Skoda,Rapid,65000.0,Manual,second,Petrol,7
+Nissan,Micra,78000.0,Automatic,second,Petrol,9
+MG,ASTOR,12110.0,Automatic,first,Petrol,5
+Maruti Suzuki,Ertiga,38500.0,Manual,second,Petrol,7
+Renault,KWID,35000.0,Automatic,second,Petrol,5
+Maruti Suzuki,Wagon-R,85000.0,Manual,first,Petrol,11
+Toyota,Fortuner,90220.0,Automatic,first,Diesel,12
+Hyundai,i10,68000.0,Automatic,second,Petrol,14
+Maruti Suzuki,Celerio,100000.0,Automatic,first,Petrol,9
+Maruti Suzuki,Ritz,152000.0,Manual,first,Petrol,16
+Mercedes-Benz,AMG A35,10000.0,Automatic,first,Petrol,3
+Maruti Suzuki,Brezza,70000.0,Manual,first,Hybrid/CNG,6
+Honda,Amaze,39000.0,Manual,second,Petrol,10
+Maruti Suzuki,Wagon-R,49000.0,Automatic,first,Petrol,6
+Kia,Sonet,68000.0,Manual,first,Diesel,4
+Hyundai,EON,89000.0,Manual,first,hybrid,13
+Maruti Suzuki,Eeco,15000.0,Automatic,first,Hybrid/CNG,4
+Maruti Suzuki,Eeco,63250.0,Manual,first,Hybrid/CNG,5
+Toyota,Innova Crysta,66000.0,Manual,first,Diesel,10
+Maruti Suzuki,Swift-Dzire,62000.0,Automatic,second,Petrol,8
+Toyota,Urban Cruiser,47448.0,Automatic,first,Petrol,4
+Tata,Harrier,20000.0,Automatic,first,Diesel,4
+Volkswagen,Polo,135500.0,Manual,second,Diesel,12
+Renault,Duster,45610.0,Automatic,first,Petrol,7
+Maruti Suzuki,Baleno,53000.0,Manual,second,Petrol,7
+Toyota,Innova Crysta,7500.0,Automatic,first,Diesel,5
+Maruti Suzuki,Swift,75000.0,Automatic,second,Diesel,8
+Maruti Suzuki,Wagon-R,7554.0,Automatic,first,Petrol,8
+Maruti Suzuki,Wagon-R,28000.0,Manual,second,Hybrid/CNG,14
+Hyundai,Getz,50000.0,Manual,second,Petrol,21
+Hyundai,Grand i10,59000.0,Automatic,second,Hybrid/CNG,11
+Maruti Suzuki,Swift-Dzire,63000.0,Automatic,first,hybrid,7
+Maruti Suzuki,Swift,27000.0,Automatic,first,Petrol,7
+Skoda,Rapid,150000.0,Automatic,second,Diesel,10
+Audi,A4,86000.0,Automatic,second,Diesel,15
+Maruti Suzuki,Ertiga,78000.0,Manual,second,hybrid,11
+Ford,Ecosport,58000.0,Manual,second,Petrol,6
+Jeep,Compass,61000.0,Manual,second,Diesel,9
+Toyota,Corolla,52000.0,Automatic,second,Petrol,18
+Renault,Triber,39000.0,Automatic,first,Petrol,5
+Maruti Suzuki,Swift,59000.0,Manual,second,Petrol,11
+Lexus,LX,27000.0,Automatic,second,Diesel,8
+BMW,3 Series,65000.0,Automatic,first,Diesel,16
+Nissan,Sunny,90000.0,Manual,second,Diesel,14
+Maruti Suzuki,Ertiga,59000.0,Manual,second,Diesel,10
+Mahindra,TUV,97333.0,Manual,first,Diesel,7
+Maruti Suzuki,Wagon-R,7500.0,Automatic,second,hybrid,13
+BMW,X1,81000.0,Automatic,second,Diesel,8
+Maruti Suzuki,Alto-800,75000.0,Automatic,first,Hybrid/CNG,9
+Mahindra,XUV500,25000.0,Manual,first,Diesel,7
+Mahindra,Xylo,115000.0,Manual,second,Diesel,15
+BMW,Z4,11000.0,Automatic,second,Petrol,6
+Renault,KWID,33000.0,Automatic,first,Petrol,9
+Maruti Suzuki,Baleno,17500.0,Automatic,first,Petrol,6
+Maruti Suzuki,Ritz,75000.0,Manual,first,Diesel,15
+Maruti Suzuki,A-Star,112000.0,Automatic,second,hybrid,15
+Jeep,Compass,51600.0,Manual,first,Diesel,9
+Honda,City,49000.0,Automatic,first,Petrol,7
+Mercedes-Benz,A Class,35000.0,Automatic,second,Diesel,12
+Maruti Suzuki,Baleno,29117.0,Manual,first,Petrol,8
+Hyundai,Grand i10,47000.0,Automatic,second,Petrol,12
+Skoda,Kushaq,38917.0,Manual,first,Petrol,4
+Maruti Suzuki,Ciaz,67000.0,Manual,second,Diesel,11
+Maruti Suzuki,Wagon-R,92000.0,Manual,first,Hybrid/CNG,12
+Renault,Duster,75000.0,Manual,second,Diesel,11
+Toyota,Fortuner,95000.0,Automatic,first,Diesel,7
+Maruti Suzuki,Baleno,32000.0,Automatic,first,Hybrid/CNG,9
+Nissan,Sunny,75000.0,Manual,first,Petrol,13
+Land Rover,Range Rover,48000.0,Automatic,first,Petrol,6
+Honda,City,52000.0,Automatic,second,Petrol,15
+Land Rover,Range Rover Evoque,37000.0,Automatic,second,Diesel,5
+Chevrolet,Enjoy,90000.0,Manual,second,Diesel,12
+Honda,City,68500.0,Manual,first,Petrol,8
+Maruti Suzuki,Ertiga,19925.0,Manual,first,hybrid,12
+Maruti Suzuki,Grand Vitara,1600.0,Manual,first,Petrol,2
+Hyundai,Xcent,82000.0,Manual,first,Petrol,9
+Volkswagen,VentoTest,52232.0,Automatic,second,Diesel,9
+Maruti Suzuki,Ciaz,61000.0,Automatic,second,hybrid,11
+Maruti Suzuki,Wagon-R,45000.0,Automatic,first,Petrol,10
+MG,Hector,24745.0,Automatic,second,Petrol,5
+Maruti Suzuki,Celerio,175001.0,Manual,second,hybrid,7
+Hyundai,i20,40000.0,Automatic,second,Petrol,8
+Volkswagen,Polo,42000.0,Manual,second,Petrol,5
+Hyundai,Xcent,172000.0,Manual,second,Diesel,6
+Maruti Suzuki,Celerio,9054.0,Manual,second,Petrol,4
+Skoda,Rapid,70000.0,Manual,second,Diesel,14
+Hyundai,Creta,44000.0,Automatic,first,Petrol,6
+Maruti Suzuki,Swift-Dzire,200000.0,Manual,second,Petrol,17
+Maruti Suzuki,Vitara-Brezza,88000.0,Manual,second,Diesel,10
+Renault,KWID,79000.0,Manual,second,Petrol,9
+Mercedes-Benz,C-Class,66000.0,Automatic,second,Diesel,10
+Maruti Suzuki,Alto-800,0.0,Manual,second,Petrol,15
+Maruti Suzuki,Eeco,720000.0,Manual,first,Hybrid/CNG,12
+Volkswagen,Passat,68900.0,Automatic,second,Diesel,14
+Renault,Triber,70000.0,Automatic,second,hybrid,7
+Maruti Suzuki,XL6,64000.0,Manual,first,Petrol,5
+Hyundai,Creta,84000.0,Manual,second,Diesel,8
+Chevrolet,Beat,75000.0,Manual,second,hybrid,16
+BMW,5 Series,11000.0,Automatic,first,Diesel,4
+Maruti Suzuki,Wagon-R,100000.0,Automatic,second,Hybrid/CNG,14
+Hyundai,Eon,60000.0,Manual,second,Petrol,11
+Honda,City,65234.0,Automatic,first,Petrol,8
+Maruti Suzuki,maruti-suzuki-dzire,25000.0,Automatic,first,Petrol,8
+Toyota,Innova Hycross,35000.0,Automatic,first,Petrol,4
+Ford,Ecosport,59460.0,Manual,first,Petrol,8
+Jeep,Compass,21000.0,Automatic,first,Diesel,4
+Hyundai,Elantra,85000.0,Automatic,second,hybrid,9
+Volkswagen,Polo,61000.0,Manual,second,Petrol,14
+Renault,KWID,33000.0,Automatic,second,Petrol,9
+Mahindra,Scorpio,190000.0,Manual,second,Diesel,16
+Hyundai,Xcent,85000.0,Manual,second,hybrid,8
+Tata,Tiago,2000.0,Automatic,first,Petrol,4
+Hyundai,i10,76000.0,Manual,first,Petrol,12
+Honda,Amaze,25000.0,Manual,first,Petrol,4
+Toyota,Innova Crysta,36000.0,Automatic,second,Diesel,6
+Mercedes-Benz,S-Class,58933.0,Automatic,second,Petrol,10
+Maruti Suzuki,Ciaz,50000.0,Automatic,first,Hybrid/CNG,8
+Maruti Suzuki,Estilo,99000.0,Manual,second,Hybrid/CNG,17
+Hyundai,Alcazar,47110.0,Manual,second,Diesel,4
+Toyota,Fortuner,11500.0,Automatic,first,Petrol,4
+Mahindra,E-20,46550.0,Automatic,first,Petrol,9
+Ford,Ecosport,91000.0,Automatic,second,hybrid,11
+Maruti Suzuki,Ritz,49000.0,Automatic,first,Petrol,11
+Maruti Suzuki,Celerio,60031.0,Manual,first,hybrid,6
+Maruti Suzuki,Vitara-Brezza,98250.0,Manual,second,Diesel,7
+BMW,5 Series,87000.0,Automatic,second,Diesel,12
+Honda,Jazz,68000.0,Manual,second,Diesel,11
+Volvo,S60,56000.0,Automatic,second,Diesel,13
+Maruti Suzuki,Baleno,78000.0,Manual,second,hybrid,10
+Honda,CRV,175000.0,Automatic,second,Petrol,11
+Honda,City,71000.0,Manual,second,Petrol,14
+Maruti Suzuki,Ignis,1800.0,Manual,first,Petrol,2
+Hyundai,Santro Xing,89000.0,Manual,second,Petrol,18
+Hyundai,Santro Xing,89288.0,Manual,first,Hybrid/CNG,13
+Mahindra,Marazzo,75000.0,Manual,second,Diesel,8
+Ford,Ecosport,69000.0,Manual,first,Diesel,10
+Hyundai,i20,72000.0,Manual,second,hybrid,15
+Hyundai,i20,127000.0,Automatic,second,hybrid,16
+Mercedes-Benz,GL-Class,115000.0,Automatic,second,Diesel,11
+Tata,tata-punch,50481.0,Automatic,first,Petrol,4
+Land Rover,Range Rover Sport,55000.0,Automatic,second,Diesel,7
+Maruti Suzuki,Eeco,130000.0,Automatic,first,hybrid,8
+Maruti Suzuki,Eeco,27000.0,Manual,second,Petrol,13
+Audi,A4,72000.0,Automatic,second,Diesel,11
+Honda,Jazz,68001.0,Manual,second,Petrol,11
+Maruti Suzuki,Dzire,15000.0,Automatic,first,Petrol,5
+Honda,City ZX,45000.0,Manual,first,Petrol,4
+Hyundai,Alcazar,24000.0,Automatic,first,Diesel,4
+Hyundai,i20,149175.0,Manual,second,Diesel,14
+Maruti Suzuki,Ciaz,81000.0,Automatic,second,Petrol,10
+MG,Hector,19000.0,Automatic,first,Petrol,4
+Mercedes-Benz,C-Class,59000.0,Automatic,second,Diesel,11
+Honda,Amaze,66000.0,Manual,second,Diesel,11
+Honda,City,79000.0,Automatic,second,Petrol,13
+Kia,Sonet,35000.0,Manual,first,Petrol,6
+Maruti Suzuki,Eeco,82000.0,Manual,first,hybrid,8
+Maruti Suzuki,Eeco,55000.0,Automatic,first,hybrid,6
+Toyota,Fortuner,120000.0,Automatic,second,Diesel,12
+Maruti Suzuki,Wagon-R,100000.0,Manual,second,hybrid,13
+Hyundai,i20,2300.0,Automatic,first,Petrol,2
+Hyundai,EON,33000.0,Manual,first,Petrol,8
+Maruti Suzuki,Ritz,92000.0,Manual,first,Diesel,13
+Maruti Suzuki,Baleno,100000.0,Manual,second,Diesel,9
+Maruti Suzuki,Swift,41000.0,Manual,first,Petrol,5
+Maruti Suzuki,Wagon-R-1-0,72000.0,Automatic,second,Hybrid/CNG,12
+Hyundai,Verna,52000.0,Manual,first,Diesel,13
+Maruti Suzuki,Ciaz,82000.0,Manual,second,Diesel,11
+Toyota,Etios,70000.0,Manual,first,Diesel,14
+Maruti Suzuki,Eeco,120000.0,Manual,second,hybrid,11
+Datsun,Redi Go,60000.0,Manual,first,Petrol,9
+Hyundai,Creta,40000.0,Manual,first,Petrol,6
+Chevrolet,Beat,112000.0,Manual,first,Diesel,13
+Hyundai,i20,25.0,Automatic,second,Diesel,11
+Hyundai,Santro,28000.0,Manual,first,Petrol,24
+Maruti Suzuki,Wagon-R,80000.0,Manual,second,hybrid,14
+Maruti Suzuki,Swift,45000.0,Manual,first,Hybrid/CNG,11
+Maruti Suzuki,Baleno,63100.0,Automatic,second,Petrol,10
+Maruti Suzuki,Swift,45000.0,Automatic,first,Petrol,8
+Toyota,Fortuner,68000.0,Automatic,first,Diesel,11
+Hyundai,Venue,28000.0,Automatic,first,Petrol,3
+Honda,Jazz,69000.0,Automatic,second,Petrol,11
+Maruti Suzuki,Swift,68000.0,Manual,second,hybrid,7
+Hyundai,i20,131000.0,Manual,second,Diesel,15
+Honda,Accord,83000.0,Automatic,second,hybrid,14
+Hyundai,Grand i10 Nios,13000.0,Automatic,first,Petrol,4
+Maruti Suzuki,Vitara-Brezza,156500.0,Manual,second,Diesel,9
+Hyundai,i20,94000.0,Manual,second,Diesel,14
+Hyundai,i10,58000.0,Manual,first,Petrol,15
+Renault,KWID,19308.0,Automatic,first,Petrol,8
+Toyota,Innova Crysta,188000.0,Manual,first,Diesel,8
+Tata,Harrier,47000.0,Automatic,first,Diesel,5
+Honda,Civic,82000.0,Manual,first,Petrol,15
+Maruti Suzuki,Baleno,65000.0,Automatic,second,Hybrid/CNG,9
+Ford,Figo,140000.0,Manual,first,Diesel,15
+Maruti Suzuki,Swift,140000.0,Manual,second,Diesel,13
+MG,Hector,43000.0,Automatic,first,Petrol,5
+Maruti Suzuki,Alto-K10,45000.0,Manual,first,Petrol,9
+Maruti Suzuki,Swift-Dzire,61000.0,Manual,second,Diesel,10
+Nissan,Micra,78000.0,Automatic,first,Petrol,9
+Hyundai,i20,90000.0,Automatic,second,hybrid,14
+Kia,Seltos,50693.0,Automatic,first,Petrol,6
+Hyundai,i20,68712.0,Manual,second,Petrol,10
+Hyundai,Grand i10,57000.0,Manual,second,hybrid,11
+BMW,X6,49000.0,Automatic,second,Petrol,11
+Maruti Suzuki,Swift-Dzire,96542.0,Automatic,second,Diesel,14
+Mercedes-Benz,E-Class,31300.0,Automatic,first,Petrol,16
+Maruti Suzuki,maruti-suzuki-dzire,115000.0,Automatic,first,Diesel,10
+Kia,Sonet,34000.0,Automatic,first,Diesel,5
+Maruti Suzuki,Alto-800,70000.0,Manual,second,Petrol,17
+BMW,5 Series,110000.0,Automatic,second,Diesel,12
+Toyota,Innova,145500.0,Manual,first,Diesel,11
+Tata,Nano Genx,28000.0,Manual,first,Petrol,14
+Hyundai,Grand i10,51000.0,Manual,first,Hybrid/CNG,8
+Ford,Figo,36000.0,Automatic,first,Diesel,12
+Maruti Suzuki,Grand Vitara,8400.0,Manual,first,Petrol,3
+Honda,Civic,10645.0,Manual,second,Petrol,19
+Toyota,Innova,125000.0,Manual,second,Diesel,12
+Maruti Suzuki,Swift-Dzire,300.0,Automatic,second,Hybrid/CNG,11
+Volkswagen,VentoTest,65000.0,Manual,first,Diesel,10
+Audi,Q3,55100.0,Automatic,second,Diesel,8
+Renault,KWID,42193.0,Automatic,second,Petrol,9
+Mercedes-Benz,GLC,15000.0,Automatic,first,Diesel,2
+Honda,City,66000.0,Automatic,first,Hybrid/CNG,14
+Renault,KWID,78000.0,Manual,second,Petrol,10
+Maruti Suzuki,S-Cross1,35000.0,Manual,first,Petrol,5
+Mahindra,XUV700,,Automatic,first,hybrid,3
+Maruti Suzuki,Alto-800,46000.0,Manual,first,hybrid,12
+Honda,City,65374.0,Automatic,second,Petrol,12
+Mercedes-Benz,C-Class,80000.0,Automatic,second,Petrol,5
+BMW,3 Series,72000.0,Automatic,second,Diesel,14
+Hyundai,Eon,41500.0,Manual,first,Petrol,12
+Maruti Suzuki,Wagon-R,92500.0,Automatic,second,hybrid,15
+Honda,BRV,85000.0,Manual,first,Diesel,8
+Honda,Jazz,59600.0,Manual,second,Petrol,14
+Maruti Suzuki,Wagon-R,80000.0,Automatic,first,Hybrid/CNG,4
+Hyundai,Verna,8499.0,Automatic,first,Petrol,2
+Chevrolet,Spark,38319.0,Manual,second,Petrol,18
+Maruti Suzuki,Eeco,66000.0,Manual,second,Hybrid/CNG,4
+Maruti Suzuki,800,48000.0,Automatic,second,Petrol,12
+Chevrolet,Spark,150000.0,Automatic,second,hybrid,15
+Hyundai,Grand i10,75000.0,Automatic,second,Hybrid/CNG,11
+Toyota,Fortuner,122000.0,Automatic,second,Diesel,9
+Renault,KWID,51000.0,Manual,first,Petrol,5
+Maruti Suzuki,maruti-suzuki-dzire,105000.0,Manual,second,Petrol,12
+Hyundai,Xcent Prime,105000.0,Automatic,second,Hybrid/CNG,8
+Volkswagen,VentoTest,110000.0,Automatic,second,Hybrid/CNG,15
+Hyundai,Eon,43000.0,Manual,second,Petrol,10
+Maruti Suzuki,Sx4,89000.0,Manual,second,Petrol,19
+Honda,City,54000.0,Manual,first,Petrol,10
+Nissan,Sunny,78000.0,Automatic,second,hybrid,10
+Hyundai,New i20,34500.0,Automatic,first,Petrol,5
+Skoda,Slavia,22940.0,Manual,first,Petrol,4
+Maruti Suzuki,Wagon-R,45000.0,Manual,first,hybrid,8
+Hyundai,Venue,83999.0,Automatic,first,Petrol,7
+Mahindra,Scorpio,90000.0,Automatic,second,Diesel,9
+Volkswagen,Polo,67500.0,Automatic,second,Petrol,10
+Hyundai,Creta,54121.0,Manual,first,Petrol,10
+Hyundai,Eon,63000.0,Manual,second,Petrol,9
+Honda,City,38000.0,Automatic,second,Petrol,8
+Maruti Suzuki,Wagon-R,68900.0,Manual,second,hybrid,10
+Maruti Suzuki,Vitara-Brezza,92000.0,Manual,first,Diesel,8
+Honda,City,81000.0,Manual,second,Petrol,16
+Kia,Sonet,50000.0,Automatic,first,Diesel,5
+Maruti Suzuki,Ertiga,98000.0,Manual,first,Hybrid/CNG,14
+Maruti Suzuki,Baleno,9000.0,Manual,first,Petrol,2
+Maruti Suzuki,Wagon-R,66000.0,Manual,first,Petrol,13
+Tata,Nexon,80000.0,Automatic,first,Diesel,8
+Maruti Suzuki,Ertiga,80000.0,Manual,first,Hybrid/CNG,6
+Toyota,Corolla Altis,82000.0,Manual,second,Petrol,9
+Maruti Suzuki,Alto-K10,35140.0,Automatic,first,Petrol,9
+Maruti Suzuki,Ignis,10000.0,Manual,first,Petrol,4
+Maruti Suzuki,Swift,87000.0,Automatic,second,Diesel,8
+Renault,KWID,17000.0,Manual,second,Petrol,10
+Hyundai,i20,45000.0,Manual,second,Petrol,16
+Maruti Suzuki,Wagon-R,95000.0,Manual,second,Hybrid/CNG,15
+Hyundai,i10,58000.0,Manual,second,hybrid,11
+Skoda,Kushaq,17694.0,Automatic,first,Petrol,3
+Maruti Suzuki,Wagon-R,68404.0,Automatic,second,Petrol,7
+Hyundai,i20,7700.0,Manual,first,Petrol,4
+Toyota,Fortuner,19000.0,Automatic,first,Diesel,3
+Ford,Figo,102500.0,Manual,first,Diesel,9
+Mercedes-Benz,GLA,25700.0,Automatic,first,Diesel,4
+Skoda,Superb,68000.0,Manual,second,Petrol,11
+Honda,Accord,87000.0,Automatic,second,Petrol,18
+Maruti Suzuki,Ertiga,81200.0,Manual,first,Hybrid/CNG,10
+Maruti Suzuki,Wagon-R-1-0,52000.0,Manual,first,hybrid,12
+Maruti Suzuki,Wagon-R-1-0,25000.0,Manual,second,Hybrid/CNG,4
+Tata,Curvv,22000.0,Automatic,second,Petrol,7
+Mercedes-Benz,E-Class,54000.0,Automatic,second,Petrol,14
+Maruti Suzuki,Celerio,49000.0,Automatic,first,Petrol,10
+Hyundai,i10,60000.0,Manual,first,Petrol,18
+Maruti Suzuki,Celerio,44000.0,Automatic,second,Petrol,9
+Mercedes-Benz,E-Class,60000.0,Automatic,second,Diesel,7
+Hyundai,Verna,80899.0,Manual,first,Diesel,6
+Tata,Sumo Grande MK II,42000.0,Manual,second,Diesel,13
+Maruti Suzuki,Wagon-R,84000.0,Manual,second,Petrol,12
+Maruti Suzuki,Ignis,75000.0,Automatic,first,hybrid,9
+Hyundai,Grand i10,50000.0,Manual,second,Petrol,8
+Mahindra,Bolero Neo,42000.0,Manual,first,Diesel,4
+Maruti Suzuki,Swift-Dzire,103000.0,Manual,second,Petrol,15
+Hyundai,i10,85000.0,Manual,second,hybrid,12
+Maruti Suzuki,Omni,80000.0,Manual,first,Hybrid/CNG,15
+Skoda,Rapid,98500.0,Manual,first,Diesel,9
+Maruti Suzuki,Ertiga,42000.0,Manual,first,hybrid,5
+Honda,Jazz,95000.0,Automatic,first,Hybrid/CNG,11
+Honda,City,25000.0,Automatic,second,Petrol,5
+Mercedes-Benz,GL-Class,70000.0,Automatic,second,Diesel,11
+Honda,Jazz,78000.0,Automatic,second,Petrol,9
+Maruti Suzuki,Sx4,68380.0,Manual,second,hybrid,15
+Volkswagen,Polo,18000.0,Automatic,first,Petrol,5
+Tata,Nano,72000.0,Manual,second,Hybrid/CNG,10
+Kia,Sonet,15000.0,Automatic,first,Petrol,4
+Maruti Suzuki,Swift,69300.0,Manual,first,Petrol,9
+Renault,KWID,17500.0,Automatic,first,Petrol,5
+Honda,Amaze,68000.0,Automatic,first,Hybrid/CNG,10
+Maruti Suzuki,Eeco,119000.0,Manual,first,hybrid,9
+Hyundai,Creta,50000.0,Automatic,first,Petrol,7
+Toyota,Innova,71000.0,Manual,second,Diesel,16
+Maruti Suzuki,Baleno,39500.0,Automatic,first,Petrol,10
+Maruti Suzuki,Ertiga,36232.0,Automatic,first,Petrol,6
+Maruti Suzuki,Alto,39000.0,Manual,first,Petrol,14
+Honda,City,86368.0,Automatic,second,hybrid,17
+Maruti Suzuki,Ertiga,42146.0,Manual,first,hybrid,6
+Maruti Suzuki,Eeco,6000.0,Manual,first,hybrid,3
+Kia,Sonet,37000.0,Automatic,first,Petrol,5
+Maruti Suzuki,Swift-Dzire,80000.0,Manual,second,Diesel,15
+Honda,City,71000.0,Manual,second,Petrol,11
+Renault,Duster,90000.0,Manual,first,Diesel,11
+Honda,City,74000.0,Manual,second,Petrol,16
+Maruti Suzuki,Ertiga,72000.0,Manual,second,Hybrid/CNG,8
+Maruti Suzuki,Wagon-R-1-0,82000.0,Automatic,first,hybrid,8
+Hyundai,Verna,51200.0,Automatic,second,Petrol,10
+Maruti Suzuki,Swift,44566.0,Manual,first,Petrol,6
+Ford,Figo,66000.0,Manual,second,Petrol,12
+Tata,Tiago,65000.0,Automatic,first,Hybrid/CNG,4
+Hyundai,Verna,57546.0,Automatic,first,Petrol,8
+Chevrolet,Spark,100000.0,Automatic,second,hybrid,14
+Mercedes-Benz,C-Class,68000.0,Automatic,second,Diesel,11
+Volvo,XC90,77643.0,Automatic,second,Diesel,9
+BMW,X1,90000.0,Automatic,second,Diesel,9
+Maruti Suzuki,Baleno,60000.0,Manual,first,Petrol,6
+Maruti Suzuki,Swift-Dzire,140000.0,Manual,second,Diesel,13
+Ford,Figo Aspire,38000.0,Automatic,second,Petrol,8
+Mahindra,XUV 300,83000.0,Automatic,first,Diesel,7
+Honda,City,65000.0,Manual,first,Petrol,12
+Hyundai,Creta,85000.0,Manual,first,Diesel,5
+Fiat,Punto EVO,86000.0,Manual,second,Diesel,11
+Hyundai,Verna,55000.0,Automatic,second,Petrol,10
+Maruti Suzuki,Wagon-R,110000.0,Automatic,second,hybrid,14
+Audi,Q7,87000.0,Automatic,second,Diesel,14
+Maruti Suzuki,Wagon-R,122000.0,Manual,second,Hybrid/CNG,11
+Renault,KWID,46608.0,Automatic,first,Petrol,5
+Maruti Suzuki,Baleno,52000.0,Manual,second,hybrid,7
+Hyundai,i10,64000.0,Automatic,second,Petrol,15
+Mercedes-Benz,C-Class,42000.0,Automatic,second,Petrol,9
+Tata,Nexon,82000.0,Manual,second,Diesel,7
+Honda,Amaze,50000.0,Manual,second,Diesel,5
+Toyota,Qualis,180000.0,Manual,second,Diesel,23
+Toyota,Etios Liva,40000.0,Manual,first,Petrol,10
+Hyundai,Creta,50000.0,Manual,first,Petrol,9
+Maruti Suzuki,Ertiga,62000.0,Manual,first,Hybrid/CNG,6
+Maruti Suzuki,Eeco,47000.0,Automatic,first,hybrid,3
+Volkswagen,Polo,35000.0,Automatic,first,Petrol,6
+Ford,Ecosport,50000.0,Automatic,second,Petrol,12
+BMW,3 Series GT,61000.0,Automatic,second,Diesel,11
+Hyundai,Grand i10 Nios,19500.0,Manual,second,Petrol,5
+Maruti Suzuki,Ritz,90000.0,Manual,second,hybrid,16
+Honda,Brio,68000.0,Manual,second,Petrol,14
+Maruti Suzuki,Wagon-R,35000.0,Manual,first,Petrol,8
+Hyundai,EON,62000.0,Manual,first,Petrol,8
+Hyundai,Grand i10 Nios,10000.0,Manual,second,Petrol,3
+Toyota,Fortuner,40000.0,Automatic,first,Diesel,3
+BMW,X1,49000.0,Automatic,first,Diesel,7
+Hyundai,New Santro,50000.0,Automatic,first,Hybrid/CNG,19
+Hyundai,Verna,70000.0,Automatic,first,Diesel,9
+Hyundai,Grand i10,39451.0,Automatic,second,Petrol,10
+Toyota,Fortuner,150000.0,Automatic,second,Diesel,11
+Honda,Brio,90000.0,Manual,first,Petrol,10
+Honda,City,93000.0,Automatic,second,Petrol,10
+Maruti Suzuki,Wagon-R,78000.0,Manual,second,Hybrid/CNG,14
+Lexus,ES,24000.0,Automatic,first,Petrol,4
+Maruti Suzuki,Ritz,88000.0,Manual,second,Diesel,14
+Maruti Suzuki,Eeco,72000.0,Automatic,first,Hybrid/CNG,8
+Honda,City,74000.0,Automatic,second,Petrol,9
+Maruti Suzuki,A-Star,60000.0,Automatic,second,Petrol,13
+Maruti Suzuki,Eeco,100000.0,Automatic,first,hybrid,15
+Hyundai,i20,65606.0,Manual,second,Hybrid/CNG,14
+Maruti Suzuki,XL6,11940.0,Automatic,first,hybrid,4
+Audi,A4,80000.0,Automatic,first,Diesel,12
+Toyota,Fortuner,100000.0,Manual,second,Diesel,8
+Honda,Jazz,100000.0,Automatic,second,Hybrid/CNG,9
+Mahindra,Bolero,130222.0,Manual,first,Diesel,11
+Toyota,Innova Crysta,89000.0,Automatic,second,Diesel,9
+Mercedes-Benz,GLC,102000.0,Automatic,first,Diesel,9
+Mahindra,Scorpio Classic,175000.0,Manual,second,Diesel,19
+Maruti Suzuki,Baleno,72000.0,Manual,first,Petrol,6
+Maruti Suzuki,Ertiga,90000.0,Manual,first,Diesel,7
+Mercedes-Benz,CLS-Class,64000.0,Automatic,second,Diesel,9
+Honda,Civic,98000.0,Automatic,second,Hybrid/CNG,18
+Maruti Suzuki,Wagon-R,57000.0,Automatic,first,Petrol,10
+Chevrolet,Spark,72000.0,Manual,second,Hybrid/CNG,15
+Mahindra,TUV,53000.0,Manual,second,Diesel,11
+Mercedes-Benz,M-Class,57000.0,Automatic,second,Diesel,13
+Hyundai,Grand i10 Nios,58241.0,Manual,first,Hybrid/CNG,5
+Mahindra,XUV500,99000.0,Manual,second,Diesel,13
+Honda,Amaze,96000.0,Automatic,second,Diesel,13
+Maruti Suzuki,Celerio,60000.0,Automatic,second,hybrid,11
+Tata,Harrier,9000.0,Automatic,first,Diesel,3
+BMW,X1,60000.0,Automatic,second,Diesel,7
+Maruti Suzuki,Ritz,100000.0,Manual,second,Diesel,15
+Mahindra,Thar,11000.0,Manual,second,Petrol,3
+Audi,A4,77000.0,Automatic,second,Diesel,11
+Volkswagen,VentoTest,100000.0,Manual,second,Diesel,14
+Chevrolet,Beat,105000.0,Manual,second,Diesel,14
+Hyundai,Venue,28000.0,Manual,first,Petrol,6
+Volkswagen,Polo,80000.0,Manual,second,Diesel,14
+Mahindra,XUV500,29000.0,Manual,second,Diesel,7
+Maruti Suzuki,Alto-K10,98000.0,Manual,second,Petrol,12
+Volkswagen,Polo,50000.0,Manual,first,Petrol,10
+Maruti Suzuki,Swift-Dzire,44197.0,Manual,second,Hybrid/CNG,8
+Maruti Suzuki,Swift,74000.0,Manual,first,hybrid,14
+Jeep,Wrangler,15000.0,Automatic,first,Petrol,4
+Volkswagen,Polo,49083.0,Automatic,first,Petrol,9
+Honda,Amaze,3900.0,Manual,second,Petrol,5
+Kia,Sonet,34000.0,Automatic,first,hybrid,5
+Maruti Suzuki,Vitara-Brezza,62000.0,Manual,first,Diesel,9
+Mahindra,XUV500,133000.0,Manual,second,Diesel,14
+Toyota,Fortuner,95000.0,Manual,second,Diesel,11
+Honda,Civic,90000.0,Automatic,second,hybrid,19
+Maruti Suzuki,S-Cross1,104000.0,Manual,second,Diesel,10
+Chevrolet,OptraSRV,90000.0,Manual,second,Petrol,20
+Toyota,Urban Cruiser Hyryder,9000.0,Automatic,first,hybrid,2
+Maruti Suzuki,Wagon-R,41069.0,Manual,first,Petrol,5
+Porsche,Cayenne,50000.0,Automatic,first,Hybrid/CNG,6
+Hyundai,Creta,54000.0,Automatic,first,Petrol,9
+Mahindra,Scorpio,86283.0,Manual,second,Diesel,14
+Toyota,Yaris,34750.0,Automatic,first,Petrol,7
+Hyundai,Verna,80000.0,Manual,second,Diesel,14
+Hyundai,Xcent,85600.0,Automatic,first,hybrid,12
+Hyundai,Creta,52000.0,Manual,first,Diesel,8
+Maruti Suzuki,Swift-Dzire,90000.0,Manual,second,Petrol,14
+Renault,Kiger,10800.0,Manual,first,Petrol,3
+Tata,Harrier,60000.0,Manual,second,Diesel,7
+Hyundai,i10,66000.0,Automatic,second,Petrol,17
+Maruti Suzuki,Wagon-R,51782.0,Automatic,first,hybrid,6
+Maruti Suzuki,Swift-Dzire,36.0,Automatic,first,hybrid,2
+Maruti Suzuki,Baleno,17532.0,Manual,first,Petrol,5
+Hyundai,Verna,68000.0,Manual,second,hybrid,13
+Audi,A3,95000.0,Automatic,first,Diesel,11
+Maruti Suzuki,Ertiga,46000.0,Automatic,first,Hybrid/CNG,4
+Tata,Indica Ev2,123000.0,Manual,second,Diesel,10
+Honda,City,99920.0,Automatic,second,Petrol,12
+Maruti Suzuki,Ritz,75000.0,Manual,second,Petrol,16
+Hyundai,Grand i10,34000.0,Automatic,second,Petrol,8
+Audi,A3,44000.0,Automatic,first,Diesel,12
+Ford,Aspire,44552.0,Manual,first,hybrid,8
+Mahindra,TUV,78000.0,Automatic,second,Diesel,10
+Maruti Suzuki,Celerio-X,80000.0,Automatic,second,hybrid,8
+Maruti Suzuki,Ritz,148000.0,Manual,second,Diesel,14
+Maruti Suzuki,Swift,7250.0,Manual,first,Petrol,2
+Maruti Suzuki,Wagon R,78000.0,Manual,second,hybrid,13
+Maruti Suzuki,Sx4,68535.0,Manual,second,hybrid,15
+Skoda,Slavia,18500.0,Automatic,first,Petrol,3
+Mahindra,Ssangyong Rexton,65000.0,Automatic,second,Diesel,13
+Maruti Suzuki,S-Cross,94000.0,Manual,first,Diesel,8
+Volkswagen,Polo,100000.0,Manual,second,Diesel,13
+Tata,Tiago,27000.0,Automatic,first,Hybrid/CNG,3
+Honda,WRV,88000.0,Manual,second,Diesel,9
+Volkswagen,Tiguan,45000.0,Automatic,second,Diesel,7
+Mahindra,XUV 300,17000.0,Manual,second,Petrol,5
+Hyundai,Xcent,130000.0,Manual,second,hybrid,6
+Hyundai,Venue,60000.0,Manual,first,Petrol,6
+Toyota,Innova Crysta,75000.0,Manual,first,Diesel,10
+Mini,Cooper,65000.0,Automatic,second,Diesel,13
+Hyundai,Venue,36639.0,Automatic,second,Petrol,7
+Maruti Suzuki,A-Star,98120.0,Manual,second,Petrol,16
+Tata,Altroz,20000.0,Automatic,first,Hybrid/CNG,3
+Maruti Suzuki,Swift,38000.0,Automatic,second,Petrol,8
+Maruti Suzuki,Swift-Dzire,120000.0,Automatic,second,Petrol,8
+Hyundai,i10,68000.0,Manual,first,Petrol,18
+Maruti Suzuki,Wagon R,68000.0,Manual,second,Hybrid/CNG,15
+Honda,Brio,32000.0,Manual,second,Petrol,12
+Ford,Endeavour,89000.0,Automatic,first,Diesel,9
+Hyundai,Xcent,112986.0,Manual,second,Hybrid/CNG,9
+Renault,Duster,75000.0,Automatic,second,Diesel,10
+Honda,CRV,113332.0,Automatic,second,Petrol,9
+Maruti Suzuki,Alto-K10,53646.0,Manual,second,Petrol,15
+Toyota,Innova,125000.0,Manual,second,Diesel,15
+Maruti Suzuki,Wagon-R,17000.0,Automatic,first,Petrol,3
+MG,Hector,61000.0,Automatic,first,Petrol,5
+Tata,Tiago,69000.0,Manual,first,hybrid,9
+Hyundai,i10,80000.0,Automatic,second,hybrid,16
+Maruti Suzuki,Swift,111702.0,Manual,second,Petrol,19
+Honda,City,58900.0,Automatic,first,Petrol,9
+Chevrolet,Beat,44500.0,Manual,first,Petrol,9
+Maruti Suzuki,Wagon-R,79.0,Manual,second,Petrol,15
+Hyundai,Grand i10 Nios,87500.0,Manual,first,Hybrid/CNG,5
+Honda,City,78560.0,Manual,second,hybrid,15
+Maruti Suzuki,Celerio,24853.0,Manual,first,hybrid,3
+Hyundai,Xcent,90000.0,Manual,first,Petrol,12
+Maruti Suzuki,Baleno,67000.0,Automatic,second,Petrol,8
+Hyundai,i20,26000.0,Automatic,second,Petrol,7
+Maruti Suzuki,Wagon-R,60000.0,Automatic,second,hybrid,12
+Renault,KWID,100000.0,Manual,second,Petrol,9
+Jaguar,XF,15000.0,Automatic,second,Diesel,7
+BMW,3 Series GT,89000.0,Automatic,first,Diesel,12
+Hyundai,Accent Hatchback,150000.0,Manual,first,Petrol,21
+Honda,City ZX,116000.0,Manual,first,Petrol,11
+Mahindra,Thar,26000.0,Manual,first,Diesel,3
+Renault,Triber,17000.0,Manual,first,Petrol,6
+Mercedes-Benz,GLS,54855.0,Automatic,first,Diesel,8
+Maruti Suzuki,Wagon-R,82000.0,Automatic,second,hybrid,9
+Toyota,Corolla Altis,60043.0,Automatic,second,Petrol,9
+Ford,Figo Aspire,45000.0,Manual,second,Petrol,10
+Honda,City,47000.0,Automatic,first,Petrol,7
+Chevrolet,Cruze,75000.0,Manual,second,Diesel,12
+Toyota,Innova,178000.0,Manual,second,Diesel,11
+Ford,Ecosport,418680.0,Automatic,first,Hybrid/CNG,7
+Ford,Ecosport,58000.0,Automatic,second,Petrol,11
+Tata,Indica,164278.0,Manual,second,Diesel,12
+Ford,Figo,74300.0,Automatic,first,hybrid,15
+Renault,Duster,110000.0,Automatic,first,Diesel,6
+Maruti Suzuki,Wagon-R,150000.0,Manual,second,hybrid,9
+Mercedes-Benz,C Class,57396.0,Automatic,second,Diesel,12
+Ford,Ecosport,152000.0,Manual,second,Diesel,9
+Maruti Suzuki,Eeco,68000.0,Manual,first,Petrol,14
+Tata,Tiago,84000.0,Automatic,first,hybrid,8
+Maruti Suzuki,Swift,113000.0,Manual,second,Diesel,15
+Toyota,Innova Crysta,120602.0,Manual,first,Diesel,6
+Hyundai,Aura,29000.0,Manual,first,Hybrid/CNG,6
+Mini,Cooper 3 DOOR,19500.0,Automatic,first,Petrol,5
+Toyota,Innova,175000.0,Manual,second,Diesel,15
+Hyundai,Creta,48000.0,Manual,second,Petrol,8
+Maruti Suzuki,S-Cross,87000.0,Manual,first,Diesel,11
+Honda,BRV,55000.0,Automatic,second,Petrol,10
+Nissan,Magnite,62000.0,Manual,first,Petrol,5
+Maruti Suzuki,Swift,65000.0,Automatic,second,Hybrid/CNG,17
+Mercedes-Benz,CLS-Class,82000.0,Automatic,second,Diesel,11
+Honda,Accord,58000.0,Automatic,second,Hybrid/CNG,16
+Mahindra,Marazzo,52000.0,Automatic,first,Diesel,6
+Hyundai,i10,117000.0,Manual,second,Petrol,17
+Maruti Suzuki,Baleno,66000.0,Automatic,second,hybrid,8
