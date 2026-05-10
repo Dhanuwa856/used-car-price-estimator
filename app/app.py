@@ -1,0 +1,155 @@
+import streamlit as st
+import pandas as pd
+import joblib
+import os
+
+# 1. Page Configuration
+st.set_page_config(
+    page_title="Used Car Price Predictor",
+    page_icon="🚘",
+    layout="centered"
+)
+
+
+# 2. Custom CSS for a Premium Theme-Aware UI
+st.markdown("""
+    <style>
+    /* Styling the main predict button */
+    .stButton>button {
+        background-color: var(--primary-color);
+        color: white;
+        border-radius: 8px;
+        height: 55px;
+        font-size: 20px;
+        font-weight: bold;
+        border: none;
+        transition: 0.3s;
+    }
+    .stButton>button:hover {
+        opacity: 0.8;
+        box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);
+    }
+
+    /* Styling the result card to adapt to Dark/Light mode */
+    .result-card {
+        padding: 25px;
+        background-color: var(--secondary-background-color);
+        border-radius: 12px;
+        box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+        text-align: center;
+        margin-top: 25px;
+        border-top: 5px solid var(--primary-color);
+    }
+    .price-title {
+        color: var(--text-color);
+        opacity: 0.7;
+        font-size: 18px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-bottom: 5px;
+    }
+    .price-value {
+        color: var(--primary-color);
+        font-size: 42px;
+        font-weight: 900;
+        margin: 0;
+    }
+    .disclaimer {
+        color: var(--text-color);
+        opacity: 0.5;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+# 3. Header Section
+st.title("🚘 AI Car Price Estimator")
+st.markdown("Enter the specifications of your used vehicle below to get an instant, AI-driven market valuation.")
+st.markdown("---")
+
+
+# 4. Load the Trained Model
+@st.cache_resource
+def load_model():
+    # Assuming you run the app from the root folder: streamlit run app/app.py
+    model_path = "models/xgboost_model.pkl"
+
+    if os.path.exists(model_path):
+        return joblib.load(model_path)
+    # Fallback if running directly inside the app folder
+    elif os.path.exists("../models/xgboost_model.pkl"):
+        return joblib.load("../models/xgboost_model.pkl")
+    else:
+        return None
+
+
+model = load_model()
+
+if model is None:
+    st.error("⚠️ Model file not found! Please ensure 'xgboost_model.pkl' is inside the 'models' directory.")
+else:
+    # 5. UI Layout (Input Form)
+    col1, col2 = st.columns(2)
+
+    with col1:
+        brand = st.selectbox("Vehicle Brand",
+                             ["Maruti", "Hyundai", "Toyota", "Honda", "Tata", "Ford", "Mahindra", "Volkswagen", "BMW",
+                              "Mercedes-Benz"])
+        model_name = st.text_input("Car Model", value="Swift", help="E.g., Swift, City, Innova")
+        transmission = st.selectbox("Transmission Type", ["Manual", "Automatic"])
+
+    with col2:
+        fuel_type = st.selectbox("Fuel Type", ["Petrol", "Diesel", "CNG", "LPG"])
+        owner = st.selectbox("Previous Owners", ["First Owner", "Second Owner", "Third Owner", "Fourth & Above Owner"])
+        car_age = st.number_input("Car Age (in Years)", min_value=0, max_value=30, value=5)
+
+    st.markdown("<br>", unsafe_allow_html=True)
+    km_driven = st.number_input("Total Kilometers Driven", min_value=0, max_value=300000, value=50000, step=1000)
+
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    # 6. Prediction Button & Logic
+    if st.button("Generate Market Valuation", use_container_width=True):
+
+        # Prepare the exact DataFrame structure our model expects
+        input_data = pd.DataFrame({
+            'Brand': [brand],
+            'model': [model_name],
+            'Transmission': [transmission],
+            'Owner': [owner],
+            'FuelType': [fuel_type],
+            'kmDriven': [float(km_driven)],
+            'Car_Age': [float(car_age)]
+        })
+
+        # Show a loading spinner for premium feel
+        with st.spinner("Analyzing market trends and processing features..."):
+            try:
+                # Get prediction from XGBoost
+                prediction = model.predict(input_data)[0]
+
+                # Prevent negative prices just in case
+                prediction = max(0, prediction)
+
+                # ඩොලර් අගය ගණනය කිරීම (1 USD = 83.5 INR ලෙස උපකල්පනය කර ඇත)
+                usd_prediction = prediction / 83.5
+
+                # Render the Beautiful Result Card
+                st.markdown(f"""
+                    <div class="result-card">
+                        <div class="price-title">Estimated Market Value</div>
+                        <div class="price-value">₹ {prediction:,.2f}</div>
+                        <div style="color: #00E676; font-size: 24px; font-weight: bold; margin-top: 10px;">
+                            ≈ $ {usd_prediction:,.2f} USD
+                        </div>
+                        <div class="disclaimer">
+                            *This valuation is generated by an XGBoost Machine Learning model based on historical vehicle data. Actual market prices may vary.
+                        </div>
+                    </div>
+                """, unsafe_allow_html=True)
+
+
+
+            except Exception as e:
+                st.error(f"An error occurred during estimation: {e}")
